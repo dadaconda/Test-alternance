@@ -49,5 +49,8 @@
   "enrichirDescription": true,
   "enrichMax": 70,
   "pagesMax": 4,
-  "pauseMs": 2000
+  "pauseMs": 2000,
+
+  "_comment_notion": "Base Notion 'SUIVI ALTERNANCE'. Renseigne NOTION_TOKEN dans .env (ou en secret) pour activer l'export. L'ID ci-dessous est celui de ta base d'equipe.",
+  "notionDbId": "3d16931b4a3180caa3e6e746be1bf446"
 }

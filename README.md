@@ -81,6 +81,23 @@ schtasks /Create /SC HOURLY /TN "Veille alternance finance" ^
   /TR "powershell -NoProfile -ExecutionPolicy Bypass -File \"%CD%\alternance.ps1\" -Quiet" /F
 ```
 
+## Export vers Notion — base d'équipe « SUIVI ALTERNANCE »
+
+Chaque exécution ajoute les offres trouvées dans ta base Notion (colonnes *Entreprise, Lieu,
+Offre (lien LinkedIn), Date de publication, 24 mois, Mot-clé finance, Source, Statut*).
+Pas de doublon : le bot lit d'abord les `ID LinkedIn` déjà présents.
+
+Mise en place (une fois) :
+
+1. <https://www.notion.so/profile/integrations> → **New integration** (type *Internal*), copie le secret.
+2. Ouvre la base **SUIVI ALTERNANCE** → menu `•••` → **Connexions** → ajoute ton intégration.
+3. `copy .env.example .env` puis renseigne `NOTION_TOKEN=...` (l'ID de la base est déjà dans `config.json`).
+
+En GitHub Actions : ajoute `NOTION_TOKEN` dans les *Secrets* du dépôt.
+
+Le bot écrit chaque offre avec le statut **À traiter** — tu fais avancer le reste à la main
+(À postuler → Candidature envoyée → Entretien…).
+
 ## Notifications Telegram (optionnel)
 
 `copy .env.example .env`, renseigne `TELEGRAM_BOT_TOKEN` et `TELEGRAM_CHAT_ID` :

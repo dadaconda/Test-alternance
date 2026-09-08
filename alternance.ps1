@@ -351,6 +351,63 @@ if ($env:TELEGRAM_BOT_TOKEN -and $env:TELEGRAM_CHAT_ID -and $new.Count -gt 0) {
   } catch { Write-Warning "Notification Telegram echouee : $_" }
 }
 
+# --------------------------------------------------------------------------------------
+# Export Notion (base "SUIVI ALTERNANCE") - optionnel
+# --------------------------------------------------------------------------------------
+$notionToken = $env:NOTION_TOKEN
+$notionDb    = if ($env:NOTION_DB_ID) { ($env:NOTION_DB_ID -replace '-', '') } elseif ($cfg.notionDbId) { ([string]$cfg.notionDbId -replace '-', '') } else { $null }
+
+if ($notionToken -and $notionDb) {
+  $nh = @{ Authorization = "Bearer $notionToken"; 'Notion-Version' = '2022-06-28' }
+  $dejaNotion = @{}
+  try {
+    $cursor = $null
+    do {
+      $qb = @{ page_size = 100 }
+      if ($cursor) { $qb['start_cursor'] = $cursor }
+      $qr = Invoke-RestMethod -Method Post -Uri "https://api.notion.com/v1/databases/$notionDb/query" `
+        -Headers $nh -ContentType 'application/json' -Body ($qb | ConvertTo-Json)
+      foreach ($row in $qr.results) {
+        $rt = $row.properties.'ID LinkedIn'.rich_text
+        if ($rt -and $rt.Count -gt 0) { $dejaNotion[[string]$rt[0].plain_text] = $true }
+      }
+      $cursor = if ($qr.has_more) { $qr.next_cursor } else { $null }
+    } while ($cursor)
+  } catch {
+    Write-Warning "Notion : lecture de la base impossible ($_). Verifie NOTION_TOKEN et le partage de la base avec l'integration."
+  }
+
+  $pushErr = $null
+  $pushed = 0
+  foreach ($o in $offers) {
+    if ($dejaNotion.ContainsKey([string]$o.id)) { continue }
+    $props = @{
+      'Nom'             = @{ title = @(@{ text = @{ content = ($o.intitule) } }) }
+      'Entreprise'      = @{ rich_text = @(@{ text = @{ content = ("$($o.entreprise)") } }) }
+      'Lieu'            = @{ rich_text = @(@{ text = @{ content = ("$($o.lieu)") } }) }
+      'Offre'           = @{ url = $o.url }
+      '24 mois'         = @{ checkbox = [bool]$o.duree24 }
+      'Mot-clé finance' = @{ rich_text = @(@{ text = @{ content = ("$($o.matchFinance)") } }) }
+      'Source'          = @{ select = @{ name = 'LinkedIn' } }
+      'Statut'          = @{ select = @{ name = 'À traiter' } }
+      'ID LinkedIn'     = @{ rich_text = @(@{ text = @{ content = ([string]$o.id) } }) }
+    }
+    if ($o.datePubliee) { $props['Date de publication'] = @{ date = @{ start = $o.datePubliee } } }
+    $body = @{ parent = @{ database_id = $notionDb }; properties = $props } | ConvertTo-Json -Depth 12
+    try {
+      Invoke-RestMethod -Method Post -Uri 'https://api.notion.com/v1/pages' -Headers $nh `
+        -ContentType 'application/json; charset=utf-8' -Body ([Text.Encoding]::UTF8.GetBytes($body)) | Out-Null
+      $pushed++
+      $dejaNotion[[string]$o.id] = $true
+      Start-Sleep -Milliseconds 350
+    } catch { $pushErr = "$_" }
+  }
+  if ($pushErr) { Write-Warning "Notion : au moins une offre n'a pas pu etre ajoutee ($pushErr)" }
+  if (-not $Quiet -and -not $Json) {
+    Write-Host ("  Notion 'SUIVI ALTERNANCE' : {0} offre(s) ajoutee(s)." -f $pushed) -ForegroundColor DarkGreen
+  }
+}
+
 if ($env:GITHUB_STEP_SUMMARY -and (Test-Path (Join-Path $dataDir 'latest.md'))) {
   Add-Content -Path $env:GITHUB_STEP_SUMMARY -Value (Read-Text (Join-Path $dataDir 'latest.md')) -Encoding UTF8
 }
