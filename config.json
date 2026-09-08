@@ -1,0 +1,41 @@
+{
+  "fenetreHeures": 24,
+  "dureeMoisCible": 24,
+  "dureeStricteParDefaut": false,
+
+  "naturesContrat": ["E2", "FS"],
+
+  "codesRome": ["C1201", "C1202", "M1201", "M1202", "M1204"],
+  "_commentaireRome": "C1201 Gestion de portefeuilles / C1202 Analyse de credit et risques bancaires / M1201 Analyse et ingenierie financiere / M1202 Audit et controle comptables et financiers / M1204 Controle de gestion",
+
+  "motsClesRequetes": [
+    "gestion des risques",
+    "analyste financier",
+    "risque de crédit",
+    "contrôle de gestion",
+    "analyse financière",
+    "conformité",
+    "audit financier",
+    "risque de marché",
+    "modélisation risques",
+    "reporting financier"
+  ],
+
+  "motsFinance": [
+    "financ", "risqu", " risk", "credit", "analyste", "analyse financ",
+    "controle de gestion", "controlling", "reporting", "tresorerie", "treasury",
+    "portefeuille", "investiss", "actuar", "conformite", "compliance", "kyc",
+    " lcb", " aml", " bale ", "solvab", "notation financiere", "scoring",
+    "asset management", "corporate finance", " m&a", "private equity",
+    "controle interne", "modelisation", "stress test", " var ", " alm ",
+    "back office", "middle office", "salle des marches", "gestion d actif",
+    "audit interne", "financement", "credit management", "recouvrement"
+  ],
+
+  "motsExclure": ["stagiaire", "stage conventionné", "service civique", "portage salarial"],
+
+  "departements": [],
+  "maxPages": 7,
+
+  "scope": "api_offresdemploiv2 o2dsoffre"
+}

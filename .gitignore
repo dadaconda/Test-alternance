@@ -1,0 +1,5 @@
+.env
+secrets.local.json
+.cache/
+/data/*
+!/data/.gitkeep
