@@ -357,7 +357,7 @@ if ($env:TELEGRAM_BOT_TOKEN -and $env:TELEGRAM_CHAT_ID -and $new.Count -gt 0) {
 $notionToken = $env:NOTION_TOKEN
 $notionDb    = if ($env:NOTION_DB_ID) { ($env:NOTION_DB_ID -replace '-', '') } elseif ($cfg.notionDbId) { ([string]$cfg.notionDbId -replace '-', '') } else { $null }
 
-if ($notionToken -and $notionDb) {
+if ($notionToken -and $notionDb -and -not $Demo) {
   $nh = @{ Authorization = "Bearer $notionToken"; 'Notion-Version' = '2022-06-28' }
   $dejaNotion = @{}
   try {
