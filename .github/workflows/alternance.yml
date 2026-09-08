@@ -1,8 +1,8 @@
-name: Veille alternance finance
+name: Veille alternance finance (LinkedIn)
 
 on:
   schedule:
-    - cron: '7 * * * *'        # toutes les heures ; la fenetre reste "24 h glissantes"
+    - cron: '17 */3 * * *'      # toutes les 3 h ; la fenetre reste "24 h glissantes"
   workflow_dispatch:
 
 permissions:
@@ -20,9 +20,8 @@ jobs:
 
       - name: Executer le bot
         shell: pwsh
+        continue-on-error: true      # LinkedIn peut bloquer l'IP du runner : on ne casse pas le workflow
         env:
-          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
-          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: pwsh -File ./alternance.ps1 -Quiet
@@ -31,6 +30,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f data/latest.md data/latest.json data/seen.json
+          git add -f data/latest.md data/latest.json data/seen.json 2>/dev/null || true
           git commit -m "Veille alternance $(date -u +'%Y-%m-%d %H:%M UTC')" || { echo "Rien a committer"; exit 0; }
           git push

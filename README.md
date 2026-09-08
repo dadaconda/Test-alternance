@@ -1,119 +1,98 @@
-# Veille alternance — Master Finance (risques / analyse financière)
+# Veille alternance — Master Finance (risques / analyse financière) — LinkedIn
 
-Bot qui va chercher **les offres d'alternance publiées dans les dernières 24 h** (fenêtre
-glissante) correspondant à un **Master Finance** : gestion des risques, analyse financière,
+Bot qui va chercher **sur LinkedIn** les offres d'**alternance publiées dans les dernières 24 h**
+(fenêtre glissante) pour un **Master Finance** : gestion des risques, analyse financière,
 contrôle de gestion, conformité, audit, trésorerie, marchés…
 
-- **Source** : API officielle *« Offres d'emploi v2 »* de **France Travail** — elle agrège
-  Pôle Emploi + la plupart des jobboards partenaires (Apec, HelloWork, Indeed, LinkedIn…).
-- **Contrats retenus** : apprentissage (`E2`) **et** professionnalisation (`FS`).
-- **Durée 24 mois** : repérée automatiquement (marqueur `24 mois OK`), ou filtre strict avec `-Strict`.
+- **Source** : endpoint public *jobs-guest* de LinkedIn — **aucun compte, aucune clé API**.
+- **Fenêtre 24 h** : filtre natif LinkedIn `f_TPR` (recalculé selon `-Since`).
+- **Alternance uniquement** + **finance uniquement** : filtres mots-clés (titre + description).
+- **Durée 24 mois** : repérée automatiquement (`24 mois OK`), ou filtre strict avec `-Strict`.
 - **Anti-doublon** : d'un passage à l'autre, seules les **nouvelles** offres sont mises en avant.
-- **Zéro dépendance** : un script PowerShell (déjà présent sur Windows). Rien à installer.
+- **Zéro dépendance / zéro config** : un script PowerShell, déjà présent sur Windows.
 
 ---
 
-## 1. Pré-requis : une clé API France Travail (gratuit, 2 min)
-
-1. Créer un compte sur <https://francetravail.io> → **« Mes applications »** → **Créer une application**.
-2. Dans l'application, **s'abonner à l'API « Offres d'emploi v2 »**.
-3. Noter l'**Identifiant client** et la **Clé secrète**.
-
-## 2. Installation en une commande
+## Installation + lancement — une commande
 
 ```bash
 git clone https://github.com/dadaconda/Test-alternance.git
 cd Test-alternance
-copy .env.example .env
+.\run.cmd
 ```
 
-Ouvre `.env` et colle tes identifiants :
+(sous PowerShell, le préfixe `.\` est obligatoire ; équivalent : `powershell -ExecutionPolicy Bypass -File alternance.ps1`)
 
-```
-FT_CLIENT_ID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-FT_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
-
-## 3. Lancer — LA commande
+Pour essayer immédiatement avec un jeu d'exemple hors-ligne :
 
 ```bash
-run.cmd
+.\run.cmd -Demo
 ```
 
-(équivalent : `powershell -ExecutionPolicy Bypass -File alternance.ps1`)
-
-Sortie : tableau dans le terminal + fichiers dans `data/` :
+Résultat : un tableau dans le terminal + des fichiers dans `data/` :
 
 | Fichier | Contenu |
 |---|---|
-| `data/latest.md` | Les offres, lisibles, avec liens |
-| `data/latest.json` | Les offres structurées (pour réutilisation) |
+| `data/latest.md` | Les offres, lisibles, avec liens LinkedIn |
+| `data/latest.json` | Les offres structurées |
 | `data/history.jsonl` | Journal de tous les passages |
-| `data/seen.json` | Mémoire des offres déjà vues (anti-doublon) |
+| `data/seen.json` | Mémoire anti-doublon |
 
 ### Options
 
 | Commande | Effet |
 |---|---|
-| `run.cmd` | Fenêtre 24 h, affiche les nouvelles offres |
-| `run.cmd -Since 48` | Fenêtre de 48 h |
-| `run.cmd -Strict` | Ne garde que les contrats explicitement **24 mois / 2 ans** |
-| `run.cmd -All` | Affiche toutes les offres de la fenêtre (pas seulement les nouvelles) |
-| `run.cmd -Departements "75,92,93,94"` | Restreint à des départements |
-| `run.cmd -Json` | Sortie JSON brute (pipeline / intégration) |
-| `run.cmd -Demo` | Démo hors-ligne avec un jeu d'exemple (aucune clé requise) |
+| `.\run.cmd` | Fenêtre 24 h, affiche les nouvelles offres |
+| `.\run.cmd -Since 48` | Fenêtre de 48 h |
+| `.\run.cmd -Strict` | Ne garde que les contrats explicitement **24 mois / 2 ans** |
+| `.\run.cmd -All` | Affiche toutes les offres de la fenêtre (pas seulement les nouvelles) |
+| `.\run.cmd -NoEnrich` | Plus rapide : ne télécharge pas le détail de chaque offre |
+| `.\run.cmd -Pages 6` | Va chercher plus de pages par requête (défaut 4) |
+| `.\run.cmd -Json` | Sortie JSON brute |
+| `.\run.cmd -Demo` | Démo hors-ligne |
 
-Essaie tout de suite sans clé :
+## Personnaliser la recherche — `config.json`
 
-```bash
-run.cmd -Demo
-```
+- `requetes` : liste `{ keywords, location }` envoyées à LinkedIn (mots-clés + lieu).
+- `motsAlternance` : termes qui prouvent que l'offre est en alternance.
+- `motsFinance` : termes qui qualifient une offre comme « finance » (titre **et** description).
+- `motsExclure` : termes qui écartent une offre.
+- `enrichirDescription` : `true` = ouvre chaque offre pour lire la description (meilleur tri
+  + détection « 24 mois »), au prix de requêtes supplémentaires.
+- `pagesMax`, `pauseMs`, `enrichMax` : volume et politesse des requêtes.
 
-## 4. Personnaliser la recherche
+## Automatiser
 
-Tout est dans [`config.json`](config.json) :
+### GitHub Actions (`.github/workflows/alternance.yml`)
 
-- `fenetreHeures` : taille de la fenêtre glissante (24 par défaut).
-- `codesRome` : codes métier ciblés (C1201, C1202, M1201, M1202, M1204).
-- `motsClesRequetes` : requêtes plein-texte lancées sur l'API.
-- `motsFinance` : mots-clés qui qualifient une offre comme « finance » (filtre côté client).
-- `motsExclure` : termes qui écartent une offre (ex. `stagiaire`).
-- `departements` : liste par défaut (vide = toute la France).
+S'exécute toutes les 3 h, recommit `data/latest.md`, affiche le résultat dans le résumé du job.
+Pousser le repo, activer *Settings → Actions → General → Workflow permissions → Read and write*.
 
-## 5. Automatiser (exécution planifiée)
+> ⚠️ LinkedIn bloque fréquemment les IP des serveurs GitHub. Le workflow ne casse pas en cas de
+> blocage (`continue-on-error`), mais **l'exécution en local (chez toi) est bien plus fiable**.
 
-### Option A — GitHub Actions (recommandé, tourne dans le cloud)
-
-Le workflow [`.github/workflows/alternance.yml`](.github/workflows/alternance.yml) s'exécute
-**toutes les heures**, recommite `data/latest.md` et affiche le résultat dans le résumé du job.
-
-1. Pousser le repo sur GitHub.
-2. **Settings → Secrets and variables → Actions** → ajouter `FT_CLIENT_ID` et `FT_CLIENT_SECRET`
-   (et éventuellement `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID`).
-3. **Settings → Actions → General → Workflow permissions** → *Read and write permissions*.
-4. Onglet **Actions** → *Veille alternance finance* → *Run workflow* pour un premier essai.
-
-### Option B — Planificateur de tâches Windows
+### Planificateur de tâches Windows
 
 ```powershell
 schtasks /Create /SC HOURLY /TN "Veille alternance finance" ^
   /TR "powershell -NoProfile -ExecutionPolicy Bypass -File \"%CD%\alternance.ps1\" -Quiet" /F
 ```
 
-## 6. Notifications Telegram (optionnel)
+## Notifications Telegram (optionnel)
 
-Renseigne `TELEGRAM_BOT_TOKEN` et `TELEGRAM_CHAT_ID` dans `.env` (ou en secrets GitHub) :
-à chaque passage, les **nouvelles** offres sont envoyées dans le chat.
-Token via [@BotFather](https://t.me/BotFather), `chat_id` via [@userinfobot](https://t.me/userinfobot).
+`copy .env.example .env`, renseigne `TELEGRAM_BOT_TOKEN` et `TELEGRAM_CHAT_ID` :
+les **nouvelles** offres sont poussées dans le chat à chaque passage.
 
 ---
 
 ### Notes
 
-- « 24 h glissantes » = `minCreationDate = maintenant − 24 h`, `maxCreationDate = maintenant`
-  (paramètres natifs de l'API). Relance le bot aussi souvent que tu veux : l'anti-doublon
-  évite de revoir les mêmes offres.
-- La détection « 24 mois » lit le titre + la description ; par défaut les offres sans durée
-  explicite sont **gardées** et marquées `durée à vérifier`. Utilise `-Strict` pour ne
-  garder que les 24 mois certains.
-- API France Travail : usage gratuit, ~1 M d'appels/mois, réservé à un usage non commercial.
+- Le bot lit l'endpoint **public** `linkedin.com/jobs-guest/...` (pages d'offres visibles sans
+  connexion). Reste raisonnable sur la fréquence : `pauseMs` impose une pause entre chaque requête.
+- Sans connexion, LinkedIn n'expose pas de filtre « type de contrat » : le tri alternance se fait
+  sur les mots-clés. Ajuste `motsFinance` / `motsExclure` dans `config.json` si le tri est trop
+  large ou trop strict.
+- La détection « 24 mois » lit titre + description ; par défaut les offres sans durée explicite
+  sont **gardées** et marquées `durée à vérifier`. `-Strict` ne garde que les 24 mois certains.
+- Si le bot ne renvoie rien et affiche un avertissement anti-robot : réessaie plus tard, ou
+  augmente `pauseMs`.

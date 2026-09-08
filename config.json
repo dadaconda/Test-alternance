@@ -3,23 +3,18 @@
   "dureeMoisCible": 24,
   "dureeStricteParDefaut": false,
 
-  "naturesContrat": ["E2", "FS"],
-
-  "codesRome": ["C1201", "C1202", "M1201", "M1202", "M1204"],
-  "_commentaireRome": "C1201 Gestion de portefeuilles / C1202 Analyse de credit et risques bancaires / M1201 Analyse et ingenierie financiere / M1202 Audit et controle comptables et financiers / M1204 Controle de gestion",
-
-  "motsClesRequetes": [
-    "gestion des risques",
-    "analyste financier",
-    "risque de crédit",
-    "contrôle de gestion",
-    "analyse financière",
-    "conformité",
-    "audit financier",
-    "risque de marché",
-    "modélisation risques",
-    "reporting financier"
+  "requetes": [
+    { "keywords": "alternance finance",             "location": "France" },
+    { "keywords": "alternance gestion des risques",  "location": "France" },
+    { "keywords": "alternance analyste financier",   "location": "France" },
+    { "keywords": "alternance risque de crédit",     "location": "France" },
+    { "keywords": "alternance contrôle de gestion",  "location": "France" },
+    { "keywords": "alternance conformité",           "location": "France" },
+    { "keywords": "alternance audit financier",      "location": "France" },
+    { "keywords": "apprentissage finance de marché", "location": "France" }
   ],
+
+  "motsAlternance": ["alternance", "alternant", "apprentissage", "apprenti", "work-study", "work study", "contrat pro"],
 
   "motsFinance": [
     "financ", "risqu", " risk", "credit", "analyste", "analyse financ",
@@ -29,13 +24,14 @@
     "asset management", "corporate finance", " m&a", "private equity",
     "controle interne", "modelisation", "stress test", " var ", " alm ",
     "back office", "middle office", "salle des marches", "gestion d actif",
-    "audit interne", "financement", "credit management", "recouvrement"
+    "audit interne", "financement", "recouvrement", "bancaire", "banque",
+    "assurance", "fund", "trading", "quant"
   ],
 
-  "motsExclure": ["stagiaire", "stage conventionné", "service civique", "portage salarial"],
+  "motsExclure": ["stage de fin d etudes", "stagiaire", "v.i.e", " vie ", "volontariat international", "freelance"],
 
-  "departements": [],
-  "maxPages": 7,
-
-  "scope": "api_offresdemploiv2 o2dsoffre"
+  "enrichirDescription": true,
+  "enrichMax": 70,
+  "pagesMax": 4,
+  "pauseMs": 2000
 }
