@@ -68,7 +68,8 @@ Chaque offre affiche le `mot-cle` finance qui l'a fait retenir — pratique pour
 
 ### GitHub Actions (`.github/workflows/alternance.yml`)
 
-S'exécute toutes les 3 h, recommit `data/latest.md`, affiche le résultat dans le résumé du job.
+S'exécute **tous les jours à 10:00 (heure de Paris)**, recommit `data/latest.md`, affiche le résultat dans le résumé du job.
+Pour changer l'heure : la ligne `cron` du workflow est en UTC (`0 8 * * *` = 10:00 l'été, 09:00 l'hiver).
 Pousser le repo, activer *Settings → Actions → General → Workflow permissions → Read and write*.
 
 > ⚠️ LinkedIn bloque fréquemment les IP des serveurs GitHub. Le workflow ne casse pas en cas de

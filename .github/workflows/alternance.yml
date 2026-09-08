@@ -2,7 +2,7 @@ name: Veille alternance finance (LinkedIn)
 
 on:
   schedule:
-    - cron: '17 */3 * * *'      # toutes les 3 h ; la fenetre reste "24 h glissantes"
+    - cron: '0 8 * * *'        # tous les jours a 08:00 UTC = 10:00 Paris (heure d'ete)
   workflow_dispatch:
 
 permissions:
