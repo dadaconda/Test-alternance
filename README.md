@@ -54,12 +54,15 @@ Résultat : un tableau dans le terminal + des fichiers dans `data/` :
 ## Personnaliser la recherche — `config.json`
 
 - `requetes` : liste `{ keywords, location }` envoyées à LinkedIn (mots-clés + lieu).
-- `motsAlternance` : termes qui prouvent que l'offre est en alternance.
-- `motsFinance` : termes qui qualifient une offre comme « finance » (titre **et** description).
-- `motsExclure` : termes qui écartent une offre.
-- `enrichirDescription` : `true` = ouvre chaque offre pour lire la description (meilleur tri
-  + détection « 24 mois »), au prix de requêtes supplémentaires.
+- `motsAlternance` : termes qui prouvent que l'offre est en alternance (cherchés dans le titre + l'entreprise).
+- `motsFinanceTitre` : vocabulaire finance cherché **uniquement dans le titre** de l'offre
+  (les descriptions sont trop bruitées et faisaient remonter des postes QSE/RH/paie…).
+  Ajoute tes propres termes si tu veux élargir (ex. `"comptab"`, `"accountant"`, `"esg"`, `"data analyst"`).
+- `enrichirDescription` : `true` = ouvre chaque offre retenue pour lire la description
+  (sert surtout à détecter « 24 mois »), au prix de requêtes supplémentaires.
 - `pagesMax`, `pauseMs`, `enrichMax` : volume et politesse des requêtes.
+
+Chaque offre affiche le `mot-cle` finance qui l'a fait retenir — pratique pour ajuster la liste.
 
 ## Automatiser
 

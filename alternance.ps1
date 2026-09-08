@@ -159,10 +159,10 @@ $minDate = $nowUtc.AddHours(-$hours)
 $fTpr    = 'r' + ([int]($hours * 3600))
 $pagesMax = if ($Pages -gt 0) { $Pages } elseif ($cfg.pagesMax) { [int]$cfg.pagesMax } else { 4 }
 
-$termsAlt = @($cfg.motsAlternance) | ForEach-Object { Remove-Diacritics $_ }
-$termsFin = @($cfg.motsFinance)    | ForEach-Object { Remove-Diacritics $_ }
-$termsExc = @($cfg.motsExclure)    | ForEach-Object { Remove-Diacritics $_ }
+$termsAlt = @($cfg.motsAlternance)   | ForEach-Object { Remove-Diacritics $_ }
+$termsFin = @($cfg.motsFinanceTitre) | ForEach-Object { Remove-Diacritics $_ }
 function Has([string]$blob, $terms) { foreach ($t in $terms) { if ($t -and $blob.Contains($t)) { return $true } }; return $false }
+function Matched([string]$blob, $terms) { foreach ($t in $terms) { if ($t -and $blob.Contains($t)) { return $t.Trim() } }; return $null }
 function Test-Duree24([string]$b) {
   return ($b -match '(^|[^0-9])24\s*mois' -or $b -match '(^|[^0-9])2\s*ans' -or $b -match 'deux\s*ans' -or $b -match '24\s*months')
 }
@@ -206,10 +206,15 @@ $seen = @()
 if (Test-Path $seenPath) { try { $seen = @((Read-Text $seenPath | ConvertFrom-Json)) } catch { $seen = @() } }
 $seenSet = @{}; foreach ($x in $seen) { $seenSet[[string]$x] = $true }
 
+# Selection : alternance (titre + entreprise) ET signal finance PRECIS dans le TITRE.
 $candidates = New-Object System.Collections.Generic.List[object]
 foreach ($c in $cards.Values) {
-  $cardBlob = ' ' + (Remove-Diacritics ("$($c.intitule) $($c.entreprise) $($c.lieu)")) + ' '
-  if (-not (Has $cardBlob $termsAlt)) { continue }          # doit sentir l'alternance
+  $altBlob   = ' ' + (Remove-Diacritics ("$($c.intitule) $($c.entreprise)")) + ' '
+  $titleBlob = ' ' + (Remove-Diacritics ([string]$c.intitule)) + ' '
+  if (-not (Has $altBlob $termsAlt)) { continue }
+  $hit = Matched $titleBlob $termsFin
+  if (-not $hit) { continue }
+  $c | Add-Member -NotePropertyName finHit -NotePropertyValue $hit -Force
   $candidates.Add($c)
 }
 
@@ -228,12 +233,8 @@ foreach ($c in $candidates) {
       if ($mc.Success) { $c.entreprise = Strip-Html $mc.Groups[1].Value }
     }
   }
-  $blob = ' ' + (Remove-Diacritics ("$($c.intitule) $($c.entreprise) $($c.lieu) $desc")) + ' '
+  $blob = ' ' + (Remove-Diacritics ("$($c.intitule) $desc")) + ' '
 
-  if (-not (Has $blob $termsFin)) { continue }
-  if (Has $blob $termsExc) {
-    if (-not (Has $blob $termsAlt)) { continue }
-  }
   $d24 = [bool](Test-Duree24 $blob)
   if ($strictDuree -and -not $d24) { continue }
 
@@ -252,6 +253,7 @@ foreach ($c in $candidates) {
     lieu         = [string]$c.lieu
     datePubliee  = $(if ($listUtc) { $listUtc.ToString('yyyy-MM-dd') } else { '' })
     duree24      = $d24
+    matchFinance = [string]$c.finHit
     url          = [string]$c.url
     nouvelle     = -not $seenSet.ContainsKey([string]$c.id)
   })
@@ -291,7 +293,7 @@ function Build-Markdown {
       $ent = if ($o.entreprise) { $o.entreprise } else { "Entreprise non precisee" }
       [void]$sb.AppendLine("### $($o.intitule)")
       [void]$sb.AppendLine("- $ent - $($o.lieu)" + $(if ($o.datePubliee) { " - publiee $($o.datePubliee)" } else { "" }))
-      [void]$sb.AppendLine("- $flag")
+      [void]$sb.AppendLine("- $flag" + $(if ($o.matchFinance) { " - mot-cle : $($o.matchFinance)" } else { "" }))
       [void]$sb.AppendLine("- $($o.url)")
       [void]$sb.AppendLine()
     }
