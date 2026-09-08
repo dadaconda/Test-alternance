@@ -32,7 +32,7 @@ param(
   [switch]$Demo
 )
 
-Set-StrictMode -Version 2.0
+Set-StrictMode -Version 1.0   # 1.0 : PS 5.1 et PS 7 se comportent pareil (la 2.0 diverge sur les proprietes absentes)
 $ErrorActionPreference = 'Stop'
 try { [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12 } catch {}
 try { [Console]::OutputEncoding = [Text.Encoding]::UTF8 } catch {}
@@ -367,11 +367,16 @@ if ($notionToken -and $notionDb -and -not $Demo) {
       if ($cursor) { $qb['start_cursor'] = $cursor }
       $qr = Invoke-RestMethod -Method Post -Uri "https://api.notion.com/v1/databases/$notionDb/query" `
         -Headers $nh -ContentType 'application/json' -Body ($qb | ConvertTo-Json)
-      foreach ($row in $qr.results) {
-        $rt = $row.properties.'ID LinkedIn'.rich_text
-        if ($rt -and $rt.Count -gt 0) { $dejaNotion[[string]$rt[0].plain_text] = $true }
+      foreach ($row in @($qr.results)) {
+        $rt = @()
+        try { $rt = @($row.properties.'ID LinkedIn'.rich_text) } catch {}
+        foreach ($frag in $rt) {
+          $val = "$($frag.plain_text)"
+          if (-not $val) { $val = "$($frag.text.content)" }
+          if ($val) { $dejaNotion[$val] = $true }
+        }
       }
-      $cursor = if ($qr.has_more) { $qr.next_cursor } else { $null }
+      $cursor = if ($qr.has_more) { "$($qr.next_cursor)" } else { $null }
     } while ($cursor)
   } catch {
     Write-Warning "Notion : lecture de la base impossible ($_). Verifie NOTION_TOKEN et le partage de la base avec l'integration."
