@@ -22,8 +22,8 @@ contrôle de gestion, conformité, audit, trésorerie, marchés…
 ## 2. Installation en une commande
 
 ```bash
-git clone https://github.com/<ton-compte>/alternance-finance-bot.git
-cd alternance-finance-bot
+git clone https://github.com/dadaconda/Test-alternance.git
+cd Test-alternance
 copy .env.example .env
 ```
 
