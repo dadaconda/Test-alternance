@@ -1,11 +1,143 @@
 {
-  "generatedAt": "2026-09-08T13:05:57.8477983Z",
+  "generatedAt": "2026-09-09T08:12:16.6837136Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 17,
-  "nouvelles": 0,
+  "total": 15,
+  "nouvelles": 12,
   "strict24mois": false,
   "offres": [
+    {
+      "id": "4465010062",
+      "intitule": "ALTERNANCE – Comptabilité Trésorerie H/F",
+      "entreprise": "Hitachi Rail",
+      "lieu": "Vélizy-Villacoublay",
+      "datePubliee": "2026-09-09",
+      "duree24": false,
+      "matchFinance": "tresorerie",
+      "url": "https://www.linkedin.com/jobs/view/4465010062",
+      "nouvelle": true
+    },
+    {
+      "id": "4463549541",
+      "intitule": "Alternance assistant comptable et administratif (H/F) – Toulouse (31)",
+      "entreprise": "Icademie",
+      "lieu": "Toulouse",
+      "datePubliee": "2026-09-08",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4463549541",
+      "nouvelle": true
+    },
+    {
+      "id": "4445925963",
+      "intitule": "ALTERNANCE - ASSISTANT COMPTABILITE TRESORERIE (H/F)",
+      "entreprise": "Mediawan",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-08",
+      "duree24": false,
+      "matchFinance": "tresorerie",
+      "url": "https://www.linkedin.com/jobs/view/4445925963",
+      "nouvelle": true
+    },
+    {
+      "id": "4464491684",
+      "intitule": "Stage/Alternance Auditeur Financier – Nantes/Rennes- Septembre 2026 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Nantes",
+      "datePubliee": "2026-09-08",
+      "duree24": false,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4464491684",
+      "nouvelle": true
+    },
+    {
+      "id": "4464621614",
+      "intitule": "Comptable Auxiliaire - Alternance F/H",
+      "entreprise": "VINCI Energies",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-08",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4464621614",
+      "nouvelle": true
+    },
+    {
+      "id": "4455777225",
+      "intitule": "Alternant(e) – Contrôle de Gestion Achats",
+      "entreprise": "Valeo",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-08",
+      "duree24": false,
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4455777225",
+      "nouvelle": true
+    },
+    {
+      "id": "4462514444",
+      "intitule": "Financial Data Analyst - Alternance (F/H)",
+      "entreprise": "Trace One",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-09-08",
+      "duree24": true,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4462514444",
+      "nouvelle": true
+    },
+    {
+      "id": "4462531144",
+      "intitule": "Assistant comptable recette F/H - ALTERNANCE",
+      "entreprise": "GrandPalaisRmn",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-08",
+      "duree24": true,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4462531144",
+      "nouvelle": true
+    },
+    {
+      "id": "4462546281",
+      "intitule": "Alternant BTS Assistant Comptabilité H/F",
+      "entreprise": "Lapp Muller",
+      "lieu": "Grimaud",
+      "datePubliee": "2026-09-08",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4462546281",
+      "nouvelle": true
+    },
+    {
+      "id": "4464645751",
+      "intitule": "ASSISTANT COMPTABLE MISSIONS INTERNATIONALES (ALTERNANCE) H/F",
+      "entreprise": "Secours Islamique France",
+      "lieu": "Massy",
+      "datePubliee": "2026-09-08",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4464645751",
+      "nouvelle": true
+    },
+    {
+      "id": "4464493721",
+      "intitule": "Alternance - Chargé de recouvrement F/H",
+      "entreprise": "RYDGE Conseil",
+      "lieu": "Metz",
+      "datePubliee": "2026-09-08",
+      "duree24": false,
+      "matchFinance": "recouvrement",
+      "url": "https://www.linkedin.com/jobs/view/4464493721",
+      "nouvelle": true
+    },
+    {
+      "id": "4464494431",
+      "intitule": "Apprenti Assistant Comptable et Gestion",
+      "entreprise": "Breizh Café",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-09-08",
+      "duree24": true,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4464494431",
+      "nouvelle": true
+    },
     {
       "id": "4462284847",
       "intitule": "Apprenti Comptable DCG/Master CCA/DSCG - H/F",
@@ -15,28 +147,6 @@
       "duree24": false,
       "matchFinance": "comptab",
       "url": "https://www.linkedin.com/jobs/view/4462284847",
-      "nouvelle": false
-    },
-    {
-      "id": "4445921720",
-      "intitule": "Alternance Risques et Conformité H/F",
-      "entreprise": "Crédit Agricole Brie Picardie",
-      "lieu": "Amiens",
-      "datePubliee": "2026-09-08",
-      "duree24": false,
-      "matchFinance": "conformite",
-      "url": "https://www.linkedin.com/jobs/view/4445921720",
-      "nouvelle": false
-    },
-    {
-      "id": "4464481339",
-      "intitule": "Coordinateur(trice) Documentation et Conformité Sécurité (ALTERNANCE 1 à 2 ans)",
-      "entreprise": "BOBST",
-      "lieu": "Bron",
-      "datePubliee": "2026-09-08",
-      "duree24": true,
-      "matchFinance": "conformite",
-      "url": "https://www.linkedin.com/jobs/view/4464481339",
       "nouvelle": false
     },
     {
@@ -51,146 +161,14 @@
       "nouvelle": false
     },
     {
-      "id": "4463250062",
-      "intitule": "Alternance - Junior Accountant (H/F/N)",
-      "entreprise": "Believe",
-      "lieu": "Paris",
+      "id": "4464481339",
+      "intitule": "Coordinateur(trice) Documentation et Conformité Sécurité (ALTERNANCE 1 à 2 ans)",
+      "entreprise": "BOBST",
+      "lieu": "Bron",
       "datePubliee": "2026-09-08",
-      "duree24": false,
-      "matchFinance": "accountant",
-      "url": "https://www.linkedin.com/jobs/view/4463250062",
-      "nouvelle": false
-    },
-    {
-      "id": "4462989144",
-      "intitule": "Assistant comptable en apprentissage H/F",
-      "entreprise": "Rubix France",
-      "lieu": "Lyon",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4462989144",
-      "nouvelle": false
-    },
-    {
-      "id": "4464376206",
-      "intitule": "Apprenti Collaborateur Comptable H/F",
-      "entreprise": "RSM France",
-      "lieu": "Rouen",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4464376206",
-      "nouvelle": false
-    },
-    {
-      "id": "4464372586",
-      "intitule": "Alternant(e) SI Finance",
-      "entreprise": "Rexel",
-      "lieu": "Paris",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4464372586",
-      "nouvelle": false
-    },
-    {
-      "id": "4462220964",
-      "intitule": "Apprenti Comptable DCG/Master CCA/DSCG - H/F",
-      "entreprise": "FIDUCIAL",
-      "lieu": "Le Creusot",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4462220964",
-      "nouvelle": false
-    },
-    {
-      "id": "4462243045",
-      "intitule": "Alternance Comptabilité",
-      "entreprise": "GROUPE BIR",
-      "lieu": "Saint-Maur-des-Bois",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4462243045",
-      "nouvelle": false
-    },
-    {
-      "id": "4464370612",
-      "intitule": "CHARGE(E) DE COMPTABILITE – F/H – ALTERNANCE.",
-      "entreprise": "CNP Assurances Protection Sociale",
-      "lieu": "Paris",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4464370612",
-      "nouvelle": false
-    },
-    {
-      "id": "4462962194",
-      "intitule": "Alternant comptable F/H",
-      "entreprise": "COGEP",
-      "lieu": "Vierzon",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4462962194",
-      "nouvelle": false
-    },
-    {
-      "id": "4462225666",
-      "intitule": "Alternance - Assistant(e) Contrôle de gestion Supply Chain - Septembre 2026",
-      "entreprise": "Vestacy",
-      "lieu": "Massy",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4462225666",
-      "nouvelle": false
-    },
-    {
-      "id": "4425311500",
-      "intitule": "Assistant Banquier Privé F/H - Alternance",
-      "entreprise": "Palatine",
-      "lieu": "Paris",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "banquier",
-      "url": "https://www.linkedin.com/jobs/view/4425311500",
-      "nouvelle": false
-    },
-    {
-      "id": "4464350840",
-      "intitule": "Assistant Comptable (Stage / Alternance) - F/H",
-      "entreprise": "mym",
-      "lieu": "Ville de Paris",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4464350840",
-      "nouvelle": false
-    },
-    {
-      "id": "4464362713",
-      "intitule": "Alternance – Assistance SI Finance Corporate",
-      "entreprise": "Rexel",
-      "lieu": "Paris",
-      "datePubliee": "2026-09-07",
-      "duree24": false,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4464362713",
-      "nouvelle": false
-    },
-    {
-      "id": "4462220925",
-      "intitule": "Alternant Comptable / Financier",
-      "entreprise": "ADMR du Lot",
-      "lieu": "Cahors",
-      "datePubliee": "2026-09-07",
       "duree24": true,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4462220925",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4464481339",
       "nouvelle": false
     }
   ]
