@@ -51,6 +51,9 @@
   "pagesMax": 4,
   "pauseMs": 2000,
 
+  "_comment_repostes": "LinkedIn ne montre pas de badge 'Republie' cote invite (non connecte). A la place : une annonce dont le (titre + entreprise + lieu) a deja ete vu sous un AUTRE identifiant LinkedIn est consideree republiee et ecartee. Historique dans data/fingerprints.json. Mets a false pour tout afficher, ou lance avec -InclureRepostes.",
+  "filtrerRepostes": true,
+
   "_comment_notion": "Base Notion 'SUIVI ALTERNANCE'. Renseigne NOTION_TOKEN dans .env (ou en secret) pour activer l'export. L'ID ci-dessous est celui de ta base d'equipe.",
   "notionDbId": "3d16931b4a3180caa3e6e746be1bf446"
 }

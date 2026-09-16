@@ -29,7 +29,8 @@ param(
   [int]$Pages = 0,
   [switch]$NoEnrich,
   [switch]$NoWrite,
-  [switch]$Demo
+  [switch]$Demo,
+  [switch]$InclureRepostes
 )
 
 Set-StrictMode -Version 1.0   # 1.0 : PS 5.1 et PS 7 se comportent pareil (la 2.0 diverge sur les proprietes absentes)
@@ -167,6 +168,18 @@ function Test-Duree24([string]$b) {
   return ($b -match '(^|[^0-9])24\s*mois' -or $b -match '(^|[^0-9])2\s*ans' -or $b -match 'deux\s*ans' -or $b -match '24\s*months')
 }
 
+# Empreinte titre+entreprise+lieu : sert a detecter les annonces republiees sous un nouvel
+# identifiant LinkedIn (LinkedIn n'expose pas de badge "Republie" cote invite/non connecte).
+function Get-Fingerprint([string]$titre, [string]$entreprise, [string]$lieu) {
+  $norm = {
+    param($s)
+    $s = Remove-Diacritics $s
+    $s = [regex]::Replace($s, '[^a-z0-9 ]', ' ')
+    return ([regex]::Replace($s, '\s+', ' ')).Trim()
+  }
+  return "$(& $norm $titre)|$(& $norm $entreprise)|$(& $norm $lieu)"
+}
+
 # --------------------------------------------------------------------------------------
 # Collecte
 # --------------------------------------------------------------------------------------
@@ -206,6 +219,14 @@ $seen = @()
 if (Test-Path $seenPath) { try { $seen = @((Read-Text $seenPath | ConvertFrom-Json)) } catch { $seen = @() } }
 $seenSet = @{}; foreach ($x in $seen) { $seenSet[[string]$x] = $true }
 
+# Filtre "republiees" : meme (titre + entreprise + lieu) deja vu sous un autre ID -> ecarte.
+$filtrerRepostes = (-not $InclureRepostes) -and (($cfg.filtrerRepostes -eq $null) -or ($cfg.filtrerRepostes -eq $true))
+$fpPath = Join-Path $dataDir 'fingerprints.json'
+$fpSeen = @{}
+if (Test-Path $fpPath) {
+  try { foreach ($x in @((Read-Text $fpPath | ConvertFrom-Json))) { $fpSeen[[string]$x] = $true } } catch {}
+}
+
 # Selection : alternance (titre + entreprise) ET signal finance PRECIS dans le TITRE.
 $candidates = New-Object System.Collections.Generic.List[object]
 foreach ($c in $cards.Values) {
@@ -217,8 +238,11 @@ foreach ($c in $cards.Values) {
   $c | Add-Member -NotePropertyName finHit -NotePropertyValue $hit -Force
   $candidates.Add($c)
 }
+# Plus recent d'abord : en cas de repost detecte dans le meme passage, on garde l'annonce la plus fraiche.
+$candidates = [System.Collections.Generic.List[object]]@($candidates | Sort-Object { [string]$_.listdate } -Descending)
 
 $enriched = 0
+$reposteesEcartees = 0
 $offers = New-Object System.Collections.Generic.List[object]
 foreach ($c in $candidates) {
   $desc = ''
@@ -237,6 +261,13 @@ foreach ($c in $candidates) {
 
   $d24 = [bool](Test-Duree24 $blob)
   if ($strictDuree -and -not $d24) { continue }
+
+  $fp = Get-Fingerprint $c.intitule $c.entreprise $c.lieu
+  if ($filtrerRepostes -and $fpSeen.ContainsKey($fp)) {
+    $reposteesEcartees++
+    continue
+  }
+  $fpSeen[$fp] = $true
 
   $listUtc = $null
   if ($c.listdate) {
@@ -266,13 +297,15 @@ $new    = @($offers | Where-Object { $_.nouvelle })
 # Sorties
 # --------------------------------------------------------------------------------------
 $payload = [pscustomobject]@{
-  generatedAt   = $nowUtc.ToString('o')
-  source        = 'linkedin'
-  fenetreHeures = $hours
-  total         = $offers.Count
-  nouvelles     = $new.Count
-  strict24mois  = [bool]$strictDuree
-  offres        = $offers
+  generatedAt        = $nowUtc.ToString('o')
+  source             = 'linkedin'
+  fenetreHeures      = $hours
+  total              = $offers.Count
+  nouvelles          = $new.Count
+  strict24mois       = [bool]$strictDuree
+  filtreRepostes     = [bool]$filtrerRepostes
+  reposteesEcartees  = $reposteesEcartees
+  offres             = $offers
 }
 
 function Build-Markdown {
@@ -282,6 +315,9 @@ function Build-Markdown {
   [void]$sb.AppendLine("_Fenetre : $hours h glissantes - genere le $($nowUtc.ToString('yyyy-MM-dd HH:mm')) UTC_")
   [void]$sb.AppendLine()
   [void]$sb.AppendLine("**$($offers.Count) offre(s)**, dont **$($new.Count) nouvelle(s)** depuis le dernier passage." + $(if ($strictDuree) { " (filtre 24 mois actif)" } else { "" }))
+  if ($filtrerRepostes -and $reposteesEcartees -gt 0) {
+    [void]$sb.AppendLine("_$reposteesEcartees annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._")
+  }
   [void]$sb.AppendLine()
   foreach ($g in @(
       @{ t = "## Nouvelles offres"; items = $new },
@@ -311,6 +347,10 @@ if (-not $NoWrite) {
   }
   if ($merged.Count -gt 8000) { $merged = $merged.GetRange(0, 8000) }
   Write-Utf8 $seenPath (ConvertTo-Json @([string[]]$merged))
+
+  $fpArr = @($fpSeen.Keys)
+  if ($fpArr.Count -gt 10000) { $fpArr = $fpArr[0..9999] }
+  Write-Utf8 $fpPath (ConvertTo-Json @([string[]]$fpArr))
 }
 
 if ($Json) {
@@ -320,6 +360,9 @@ if ($Json) {
   Write-Host ("  Alternance Finance / Risques / Analyse (LinkedIn) - {0} h glissantes" -f $hours) -ForegroundColor Cyan
   Write-Host ("  {0} offre(s), {1} nouvelle(s)  -  {2} UTC" -f $offers.Count, $new.Count, $nowUtc.ToString('yyyy-MM-dd HH:mm')) -ForegroundColor Cyan
   if ($strictDuree) { Write-Host "  Filtre 24 mois : actif" -ForegroundColor DarkCyan }
+  if ($filtrerRepostes -and $reposteesEcartees -gt 0) {
+    Write-Host ("  {0} annonce(s) republiee(s) ecartee(s)" -f $reposteesEcartees) -ForegroundColor DarkCyan
+  }
   Write-Host ""
   $list = if ($All) { $offers } elseif ($new.Count) { $new } else { $offers }
   foreach ($o in $list) {

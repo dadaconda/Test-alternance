@@ -9,6 +9,8 @@ contrôle de gestion, conformité, audit, trésorerie, marchés…
 - **Alternance uniquement** + **finance uniquement** : filtres mots-clés (titre + description).
 - **Durée 24 mois** : repérée automatiquement (`24 mois OK`), ou filtre strict avec `-Strict`.
 - **Anti-doublon** : d'un passage à l'autre, seules les **nouvelles** offres sont mises en avant.
+- **Anti-republication** : une annonce déjà vue (même titre + entreprise + lieu) réapparaissant
+  sous un nouvel identifiant LinkedIn est écartée automatiquement.
 - **Zéro dépendance / zéro config** : un script PowerShell, déjà présent sur Windows.
 
 ---
@@ -36,7 +38,8 @@ Résultat : un tableau dans le terminal + des fichiers dans `data/` :
 | `data/latest.md` | Les offres, lisibles, avec liens LinkedIn |
 | `data/latest.json` | Les offres structurées |
 | `data/history.jsonl` | Journal de tous les passages |
-| `data/seen.json` | Mémoire anti-doublon |
+| `data/seen.json` | Mémoire anti-doublon (par ID d'offre) |
+| `data/fingerprints.json` | Mémoire anti-republication (par titre + entreprise + lieu) |
 
 ### Options
 
@@ -50,6 +53,18 @@ Résultat : un tableau dans le terminal + des fichiers dans `data/` :
 | `.\run.cmd -Pages 6` | Va chercher plus de pages par requête (défaut 4) |
 | `.\run.cmd -Json` | Sortie JSON brute |
 | `.\run.cmd -Demo` | Démo hors-ligne |
+| `.\run.cmd -InclureRepostes` | N'écarte pas les annonces republiées (pour vérifier le filtre) |
+
+### Filtre anti-republication
+
+LinkedIn ne montre pas de badge « Republiée » côté invité (sans connexion) — ce signal n'existe
+que dans la vue connectée. À la place, le bot retient l'empreinte **titre + entreprise + lieu**
+de chaque offre déjà affichée (`data/fingerprints.json`). Si la même combinaison réapparaît sous
+un **autre ID LinkedIn** (le classique « recruteur qui repousse son annonce tous les 3 jours »),
+elle est écartée et comptabilisée dans `reposteesEcartees` (JSON) / affichée en bas de `latest.md`.
+
+Limite connue : si le recruteur modifie même légèrement le titre, l'empreinte change et l'annonce
+repasse le filtre. Pour désactiver entièrement : `"filtrerRepostes": false` dans `config.json`.
 
 ## Personnaliser la recherche — `config.json`
 
