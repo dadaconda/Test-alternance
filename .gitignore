@@ -3,3 +3,5 @@ secrets.local.json
 .cache/
 /data/*
 !/data/.gitkeep
+/data-stage/*
+!/data-stage/.gitkeep

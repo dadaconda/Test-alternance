@@ -1,8 +1,19 @@
-# Veille alternance — Master Finance (risques / analyse financière) — LinkedIn
+# Veille alternance + stage — Finance (risques / analyse financière) — LinkedIn
 
-Bot qui va chercher **sur LinkedIn** les offres d'**alternance publiées dans les dernières 24 h**
-(fenêtre glissante) pour un **Master Finance** : gestion des risques, analyse financière,
-contrôle de gestion, conformité, audit, trésorerie, marchés…
+Deux bots jumeaux qui vont chercher **sur LinkedIn** les offres publiées dans les dernières 24 h
+(fenêtre glissante) pour la finance : gestion des risques, analyse financière, contrôle de gestion,
+audit, conformité, trésorerie, marchés…
+
+| | Alternance | Stage |
+|---|---|---|
+| Script | `alternance.ps1` (`run.cmd`) | `stage.ps1` (`run-stage.cmd`) |
+| Config | `config.json` | `config.stage.json` |
+| Données | `data/` | `data-stage/` |
+| Base Notion | SUIVI ALTERNANCE | SUIVI STAGE |
+| CI (quotidien) | `.github/workflows/alternance.yml` — 10:00 Paris | `.github/workflows/stage.yml` — 10:10 Paris |
+
+Les deux partagent exactement la même mécanique (décrite ci-dessous pour l'alternance ;
+les différences propres au bot stage sont détaillées plus bas).
 
 - **Source** : endpoint public *jobs-guest* de LinkedIn — **aucun compte, aucune clé API**.
 - **Fenêtre 24 h** : filtre natif LinkedIn `f_TPR` (recalculé selon `-Since`).
@@ -118,6 +129,39 @@ Le bot écrit chaque offre avec le statut **À traiter** — tu fais avancer le 
 
 `copy .env.example .env`, renseigne `TELEGRAM_BOT_TOKEN` et `TELEGRAM_CHAT_ID` :
 les **nouvelles** offres sont poussées dans le chat à chaque passage.
+
+---
+
+## Bot stages — `stage.ps1`
+
+Même mécanique que le bot alternance (endpoint LinkedIn public, fenêtre 24 h, filtre finance sur
+le titre, anti-doublon, anti-republication), avec deux différences :
+
+- **Cible « stage »** au lieu de « alternance » : `motsStage` dans `config.stage.json`
+  (`stage`, `stagiaire`, `internship`, `intern`) remplace `motsAlternance`.
+- **Pas de filtre « 24 mois »** : la durée d'un stage varie (2 à 6 mois, plafonnée par la loi) et
+  n'était pas demandée — pas de `-Strict`, pas de colonne durée.
+
+Requêtes par défaut : stage finance, contrôle de gestion, analyste/analyse financière, gestion des
+risques, risque de crédit, risque de marché, audit financier, audit interne (modifiables dans
+`config.stage.json` → `requetes`). Le vocabulaire finance (`motsFinanceTitre`) est le même que celui,
+déjà testé, du bot alternance.
+
+```bash
+.\run-stage.cmd            # fenetre 24h, affiche les nouvelles offres
+.\run-stage.cmd -Demo      # demo hors-ligne
+.\run-stage.cmd -All -Json # toutes les offres, en JSON
+```
+
+Sorties dans `data-stage/` (`latest.md`, `latest.json`, `seen.json`, `fingerprints.json`,
+`history.jsonl`) — complètement séparées de `data/` pour ne jamais mélanger les deux suivis.
+
+Export Notion vers la base d'équipe **SUIVI STAGE** (mêmes colonnes que SUIVI ALTERNANCE, sans
+« 24 mois ») : même `NOTION_TOKEN` que le bot alternance (pense à l'ajouter comme connexion sur
+**les deux** bases dans Notion), ID de base déjà dans `config.stage.json`.
+
+Automatisation quotidienne : `.github/workflows/stage.yml`, 10:10 (Paris) — décalé de 10 minutes
+par rapport au bot alternance pour éviter que les deux écrivent dans le dépôt en même temps.
 
 ---
 

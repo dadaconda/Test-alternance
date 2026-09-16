@@ -1,0 +1,40 @@
+name: Veille stage finance (LinkedIn)
+
+on:
+  schedule:
+    - cron: '10 8 * * *'       # tous les jours a 08:10 UTC = 10:10 Paris (heure d'ete) - decale de la veille alternance
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille-stage
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Executer le bot
+        shell: pwsh
+        continue-on-error: true      # LinkedIn peut bloquer l'IP du runner : on ne casse pas le workflow
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: pwsh -File ./stage.ps1 -Quiet
+
+      - name: Publier les resultats
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data-stage/latest.md data-stage/latest.json data-stage/seen.json data-stage/fingerprints.json 2>/dev/null || true
+          git commit -m "Veille stage $(date -u +'%Y-%m-%d %H:%M UTC')" || { echo "Rien a committer"; exit 0; }
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "push $i rejete, nouvelle tentative..."; sleep $((RANDOM % 8 + 2))
+          done
+          echo "::warning::push des resultats impossible apres 5 tentatives"; exit 0

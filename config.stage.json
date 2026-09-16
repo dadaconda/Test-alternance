@@ -1,0 +1,54 @@
+{
+  "fenetreHeures": 24,
+
+  "requetes": [
+    { "keywords": "stage finance",                "location": "France" },
+    { "keywords": "stage contrôle de gestion",     "location": "France" },
+    { "keywords": "stage analyste financier",      "location": "France" },
+    { "keywords": "stage analyse financière",      "location": "France" },
+    { "keywords": "stage gestion des risques",     "location": "France" },
+    { "keywords": "stage risque de crédit",        "location": "France" },
+    { "keywords": "stage risque de marché",        "location": "France" },
+    { "keywords": "stage audit financier",         "location": "France" },
+    { "keywords": "stage audit interne",           "location": "France" }
+  ],
+
+  "motsStage": ["stage", "stagiaire", "internship", "intern "],
+
+  "_comment_finance": "Meme vocabulaire finance que le bot alternance (deja teste/tune) : le signal doit apparaitre dans le TITRE. Ajoute tes propres termes ici.",
+  "motsFinanceTitre": [
+    "financ", "financial analyst", "analyste financ",
+    "controle de gestion", "controleur de gestion", "controleuse de gestion", "cost controller",
+    "gestion des risques", "gestion de risques", "analyste risqu", "risk analyst", "risk management", "risk manager", "risk officer",
+    "risque de credit", "risques de credit", "risque credit", "credit analyst", "credit risk", "analyse de credit", "analyste credit",
+    "risque de marche", "risques de marche", "market risk", "risque operationnel", "risque de contrepartie", "risque climat",
+    "analyse financiere",
+    "conformite", "compliance", "kyc", " lcb", "anti-blanchiment", "sanctions financieres", "deontolog",
+    "audit financier", "audit interne", "auditeur financier", "commissariat aux comptes", "commissaire aux comptes",
+    "reporting financier", "consolidation", "controle interne financier", "fp&a", "planification financiere", "budgetaire",
+    "tresorerie", "treasury", "cash management",
+    "front office", "middle office", "salle des marches", "marches financiers", "finance de marche", "finance corporate", "corporate finance",
+    "asset management", "gestion d actif", "gestion d actifs", "gestion de portefeuille", "gestion de portefeuilles", "portfolio",
+    "m&a", "fusion-acquisition", "fusions-acquisitions", "private equity", "capital investissement", "venture capital",
+    "actuar", " alm ", "bale ", "bale 3", "solvabilite", "solvency", "ratio prudentiel",
+    "banquier", "banque privee", "banque de financement", "gestion de patrimoine", "gestion privee", "wealth", "patrimonial",
+    "notation financiere", "scoring", "modelisation risqu", "modelisation financiere", "quantitative", " quant ",
+    "structuration", "titrisation", "leverage", "lbo",
+    "si finance", "systeme d information finance", "data finance", "pilotage financier", "performance financiere",
+    "comptab", "accountant", "collaborateur comptable", "expertise comptable", "dscg", "master cca",
+    "credit manager", "credit management", "credit-management", "recouvrement", "financement de projet",
+    "investment banking", "hedge fund", "gestion de fonds", "back office titres", "post-marche",
+    "extra-financ", "esg", "finance durable", "finance verte"
+  ],
+
+  "enrichirDescription": true,
+  "enrichMax": 70,
+  "pagesMax": 4,
+  "pauseMs": 2000,
+
+  "_comment_repostes": "LinkedIn ne montre pas de badge 'Republie' cote invite (non connecte). A la place : une annonce dont le (titre + entreprise + lieu) a deja ete vu sous un AUTRE identifiant LinkedIn est consideree republiee et ecartee. Historique dans data-stage/fingerprints.json.",
+  "filtrerRepostes": true,
+
+  "_comment_notion": "Base Notion 'SUIVI STAGE'. Renseigne NOTION_TOKEN dans .env (partage avec le bot alternance) pour activer l'export.",
+  "notionDbId": "3d16931b4a3180d2a21bde8cd5aa5448"
+}
