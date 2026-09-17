@@ -1,0 +1,602 @@
+{
+  "generatedAt": "2026-09-17T08:21:33.5742546Z",
+  "source": "linkedin",
+  "type": "stage",
+  "fenetreHeures": 24,
+  "total": 59,
+  "nouvelles": 59,
+  "filtreRepostes": true,
+  "reposteesEcartees": 1,
+  "offres": [
+    {
+      "id": "4468330876",
+      "intitule": "Consultant Stagiaire en Management Strategy & Business Transformation - Banque, Assurance, Asset Management F/H",
+      "entreprise": "KPMG France",
+      "lieu": "Courbevoie",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "asset management",
+      "url": "https://www.linkedin.com/jobs/view/4468330876",
+      "nouvelle": true
+    },
+    {
+      "id": "4468390446",
+      "intitule": "Global Business & Financial Controlling Intern (Retail, E-commerce & Wholesale)",
+      "entreprise": "Lacoste",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4468390446",
+      "nouvelle": true
+    },
+    {
+      "id": "4467161975",
+      "intitule": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
+      "entreprise": "Citi",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467161975",
+      "nouvelle": true
+    },
+    {
+      "id": "4467182014",
+      "intitule": "Banking, Investment Banking, Placement Analyst Internship, Paris - France 2027",
+      "entreprise": "Citi",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "investment banking",
+      "url": "https://www.linkedin.com/jobs/view/4467182014",
+      "nouvelle": true
+    },
+    {
+      "id": "4467127929",
+      "intitule": "Contrôleur/contrôleuse de gestion - STAGE - PARIS",
+      "entreprise": "L'atelier des Chefs",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "controleuse de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4467127929",
+      "nouvelle": true
+    },
+    {
+      "id": "4468373680",
+      "intitule": "STAGE 2027 - Stagiaire Prévention Ethique et Conformité Resources Humaines/HR Intern - Ethics and Compliance Prevention (h/f)",
+      "entreprise": "Airbus Aircraft",
+      "lieu": "Toulouse",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4468373680",
+      "nouvelle": true
+    },
+    {
+      "id": "4468353277",
+      "intitule": "Stagiaire financements structurés F/H",
+      "entreprise": "VINCI Concessions",
+      "lieu": "La Neuville-d'Aumont",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4468353277",
+      "nouvelle": true
+    },
+    {
+      "id": "4467127739",
+      "intitule": "Chargé de Conformité - Stage H/F",
+      "entreprise": "CA-SILCA",
+      "lieu": "La Défense",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4467127739",
+      "nouvelle": true
+    },
+    {
+      "id": "4467163362",
+      "intitule": "Banking, Investment Banking, Financial Institution Group, Placement Analyst Internship, Paris - France 2027",
+      "entreprise": "Citi",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467163362",
+      "nouvelle": true
+    },
+    {
+      "id": "4467174177",
+      "intitule": "Banking, Financing, Equity Capital Markets, Placement Analyst Internship, Paris - France 2027",
+      "entreprise": "Citi",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-17",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467174177",
+      "nouvelle": true
+    },
+    {
+      "id": "4448201459",
+      "intitule": "STAGE - Assistant Contrôle de Gestion HDE (H/F)",
+      "entreprise": "Hermès",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4448201459",
+      "nouvelle": true
+    },
+    {
+      "id": "4446632929",
+      "intitule": "Stage - 6 mois - Valuation Risk Analyst F/H",
+      "entreprise": "Natixis Corporate & Investment Banking",
+      "lieu": "Charenton-le-Pont",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "risk analyst",
+      "url": "https://www.linkedin.com/jobs/view/4446632929",
+      "nouvelle": true
+    },
+    {
+      "id": "4446247055",
+      "intitule": "Stage marché patrimonial",
+      "entreprise": "Société Générale",
+      "lieu": "Le Cannet",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "patrimonial",
+      "url": "https://www.linkedin.com/jobs/view/4446247055",
+      "nouvelle": true
+    },
+    {
+      "id": "4468247183",
+      "intitule": "STAGE PFE 2027 - Contrôleur de gestion (F/H) - Lille",
+      "entreprise": "Advens",
+      "lieu": "Lille",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4468247183",
+      "nouvelle": true
+    },
+    {
+      "id": "4467129479",
+      "intitule": "Stagiaire Finance (H/F) 4 à 6 mois",
+      "entreprise": "Hospitaliti",
+      "lieu": "Bordeaux",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467129479",
+      "nouvelle": true
+    },
+    {
+      "id": "4467107969",
+      "intitule": "Stage - Analyste Financier MHCS Epernay (F/H)",
+      "entreprise": "Moët & Chandon",
+      "lieu": "Épernay",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467107969",
+      "nouvelle": true
+    },
+    {
+      "id": "4468238117",
+      "intitule": "Assistant Contrôle de Gestion Communication & Retail F/H - Stage",
+      "entreprise": "Christian Dior Couture",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4468238117",
+      "nouvelle": true
+    },
+    {
+      "id": "4466854557",
+      "intitule": "Stage – Support et amélioration des sujets Compliance, process et politique (Trésorerie Globale) – F/H",
+      "entreprise": "Schneider Electric",
+      "lieu": "Rueil-Malmaison",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "compliance",
+      "url": "https://www.linkedin.com/jobs/view/4466854557",
+      "nouvelle": true
+    },
+    {
+      "id": "4468259710",
+      "intitule": "Stagiaire Contrôle de Gestion & Audit Interne H/F - Pullman Paris Montparnasse 4*",
+      "entreprise": "Novotel Inle Lake Myat Min",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4468259710",
+      "nouvelle": true
+    },
+    {
+      "id": "4457619738",
+      "intitule": "Stage - Assistant(e) Contrôle de gestion - Horlogerie Joaillerie - Janvier 2027 - (H/F/X)",
+      "entreprise": "CHANEL",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4457619738",
+      "nouvelle": true
+    },
+    {
+      "id": "4467110150",
+      "intitule": "Strategic Finance and M&A intern",
+      "entreprise": "GRAITEC Italia",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467110150",
+      "nouvelle": true
+    },
+    {
+      "id": "4457236919",
+      "intitule": "Stage - Assistant(e) Sales Front Office - Securities Finance et Repo H/F",
+      "entreprise": "CACEIS",
+      "lieu": "Montrouge",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4457236919",
+      "nouvelle": true
+    },
+    {
+      "id": "4466243375",
+      "intitule": "Financial Planning Analyst Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "entreprise": "Ubisoft",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4466243375",
+      "nouvelle": true
+    },
+    {
+      "id": "4466204738",
+      "intitule": "Stagiaire qualité et gestion des risques en établissement de santé - H/F",
+      "entreprise": "Centre hospitalier de Rouffach",
+      "lieu": "Munwiller",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "gestion des risques",
+      "url": "https://www.linkedin.com/jobs/view/4466204738",
+      "nouvelle": true
+    },
+    {
+      "id": "4457256109",
+      "intitule": "STAGE - Assistant(e) Contrôle de Gestion Commerciale H/F Janvier 2027",
+      "entreprise": "PepsiCo",
+      "lieu": "Colombes",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4457256109",
+      "nouvelle": true
+    },
+    {
+      "id": "4468262234",
+      "intitule": "BETC - Contrôleur de gestion (H/F/X) - Stage",
+      "entreprise": "BETC",
+      "lieu": "Pantin",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4468262234",
+      "nouvelle": true
+    },
+    {
+      "id": "4467100825",
+      "intitule": "Stagiaire de Fin d’Etudes Analyste Finance Quantitative – Crédit – 2027 - H/F",
+      "entreprise": "Forvis Mazars en France",
+      "lieu": "Levallois-Perret",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467100825",
+      "nouvelle": true
+    },
+    {
+      "id": "4467100824",
+      "intitule": "Stagiaire de Fin d’Etudes en Analyste Finance Quantitative - 2027 (H/F)",
+      "entreprise": "Forvis Mazars en France",
+      "lieu": "Levallois-Perret",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467100824",
+      "nouvelle": true
+    },
+    {
+      "id": "4467998535",
+      "intitule": "Contrôle de Gestion - Stage (H/F)",
+      "entreprise": "Air Liquide Healthcare",
+      "lieu": "Bagneux",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4467998535",
+      "nouvelle": true
+    },
+    {
+      "id": "4467979717",
+      "intitule": "Stagiaire Asset Management F/H",
+      "entreprise": "VINCI Energies",
+      "lieu": "Nanterre",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "asset management",
+      "url": "https://www.linkedin.com/jobs/view/4467979717",
+      "nouvelle": true
+    },
+    {
+      "id": "4468280459",
+      "intitule": "Stage Corporate Finance - Mars 2027 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Neuilly-sur-Seine",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4468280459",
+      "nouvelle": true
+    },
+    {
+      "id": "4468294082",
+      "intitule": "Stage Assistant(e) Conformité Banque d'Affaires - Janvier 2027",
+      "entreprise": "Rothschild & Co",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4468294082",
+      "nouvelle": true
+    },
+    {
+      "id": "4466867234",
+      "intitule": "Analyste financier / Contrôleur de gestion F/H – Stage",
+      "entreprise": "Groupe Casino",
+      "lieu": "Boulogne-Billancourt",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4466867234",
+      "nouvelle": true
+    },
+    {
+      "id": "4465998174",
+      "intitule": "Stagiaire Contrôle de Gestion (H/F)",
+      "entreprise": "Gide",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4465998174",
+      "nouvelle": true
+    },
+    {
+      "id": "4467996042",
+      "intitule": "Stage Financement d'Actifs et de Projets - 6 mois à temps plein à compter du 5 octobre 2026",
+      "entreprise": "Stephenson Harwood LLP",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467996042",
+      "nouvelle": true
+    },
+    {
+      "id": "4456946598",
+      "intitule": "Internship - Finance Analyst",
+      "entreprise": "Nabla",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4456946598",
+      "nouvelle": true
+    },
+    {
+      "id": "4468239005",
+      "intitule": "Stage - Analyste financier/Assistant Portfolio Manager (6 mois)",
+      "entreprise": "UBS",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4468239005",
+      "nouvelle": true
+    },
+    {
+      "id": "4468232621",
+      "intitule": "OFFRE DE STAGE : Contrôleur / Auditeur Conformité (H/F)",
+      "entreprise": "Lucya",
+      "lieu": "Baden",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4468232621",
+      "nouvelle": true
+    },
+    {
+      "id": "4468254700",
+      "intitule": "Stagiaire Finance et Contrôle de gestion F/H - 2027 | Evok Collection",
+      "entreprise": "Evok Collection",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4468254700",
+      "nouvelle": true
+    },
+    {
+      "id": "4466896216",
+      "intitule": "Internship Finance (m/f/d)",
+      "entreprise": "ATMOS Space Cargo",
+      "lieu": "Illkirch-Graffenstaden",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4466896216",
+      "nouvelle": true
+    },
+    {
+      "id": "4462428214",
+      "intitule": "Stagiaire Contrôleur de Gestion F/H",
+      "entreprise": "OPTEVEN ASSURANCES",
+      "lieu": "Villeurbanne",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4462428214",
+      "nouvelle": true
+    },
+    {
+      "id": "4466869206",
+      "intitule": "Stagiaire Contrôle de Gestion & Audit Interne H/F - Pullman Paris Montparnasse 4*",
+      "entreprise": "Pullman Hotels & Resorts",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4466869206",
+      "nouvelle": true
+    },
+    {
+      "id": "4468220483",
+      "intitule": "6-Month Off-Cycle Internship - Corporate Finance (M&A)",
+      "entreprise": "Houlihan Lokey",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4468220483",
+      "nouvelle": true
+    },
+    {
+      "id": "4466838826",
+      "intitule": "Stage - Assistant(e) Comptable(F/M/X)",
+      "entreprise": "DRIVECO",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4466838826",
+      "nouvelle": true
+    },
+    {
+      "id": "4467988366",
+      "intitule": "Stage - Debt Finance - Janvier/ Juin 2027",
+      "entreprise": "Clifford Chance",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467988366",
+      "nouvelle": true
+    },
+    {
+      "id": "4468317164",
+      "intitule": "Internship Program – M&A Corporate Finance - Start March 2027",
+      "entreprise": "Alvarez & Marsal",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4468317164",
+      "nouvelle": true
+    },
+    {
+      "id": "4466875786",
+      "intitule": "Group Risk Management Intern Apprentice",
+      "entreprise": "CMA CGM",
+      "lieu": "Marseille",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "risk management",
+      "url": "https://www.linkedin.com/jobs/view/4466875786",
+      "nouvelle": true
+    },
+    {
+      "id": "4468229176",
+      "intitule": "Financial Management Program Internship / Stage : Programme de Gestion Financière H/F",
+      "entreprise": "GE HealthCare",
+      "lieu": "Buc",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4468229176",
+      "nouvelle": true
+    },
+    {
+      "id": "4459035507",
+      "intitule": "STAGES - Contrôle de gestion | Janvier 2027",
+      "entreprise": "Reckitt",
+      "lieu": "Massy",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4459035507",
+      "nouvelle": true
+    },
+    {
+      "id": "4466240438",
+      "intitule": "Treasury Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)",
+      "entreprise": "Ubisoft",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "treasury",
+      "url": "https://www.linkedin.com/jobs/view/4466240438",
+      "nouvelle": true
+    },
+    {
+      "id": "4456211691",
+      "intitule": "2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team",
+      "entreprise": "Jefferies",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "investment banking",
+      "url": "https://www.linkedin.com/jobs/view/4456211691",
+      "nouvelle": true
+    },
+    {
+      "id": "4457248132",
+      "intitule": "STAGE - Assistant(e) Contrôle de Gestion Commerciale et Revenue Management H/F Janvier 2027",
+      "entreprise": "PepsiCo",
+      "lieu": "Colombes",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4457248132",
+      "nouvelle": true
+    },
+    {
+      "id": "4457625625",
+      "intitule": "Stage - Assistant(e) Contrôle de Gestion Horlogerie Joaillerie (H/F) – Janvier 2026",
+      "entreprise": "CHANEL",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4457625625",
+      "nouvelle": true
+    },
+    {
+      "id": "4459012562",
+      "intitule": "Stagiaire finance - contrôle de gestion (F/H)",
+      "entreprise": "Aubert & Duval",
+      "lieu": "Issy-les-Moulineaux",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4459012562",
+      "nouvelle": true
+    },
+    {
+      "id": "4467124058",
+      "intitule": "Stage - Analyste Financier – Reporting & Consolidation - Epernay (F/H)",
+      "entreprise": "Moët & Chandon",
+      "lieu": "Épernay",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467124058",
+      "nouvelle": true
+    },
+    {
+      "id": "4467129503",
+      "intitule": "Stagiaire Finance (H/F)",
+      "entreprise": "Hospitaliti",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4467129503",
+      "nouvelle": true
+    },
+    {
+      "id": "4457626354",
+      "intitule": "M&A Internship (January 2027)",
+      "entreprise": "Lincoln International",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4457626354",
+      "nouvelle": true
+    },
+    {
+      "id": "4468282286",
+      "intitule": "Stage – Contrôleur de Gestion Central H/F",
+      "entreprise": "PMU",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4468282286",
+      "nouvelle": true
+    },
+    {
+      "id": "4440053320",
+      "intitule": "Stage - Compliance & Contrôle Interne (6 mois)",
+      "entreprise": "UBS",
+      "lieu": "Paris",
+      "datePubliee": "2026-09-16",
+      "matchFinance": "compliance",
+      "url": "https://www.linkedin.com/jobs/view/4440053320",
+      "nouvelle": true
+    }
+  ]
+}
