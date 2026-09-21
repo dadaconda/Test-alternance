@@ -1,28 +1,33 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-09-20 08:11 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-09-21 08:12 UTC_
 
-**4 offre(s)**, dont **4 nouvelle(s)** depuis le dernier passage.
+**5 offre(s)**, dont **5 nouvelle(s)** depuis le dernier passage.
 
 ## Nouvelles offres
 
-### Stage/Alternance Auditeur Financier – Nantes/Rennes- Septembre 2026 - F/H
-- PwC France - Nantes - publiee 2026-09-20
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4469585372
+### Alternant Comptable Immobilier H/F
+- Citya Immobilier - Pau - publiee 2026-09-20
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4430986364
 
-### Alternant(e) Contrôle de Gestion (F/H)
-- O-I - Reims - publiee 2026-09-19
-- duree a verifier - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4392908996
+### Alternant(e) contrôle de gestion
+- Valeo - Angers - publiee 2026-09-20
+- 24 mois OK - mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4414674424
 
-### Alternance - Assistant(e) Contrôleur de Gestion Opérationnel
-- Van Cleef & Arpels - Paris - publiee 2026-09-19
+### Apprentice - Junior Cost Controller - Store Planning Europe (F/H)
+- Tiffany & Co. - Paris - publiee 2026-09-20
+- duree a verifier - mot-cle : cost controller
+- https://www.linkedin.com/jobs/view/4430243414
+
+### Contrôleur de Gestion junior - en alternance (H/F)
+- TotalEnergies - Rueil-Malmaison - publiee 2026-09-20
 - duree a verifier - mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4449737448
+- https://www.linkedin.com/jobs/view/4405693767
 
-### ALTERNANCE – Nos partenaires recrutent des BAC +3 « Conseiller Financier »
-- Campus Jean 23 - Les Herbiers - publiee 2026-09-19
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4468405290
+### Alternance - Contrôleur de Gestion (F/H)
+- Lacoste - Paris - publiee 2026-09-20
+- duree a verifier - mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4413959280
 
