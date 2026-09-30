@@ -1,66 +1,86 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-09-29 08:14 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-09-30 08:13 UTC_
 
-**11 offre(s)**, dont **10 nouvelle(s)** depuis le dernier passage.
+**15 offre(s)**, dont **13 nouvelle(s)** depuis le dernier passage.
 _2 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### Alternant Assistant comptable - H/F
-- Groupe JBS - Saint-Pair-sur-Mer - publiee 2026-09-28
+### Comptable Mandant F/H - alternance
+- Lamy - Thonon-les-Bains - publiee 2026-09-30
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4471203063
+- https://www.linkedin.com/jobs/view/4472119849
 
-### ALTERNANCE - Chargé de Mission Compliance et RSE (H/F)
-- Hermès - Pantin - publiee 2026-09-28
-- duree a verifier - mot-cle : compliance
-- https://www.linkedin.com/jobs/view/4471336979
+### Alternance - Contrôle de Gestion Industriel F/H
+- EDF - Saint-Marcel - publiee 2026-09-30
+- duree a verifier - mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4473592579
 
-### Consultant stagiaire / apprentis Transformation de la Fonction Finance (H/F)
-- BearingPoint - Ville de Paris - publiee 2026-09-28
+### ALTERNANCE - Chargé(e) de contrôle de gestion sociale F/H
+- L'HABITATION CONFORTABLE - Paris - publiee 2026-09-29
+- 24 mois OK - mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4473228785
+
+### Alternance - Business Development - Secteurs Energie, Industrie ou Finance (H/F)
+- Talan - Paris - publiee 2026-09-29
 - duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4471500163
+- https://www.linkedin.com/jobs/view/4473206625
 
-### Alternance - Contrôleur de gestion (F/H)
-- COUP DE PATES - Ferrières-en-Brie - publiee 2026-09-28
-- duree a verifier - mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4471385616
+### Alternance - Assistant(e) contrôle de gestion (Sales/FP&A/ Supply Chain) - Janvier 2027
+- Vestacy - Massy - publiee 2026-09-29
+- 24 mois OK - mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4471759378
 
-### Stage / Alternant.e - Assistant.e Contrôleur de Gestion H/F - Melvita
-- Groupe L'OCCITANE - Paris - publiee 2026-09-28
-- duree a verifier - mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4472764001
-
-### Apprenti.e CDG et SI Finance
-- GROUPE SOS - Île-de-France, France - publiee 2026-09-28
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4472705656
-
-### Alternance assistant comptable (H/F) – Blois (41)
-- Icademie - Blois - publiee 2026-09-28
+### Alternance - Comptable F/H
+- VINCI - Alfortville - publiee 2026-09-29
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4471530724
+- https://www.linkedin.com/jobs/view/4473538366
 
-### Apprenti.e CDG et SI Finance H/F
-- GROUPE SOS - Saint-Denis - publiee 2026-09-28
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4471327831
+### Assistant(e) Trésorerie – Stage / Alternance F/H
+- Fovéa - Bordeaux - publiee 2026-09-29
+- duree a verifier - mot-cle : tresorerie
+- https://www.linkedin.com/jobs/view/4471955052
 
-### Finance Apprenti(e) (H/F)
-- GE Vernova - Issy-les-Moulineaux - publiee 2026-09-28
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4472761775
+### Alternance - Comptable F/H
+- VINCI Energies - Alfortville - publiee 2026-09-29
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4473277503
 
-### Alternance Finance System Specialist Tax
-- Decathlon France - Lille - publiee 2026-09-28
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4471341416
+### Portfolio Performance and Data – Apprentice
+- Novotel Inle Lake Myat Min - Issy-les-Moulineaux - publiee 2026-09-29
+- duree a verifier - mot-cle : portfolio
+- https://www.linkedin.com/jobs/view/4473513678
+
+### Alternance - Contrôle de Gestion Industriel F/H
+- Framatome - Saint-Marcel - publiee 2026-09-29
+- duree a verifier - mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4473247143
+
+### Apprentissage - Chargé·e de l’inventaire comptable et appui à la programmation budgétaire
+- Préfecture de Police - Paris - publiee 2026-09-29
+- 24 mois OK - mot-cle : budgetaire
+- https://www.linkedin.com/jobs/view/4471735635
+
+### Alternant indépendance et risk management - H/F
+- BDO France - Paris - publiee 2026-09-29
+- duree a verifier - mot-cle : risk management
+- https://www.linkedin.com/jobs/view/4471902677
+
+### ALTERNANT CONTROLEUR DE GESTION OPERATIONNEL H/F
+- STEF - Saran - publiee 2026-09-29
+- duree a verifier - mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4473236851
 
 ## Deja vues (fenetre courante)
 
-### Apprenti Collaborateur Comptable H/F
-- RSM France - Rouen - publiee 2026-09-28
+### ALTERNANCE - ASSISTANT COMPTABILITE TRESORERIE (H/F)
+- Mediawan - Paris - publiee 2026-09-30
+- duree a verifier - mot-cle : tresorerie
+- https://www.linkedin.com/jobs/view/4445925963
+
+### CHARGE(E) DE COMPTABILITE – F/H – ALTERNANCE.
+- CNP Assurances Protection Sociale - Paris - publiee 2026-09-29
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4464376206
+- https://www.linkedin.com/jobs/view/4464370612
 
