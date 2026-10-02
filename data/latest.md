@@ -1,91 +1,70 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-10-01 08:14 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-10-02 08:13 UTC_
 
-**16 offre(s)**, dont **13 nouvelle(s)** depuis le dernier passage.
-_5 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**12 offre(s)**, dont **7 nouvelle(s)** depuis le dernier passage.
 
 ## Nouvelles offres
 
-### Comptable Auxiliaire - Alternance F/H
-- VINCI Energies - Paris - publiee 2026-10-01
-- duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4473996705
-
-### ALTERNANCE - Aide-Comptable H/F
-- A.S.O. - Amaury Sport Organisation - Boulogne-Billancourt - publiee 2026-10-01
-- duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4472381550
-
-### Alternance Assistant Comptable H/F
-- ESICAD Toulouse - Montpellier - publiee 2026-09-30
-- duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4473958329
-
-### Apprenti chargé du contrôle de gestion (h/f)
-- Grand Paris Grand Est - Noisy-le-Grand - publiee 2026-09-30
-- duree a verifier - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4473927128
-
-### Alternance – Assistant Analyste en Finance d’Entreprise (H/F)
-- Galileo Global Education - Paris - publiee 2026-09-30
+### Alternance contrôle permanent risque financier PCA H/F
+- Crédit Agricole Brie Picardie - Amiens - publiee 2026-10-01
 - duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4473767389
+- https://www.linkedin.com/jobs/view/4474141755
 
-### Alternant Administration des ventes et recouvrement
-- EVA - Esports Virtual Arenas - Ville de Paris - publiee 2026-09-30
-- duree a verifier - mot-cle : recouvrement
-- https://www.linkedin.com/jobs/view/4472306578
-
-### Alternance – Auditeur Contrôle de Gestion (H/F)
-- Galileo Global Education - Paris - publiee 2026-09-30
-- duree a verifier - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4473769258
-
-### Alternant(e)-Comptable Assistant(e)
-- PERFORMA - Saint-Raphaël - publiee 2026-09-30
+### Alternant comptable H/F
+- GUEUDET 1880 - Fleury-les-Aubrais - publiee 2026-10-01
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4472342369
+- https://www.linkedin.com/jobs/view/4472962072
 
-### Alternance – Alternance – Assistant Contrôleur Financier (H/F)
-- Galileo Global Education - Paris - publiee 2026-09-30
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4473775208
-
-### Alternance - Assistant(e) en comptabilité (H/F)
-- E2SE Business School - Saint-Pair-sur-Mer - publiee 2026-09-30
+### Apprenti(e) en Comptabilité & Reporting - F/H
+- Atos - Les Clayes-sous-Bois - publiee 2026-10-01
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4472311471
+- https://www.linkedin.com/jobs/view/4472934404
 
-### Alternant(e) en Comptabilité Générale – H/F
-- EasyVista - Noisy-le-Grand - publiee 2026-09-30
-- 24 mois OK - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4473923070
+### Alternance Collaborateur Comptable en H/F
+- OpenClassrooms - Serris - publiee 2026-10-01
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4474526654
 
-### ALTERNANCE - Ingénieur Finance et Data (F/H)
-- XpFibre - Courbevoie - publiee 2026-09-30
+### Apprenti(e) en Comptabilité & Reporting - F/H
+- Bull - Les Clayes-sous-Bois - publiee 2026-10-01
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4474167943
+
+### Financial Analyst (H/F -alternance)
+- Europe Snacks France - Paris - publiee 2026-10-01
 - 24 mois OK - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4472153526
+- https://www.linkedin.com/jobs/view/4472980499
 
-### Alternance – Assistant Gestion Financière (H/F)
-- Galileo Global Education - Paris - publiee 2026-09-30
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4473772286
+### Apprenticeship - Business Ethics & Compliance Specialist - F/M
+- Technip Energies - Ville de Paris - publiee 2026-10-01
+- duree a verifier - mot-cle : compliance
+- https://www.linkedin.com/jobs/view/4472557141
 
 ## Deja vues (fenetre courante)
 
-### Alternant(e) – Contrôle de Gestion Achats
-- Valeo - Paris - publiee 2026-09-30
-- duree a verifier - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4455777225
+### Alternance Assistant de gestion administrative et comptable (H/F)
+- OpenClassrooms - Saint-Flour - publiee 2026-10-01
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4465337556
 
-### Alternance - Chargé de recouvrement F/H
-- RYDGE Conseil - Metz - publiee 2026-09-30
-- duree a verifier - mot-cle : recouvrement
-- https://www.linkedin.com/jobs/view/4464493721
+### Treasury Apprentice
+- Voodoo - Paris - publiee 2026-10-01
+- duree a verifier - mot-cle : treasury
+- https://www.linkedin.com/jobs/view/4437443857
 
-### Apprenti(e) Comptabilité de Gestion / Contrôle de Gestion
-- Valeo - Reims - publiee 2026-09-30
-- 24 mois OK - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4455772308
+### Alternance Assistant Comptable- Contrat en H/F
+- OpenClassrooms - Avignon - publiee 2026-10-01
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4465333541
+
+### Alternant(e) Comptable – DSCG
+- CybelAngel - Paris - publiee 2026-10-01
+- 24 mois OK - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4465324009
+
+### Alternant(e) – Compliance, Risques & Contrôle interne (H/F)
+- Adisseo - Antony - publiee 2026-10-01
+- duree a verifier - mot-cle : compliance
+- https://www.linkedin.com/jobs/view/4465302120
 
