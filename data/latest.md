@@ -1,70 +1,66 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-10-02 08:13 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-10-03 08:12 UTC_
 
-**12 offre(s)**, dont **7 nouvelle(s)** depuis le dernier passage.
+**11 offre(s)**, dont **8 nouvelle(s)** depuis le dernier passage.
+_1 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### Alternance contrôle permanent risque financier PCA H/F
-- Crédit Agricole Brie Picardie - Amiens - publiee 2026-10-01
+### Assistant comptable en alternance H/F
+- Alumni pigier Nancy - Villers-lès-Nancy - publiee 2026-10-02
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4472890272
+
+### Gestionnaire Administratif et Financier Alternance
+- Université Polytechnique Hauts-de-France - Aulnoy-lez-Valenciennes - publiee 2026-10-02
 - duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4474141755
+- https://www.linkedin.com/jobs/view/4473164356
 
-### Alternant comptable H/F
-- GUEUDET 1880 - Fleury-les-Aubrais - publiee 2026-10-01
+### ALTERNANCE - PMO Data & Gouvernance Budgétaire H/F
+- TotalEnergies - Tour-en-Sologne - publiee 2026-10-02
+- duree a verifier - mot-cle : budgetaire
+- https://www.linkedin.com/jobs/view/4474775840
+
+### Assistant(e) comptable en alternance H/F
+- Groupe Alternance - Grenoble - publiee 2026-10-02
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4472962072
+- https://www.linkedin.com/jobs/view/4473117944
 
-### Apprenti(e) en Comptabilité & Reporting - F/H
-- Atos - Les Clayes-sous-Bois - publiee 2026-10-01
+### Gestionnaire comptable et fiscal en alternance
+- IHECF - Institut des Hautes Etudes Comptables et Financières - Lorient - publiee 2026-10-02
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4472934404
+- https://www.linkedin.com/jobs/view/4473347394
 
-### Alternance Collaborateur Comptable en H/F
-- OpenClassrooms - Serris - publiee 2026-10-01
+### Assistant comptable en alternance H/F
+- Alumni pigier Nancy - Vandoeuvre-lès-Nancy - publiee 2026-10-02
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4474526654
+- https://www.linkedin.com/jobs/view/4472881788
 
-### Apprenti(e) en Comptabilité & Reporting - F/H
-- Bull - Les Clayes-sous-Bois - publiee 2026-10-01
+### Alternance - Assistant(e) en comptabilité immobilière (H/F)
+- E2SE Business School - Villers-sur-Mer - publiee 2026-10-02
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4474167943
+- https://www.linkedin.com/jobs/view/4473339719
 
-### Financial Analyst (H/F -alternance)
-- Europe Snacks France - Paris - publiee 2026-10-01
-- 24 mois OK - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4472980499
-
-### Apprenticeship - Business Ethics & Compliance Specialist - F/M
-- Technip Energies - Ville de Paris - publiee 2026-10-01
-- duree a verifier - mot-cle : compliance
-- https://www.linkedin.com/jobs/view/4472557141
+### ALTERNANT - CONTROLE DE GESTION (H/F)
+- Mediawan - Clichy - publiee 2026-10-02
+- duree a verifier - mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4475007949
 
 ## Deja vues (fenetre courante)
 
-### Alternance Assistant de gestion administrative et comptable (H/F)
-- OpenClassrooms - Saint-Flour - publiee 2026-10-01
-- duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4465337556
+### ALTERNANCE - Chargé(e) de Recouvrement - F/H
+- TotalEnergies - Tour-en-Sologne - publiee 2026-10-02
+- duree a verifier - mot-cle : recouvrement
+- https://www.linkedin.com/jobs/view/4456746929
 
-### Treasury Apprentice
-- Voodoo - Paris - publiee 2026-10-01
-- duree a verifier - mot-cle : treasury
-- https://www.linkedin.com/jobs/view/4437443857
+### Alternance (e) Comptabilité & Contrôle de gestion (H/F)
+- OpenClassrooms - Cholet - publiee 2026-10-02
+- duree a verifier - mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4465889191
 
-### Alternance Assistant Comptable- Contrat en H/F
-- OpenClassrooms - Avignon - publiee 2026-10-01
-- duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4465333541
-
-### Alternant(e) Comptable – DSCG
-- CybelAngel - Paris - publiee 2026-10-01
-- 24 mois OK - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4465324009
-
-### Alternant(e) – Compliance, Risques & Contrôle interne (H/F)
-- Adisseo - Antony - publiee 2026-10-01
-- duree a verifier - mot-cle : compliance
-- https://www.linkedin.com/jobs/view/4465302120
+### Alternance - Contrôleur de Gestion - Paris, France (H/F)
+- Astek - Paris - publiee 2026-10-02
+- duree a verifier - mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4416823712
 
