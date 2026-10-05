@@ -1,20 +1,46 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-10-04 13:44 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-10-05 16:51 UTC_
 
-**2 offre(s)**, dont **1 nouvelle(s)** depuis le dernier passage.
+**7 offre(s)**, dont **5 nouvelle(s)** depuis le dernier passage.
+_1 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### ALTERNANCE - ALTERNANCE Junior Finance Partner - F/H
-- Havas Media France - Île-de-France, France - publiee 2026-10-03
+### Alternance - DCG Comptabilité et Gestion
+- kiwi.academy - Lens - publiee 2026-10-05
+- 24 mois OK - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4474285199
+
+### Stage/Alternance Auditeur Financier - Janvier 2027 - F/H
+- PwC France - Neuilly-sur-Seine - publiee 2026-10-05
 - duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4461399450
+- https://www.linkedin.com/jobs/view/4475596088
+
+### Alternance - Assistant(e) Comptable et Paie (H/F)
+- E2SE Business School - Caen - publiee 2026-10-05
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4474285438
+
+### Alternance - Assistant(e) administratif(ve) et financier(ère) (H/F)
+- E2SE Business School - Colombelles - publiee 2026-10-05
+- duree a verifier - mot-cle : financ
+- https://www.linkedin.com/jobs/view/4474294019
+
+### Alternance - Comptable Fournisseurs - H/F
+- Spie batignolles - Nanterre - publiee 2026-10-05
+- 24 mois OK - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4473616852
 
 ## Deja vues (fenetre courante)
 
-### Stage ou alternance consultant(e) électronique, micro-électronique, électrotechnique / Financement de l'innovation F/H
-- Deloitte - La Défense - publiee 2026-10-04
+### Alternance consultant scientifique financement de l'innovation secteurs CHIMIE - BIOLOGIE - AGRO F/H
+- Deloitte - La Défense - publiee 2026-10-05
 - duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4419011912
+- https://www.linkedin.com/jobs/view/4322281008
+
+### Alternance Collaborateur / Collaboratrice d'expertise comptable
+- OpenClassrooms - Marseille - publiee 2026-10-05
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4467206363
 
