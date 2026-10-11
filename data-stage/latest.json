@@ -1,211 +1,31 @@
 {
-  "generatedAt": "2026-10-10T14:25:27.3237417Z",
+  "generatedAt": "2026-10-11T14:52:09.9389760Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 20,
-  "nouvelles": 16,
+  "total": 2,
+  "nouvelles": 0,
   "filtreRepostes": true,
-  "reposteesEcartees": 33,
+  "reposteesEcartees": 10,
   "offres": [
     {
-      "id": "4476893037",
-      "intitule": "Stage en audit financier Secteur Banque - F/H",
-      "entreprise": "BDO France",
-      "lieu": "Paris",
-      "datePubliee": "2026-10-10",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4476893037",
-      "nouvelle": true
-    },
-    {
-      "id": "4467884681",
-      "intitule": "Stage 6 mois - Juriste bancaire et financier F/H",
-      "entreprise": "Groupe Caisse des Dépôts",
-      "lieu": "Paris",
-      "datePubliee": "2026-10-10",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4467884681",
-      "nouvelle": true
-    },
-    {
-      "id": "4469873079",
-      "intitule": "Stage - Financial Controller Real Estate Funds F/H",
-      "entreprise": "BNP Paribas Asset Management",
-      "lieu": "Puteaux",
-      "datePubliee": "2026-10-10",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4469873079",
+      "id": "4440767334",
+      "intitule": "March 2027 - M&A internship – Healthcare team – Paris",
+      "entreprise": "Lazard",
+      "lieu": "France",
+      "datePubliee": "2026-10-11",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4440767334",
       "nouvelle": false
     },
     {
-      "id": "4469245512",
-      "intitule": "Stage - Listed Real Assets Financial Controller F/H",
-      "entreprise": "BNP Paribas Asset Management",
-      "lieu": "Puteaux",
+      "id": "4467868157",
+      "intitule": "Stage - Juriste Corporate/Compliance - Corporate - Janvier 2027 - F/H/X",
+      "entreprise": "CHANEL",
+      "lieu": "Paris",
       "datePubliee": "2026-10-10",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4469245512",
-      "nouvelle": false
-    },
-    {
-      "id": "4476833070",
-      "intitule": "Stagiaire Contrôle de Gestion & Projet SI H/F 6 mois Laval (53)",
-      "entreprise": "Groupe Lactalis",
-      "lieu": "Laval",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4476833070",
-      "nouvelle": true
-    },
-    {
-      "id": "4476806455",
-      "intitule": "Stagiaire Assistant Comptable H/F",
-      "entreprise": "Linxea",
-      "lieu": "Paris",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4476806455",
-      "nouvelle": true
-    },
-    {
-      "id": "4475240883",
-      "intitule": "Stage - Chargé d’investissement junior (H/F) – Private Equity",
-      "entreprise": "Caisse d'Epargne Hauts de France",
-      "lieu": "Lille",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "private equity",
-      "url": "https://www.linkedin.com/jobs/view/4475240883",
-      "nouvelle": true
-    },
-    {
-      "id": "4475255325",
-      "intitule": "Stage en COMPTABILITE H/F",
-      "entreprise": "AUTAJON GROUP",
-      "lieu": "Saint-Étienne",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4475255325",
-      "nouvelle": true
-    },
-    {
-      "id": "4477822344",
-      "intitule": "Stage (6 mois) - Back Office Titres",
-      "entreprise": "ProCapital",
-      "lieu": "Courbevoie",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "back office titres",
-      "url": "https://www.linkedin.com/jobs/view/4477822344",
-      "nouvelle": true
-    },
-    {
-      "id": "4475243311",
-      "intitule": "Stagiaire - Chargé de gestion des risques (F/H)",
-      "entreprise": "Thélem assurances",
-      "lieu": "Chécy",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "gestion des risques",
-      "url": "https://www.linkedin.com/jobs/view/4475243311",
-      "nouvelle": true
-    },
-    {
-      "id": "4477857239",
-      "intitule": "Stagiaire Ingénieur Auditeur Financier - Septembre 2027 - F/H",
-      "entreprise": "PwC France",
-      "lieu": "Strasbourg",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4477857239",
-      "nouvelle": true
-    },
-    {
-      "id": "4477859202",
-      "intitule": "Stagiaire de fin d’études - Auditeur Financier - Septembre 2027 - F/H",
-      "entreprise": "PwC France",
-      "lieu": "Strasbourg",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4477859202",
-      "nouvelle": true
-    },
-    {
-      "id": "4475253344",
-      "intitule": "Stage - 6 mois - Chargé d'affaires financements aéronautiques et Export F/H",
-      "entreprise": "Natixis Corporate & Investment Banking",
-      "lieu": "Paris",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4475253344",
-      "nouvelle": true
-    },
-    {
-      "id": "4477851364",
-      "intitule": "Stagiaire de fin d’études - Auditeur Financier - Septembre 2027 - F/H",
-      "entreprise": "PwC France",
-      "lieu": "Lille",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4477851364",
-      "nouvelle": true
-    },
-    {
-      "id": "4476836114",
-      "intitule": "STAGE - Stagiaire Audit Interne Groupe (F/H)",
-      "entreprise": "Havas Group",
-      "lieu": "Île-de-France, France",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "audit interne",
-      "url": "https://www.linkedin.com/jobs/view/4476836114",
-      "nouvelle": true
-    },
-    {
-      "id": "4475236544",
-      "intitule": "STAGIAIRE ANALYSTE EN PRIVATE EQUITY",
-      "entreprise": "Dellen",
-      "lieu": "Vélizy-Villacoublay",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "private equity",
-      "url": "https://www.linkedin.com/jobs/view/4475236544",
-      "nouvelle": true
-    },
-    {
-      "id": "4477853329",
-      "intitule": "Stagiaire de fin d’études - Auditeur Financier - Septembre 2027 - F/H",
-      "entreprise": "PwC France",
-      "lieu": "Neuilly-sur-Seine",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4477853329",
-      "nouvelle": true
-    },
-    {
-      "id": "4477854331",
-      "intitule": "Stagiaire de fin d’études - Auditeur Financier - Septembre 2027 - F/H",
-      "entreprise": "PwC France",
-      "lieu": "Rennes",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4477854331",
-      "nouvelle": true
-    },
-    {
-      "id": "4469195743",
-      "intitule": "STAGE - Ingénieur en Gestion des risques et de crises (F/H)",
-      "entreprise": "Dassault Systèmes",
-      "lieu": "Vélizy-Villacoublay",
-      "datePubliee": "2026-10-09",
-      "matchFinance": "gestion des risques",
-      "url": "https://www.linkedin.com/jobs/view/4469195743",
-      "nouvelle": false
-    },
-    {
-      "id": "4469192727",
-      "intitule": "STAGE - Data Analyst – Digitalisation License Compliance (F/H)",
-      "entreprise": "Dassault Systèmes",
-      "lieu": "Vélizy-Villacoublay",
-      "datePubliee": "2026-10-09",
       "matchFinance": "compliance",
-      "url": "https://www.linkedin.com/jobs/view/4469192727",
+      "url": "https://www.linkedin.com/jobs/view/4467868157",
       "nouvelle": false
     }
   ]
