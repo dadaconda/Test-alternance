@@ -1,32 +1,292 @@
 {
-  "generatedAt": "2026-10-11T14:52:09.9389760Z",
+  "generatedAt": "2026-10-12T17:45:17.1081767Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 2,
-  "nouvelles": 0,
+  "total": 28,
+  "nouvelles": 28,
   "filtreRepostes": true,
-  "reposteesEcartees": 10,
+  "reposteesEcartees": 16,
   "offres": [
     {
-      "id": "4440767334",
-      "intitule": "March 2027 - M&A internship – Healthcare team – Paris",
-      "entreprise": "Lazard",
-      "lieu": "France",
-      "datePubliee": "2026-10-11",
-      "matchFinance": "m&a",
-      "url": "https://www.linkedin.com/jobs/view/4440767334",
-      "nouvelle": false
+      "id": "4477572742",
+      "intitule": "JANVIER 2027 - Assistant Contrôle de gestion (H/F) – Dijon – (Stage)",
+      "entreprise": "Laboratoires URGO Healthcare",
+      "lieu": "Dijon",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4477572742",
+      "nouvelle": true
     },
     {
-      "id": "4467868157",
-      "intitule": "Stage - Juriste Corporate/Compliance - Corporate - Janvier 2027 - F/H/X",
-      "entreprise": "CHANEL",
+      "id": "4478544904",
+      "intitule": "Dette privée – Financement Innovation (H/F) – Stage 6 mois - Janvier 2027",
+      "entreprise": "Sienna Investment Managers",
       "lieu": "Paris",
-      "datePubliee": "2026-10-10",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4478544904",
+      "nouvelle": true
+    },
+    {
+      "id": "4476041059",
+      "intitule": "Chargé d'études financières Hypers/Super (F/H) en stage",
+      "entreprise": "Carrefour",
+      "lieu": "Massy",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4476041059",
+      "nouvelle": true
+    },
+    {
+      "id": "4476026593",
+      "intitule": "Stage - Contrôleur de Gestion - Paris, France (H/F)",
+      "entreprise": "Astek",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4476026593",
+      "nouvelle": true
+    },
+    {
+      "id": "4476005971",
+      "intitule": "Stage - Finance operation analyst F/H",
+      "entreprise": "Alstom",
+      "lieu": "Île-de-France, France",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4476005971",
+      "nouvelle": true
+    },
+    {
+      "id": "4475691842",
+      "intitule": "Stage Analyste ESG - 6 mois à compter de janvier 2027",
+      "entreprise": "Sycomore Asset Management",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "esg",
+      "url": "https://www.linkedin.com/jobs/view/4475691842",
+      "nouvelle": true
+    },
+    {
+      "id": "4478395575",
+      "intitule": "STAGIAIRE COMPTABILITÉ / GESTION / ASSISTANT(E) DE DIRECTION",
+      "entreprise": "VAILLANT",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4478395575",
+      "nouvelle": true
+    },
+    {
+      "id": "4478528146",
+      "intitule": "Stage Data analyste en finance F/H",
+      "entreprise": "Bouygues Telecom",
+      "lieu": "Meudon",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4478528146",
+      "nouvelle": true
+    },
+    {
+      "id": "4477905343",
+      "intitule": "Stage - Pricing Business Finance Controller - F/H",
+      "entreprise": "Schneider Electric",
+      "lieu": "Rueil-Malmaison",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4477905343",
+      "nouvelle": true
+    },
+    {
+      "id": "4478503875",
+      "intitule": "Stagiaire Gestion des Risques, Contrôle et Audit interne H/F",
+      "entreprise": "SPIE Operations",
+      "lieu": "Cergy",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "gestion des risques",
+      "url": "https://www.linkedin.com/jobs/view/4478503875",
+      "nouvelle": true
+    },
+    {
+      "id": "4476019434",
+      "intitule": "Stage - 6 mois - Analyste des opérations financières F/H",
+      "entreprise": "Alstom",
+      "lieu": "Île-de-France, France",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4476019434",
+      "nouvelle": true
+    },
+    {
+      "id": "4477528059",
+      "intitule": "Stage - Client Portfolio Manager Assistant (F/H)",
+      "entreprise": "La Française",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "portfolio",
+      "url": "https://www.linkedin.com/jobs/view/4477528059",
+      "nouvelle": true
+    },
+    {
+      "id": "4478534541",
+      "intitule": "Quantitative Researcher Internship",
+      "entreprise": "Marex",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "quantitative",
+      "url": "https://www.linkedin.com/jobs/view/4478534541",
+      "nouvelle": true
+    },
+    {
+      "id": "4476016339",
+      "intitule": "Stage Contrôleur de Gestion & Performance Financière H/F",
+      "entreprise": "FAYAT Group",
+      "lieu": "Viry-Châtillon",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4476016339",
+      "nouvelle": true
+    },
+    {
+      "id": "4476011033",
+      "intitule": "Stage Assistant de gestion (Quantitative, Finance, Data & Intelligence Artificielle F/H) – 6 mois – S1 2027",
+      "entreprise": "Sycomore Asset Management",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4476011033",
+      "nouvelle": true
+    },
+    {
+      "id": "4476017420",
+      "intitule": "Stage - 6 mois - Finance - Fusions & Acquisitions F/H",
+      "entreprise": "Alstom",
+      "lieu": "Île-de-France, France",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4476017420",
+      "nouvelle": true
+    },
+    {
+      "id": "4478548334",
+      "intitule": "Chargé d'études actuarielles (F/H) - stage",
+      "entreprise": "AXA en France",
+      "lieu": "Marseille",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "actuar",
+      "url": "https://www.linkedin.com/jobs/view/4478548334",
+      "nouvelle": true
+    },
+    {
+      "id": "4477902652",
+      "intitule": "Richemont – Stage Contrôle de gestion (H/F)",
+      "entreprise": "Richemont",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4477902652",
+      "nouvelle": true
+    },
+    {
+      "id": "4478525995",
+      "intitule": "STAGE - ASSISTANTE / ASSISTANT AUDIT INTERNE - CANAL+ GROUPE - (F/H/X)",
+      "entreprise": "CANAL+ Group",
+      "lieu": "Issy-les-Moulineaux",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "audit interne",
+      "url": "https://www.linkedin.com/jobs/view/4478525995",
+      "nouvelle": true
+    },
+    {
+      "id": "4477582950",
+      "intitule": "STAGE - Assistant Chargé de Mission Compliance et RSE (H/F)",
+      "entreprise": "Hermès",
+      "lieu": "Pantin",
+      "datePubliee": "2026-10-12",
       "matchFinance": "compliance",
-      "url": "https://www.linkedin.com/jobs/view/4467868157",
-      "nouvelle": false
+      "url": "https://www.linkedin.com/jobs/view/4477582950",
+      "nouvelle": true
+    },
+    {
+      "id": "4478517050",
+      "intitule": "Analyste Études Quantitatives et Modèles - Stage (F/H)",
+      "entreprise": "TotalEnergies",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "quantitative",
+      "url": "https://www.linkedin.com/jobs/view/4478517050",
+      "nouvelle": true
+    },
+    {
+      "id": "4478395382",
+      "intitule": "Chargé(e) d’affaires M&A - Stage janvier 2027",
+      "entreprise": "AUDUN Partners",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4478395382",
+      "nouvelle": true
+    },
+    {
+      "id": "4478345121",
+      "intitule": "Stagiaire Finance de Marché – Transformation CDI potentielle",
+      "entreprise": "Canopee",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4478345121",
+      "nouvelle": true
+    },
+    {
+      "id": "4477585868",
+      "intitule": "Stage Analyse Financière - Gestion Fixed Income (Janvier 2027)",
+      "entreprise": "ODDO BHF",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4477585868",
+      "nouvelle": true
+    },
+    {
+      "id": "4477524062",
+      "intitule": "Stagiaire en comptabilité et finance",
+      "entreprise": "AESC France",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4477524062",
+      "nouvelle": true
+    },
+    {
+      "id": "4476000933",
+      "intitule": "Stagiaire Corporate Lending - Origination & Execution / Credit Analyst",
+      "entreprise": "ING",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "credit analyst",
+      "url": "https://www.linkedin.com/jobs/view/4476000933",
+      "nouvelle": true
+    },
+    {
+      "id": "4475698915",
+      "intitule": "Stagiaire Transformation/Processus Comptables et Contrôle interne - H/F",
+      "entreprise": "POMMIER",
+      "lieu": "Beauchamp",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4475698915",
+      "nouvelle": true
+    },
+    {
+      "id": "4477582597",
+      "intitule": "Expert-Comptable Stagiaire (H/F)",
+      "entreprise": "Talents Finance",
+      "lieu": "Lille",
+      "datePubliee": "2026-10-12",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4477582597",
+      "nouvelle": true
     }
   ]
 }
