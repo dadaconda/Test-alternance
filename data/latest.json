@@ -1,11 +1,56 @@
 {
-  "generatedAt": "2026-10-11T14:41:54.4241010Z",
+  "generatedAt": "2026-10-12T17:27:01.7020617Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 0,
-  "nouvelles": 0,
+  "total": 4,
+  "nouvelles": 4,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 1,
-  "offres": []
+  "reposteesEcartees": 2,
+  "offres": [
+    {
+      "id": "4476036046",
+      "intitule": "Alternance - Comptable Trésorier - Paris, France (H/F)",
+      "entreprise": "Astek",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-12",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4476036046",
+      "nouvelle": true
+    },
+    {
+      "id": "4476026893",
+      "intitule": "Collaborateur Comptable en Alternance H/F",
+      "entreprise": "FIDUCIAL",
+      "lieu": "Saumur",
+      "datePubliee": "2026-10-12",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4476026893",
+      "nouvelle": true
+    },
+    {
+      "id": "4477583618",
+      "intitule": "Assistant.e Comptabilité Auxiliaires - Alternance Octobre 2026",
+      "entreprise": "Groupe ETAM",
+      "lieu": "Clichy",
+      "datePubliee": "2026-10-12",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4477583618",
+      "nouvelle": true
+    },
+    {
+      "id": "4478532927",
+      "intitule": "Chef de Projet Comptable et Data (H/F)- En alternance",
+      "entreprise": "AXA en France",
+      "lieu": "Nanterre",
+      "datePubliee": "2026-10-12",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4478532927",
+      "nouvelle": true
+    }
+  ]
 }
