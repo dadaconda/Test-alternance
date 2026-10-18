@@ -1,34 +1,11 @@
 {
-  "generatedAt": "2026-10-17T11:59:56.1440495Z",
+  "generatedAt": "2026-10-18T12:28:06.4889892Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 2,
-  "nouvelles": 2,
+  "total": 0,
+  "nouvelles": 0,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 3,
-  "offres": [
-    {
-      "id": "4479700514",
-      "intitule": "Auditeur financier Alternant (F/H) Hub Normandie - 27/28",
-      "entreprise": "KPMG France",
-      "lieu": "Bois-Guillaume",
-      "datePubliee": "2026-10-16",
-      "duree24": true,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4479700514",
-      "nouvelle": true
-    },
-    {
-      "id": "4479376033",
-      "intitule": "Contrat d'apprentissage en Finance",
-      "entreprise": "Inditex",
-      "lieu": "Paris",
-      "datePubliee": "2026-10-16",
-      "duree24": false,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4479376033",
-      "nouvelle": true
-    }
-  ]
+  "reposteesEcartees": 0,
+  "offres": []
 }
