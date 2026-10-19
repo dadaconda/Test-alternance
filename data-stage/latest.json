@@ -1,11 +1,312 @@
 {
-  "generatedAt": "2026-10-18T12:34:21.5622627Z",
+  "generatedAt": "2026-10-19T15:30:36.7514828Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 0,
-  "nouvelles": 0,
+  "total": 30,
+  "nouvelles": 30,
   "filtreRepostes": true,
-  "reposteesEcartees": 16,
-  "offres": []
+  "reposteesEcartees": 8,
+  "offres": [
+    {
+      "id": "4478253912",
+      "intitule": "Internship - Credit Analyst - January 2027",
+      "entreprise": "AXA en France",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "credit analyst",
+      "url": "https://www.linkedin.com/jobs/view/4478253912",
+      "nouvelle": true
+    },
+    {
+      "id": "4478290265",
+      "intitule": "Stage Assistant.e contrôle de gestion marketing & innovation",
+      "entreprise": "Suntory Beverage & Food France",
+      "lieu": "Neuilly-sur-Seine",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4478290265",
+      "nouvelle": true
+    },
+    {
+      "id": "4480990996",
+      "intitule": "Contrôle de gestion opérationnel stage F/H",
+      "entreprise": "VINCI Energies",
+      "lieu": "Saint-Simon",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4480990996",
+      "nouvelle": true
+    },
+    {
+      "id": "4479990155",
+      "intitule": "Stagiaire Contrôleur de Gestion Industriel (H/F) - 4 à 6 mois Cuincy (59)",
+      "entreprise": "Groupe Lactalis",
+      "lieu": "Cuincy",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4479990155",
+      "nouvelle": true
+    },
+    {
+      "id": "4480985699",
+      "intitule": "Stagiaire Analyste M&A F/H",
+      "entreprise": "Nexia S&A",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4480985699",
+      "nouvelle": true
+    },
+    {
+      "id": "4479978309",
+      "intitule": "Chargé de Reporting Esg & Durabilité Groupe Eram H/F (stage)",
+      "entreprise": "Groupe Eram",
+      "lieu": "Montrevault-sur-Èvre",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "esg",
+      "url": "https://www.linkedin.com/jobs/view/4479978309",
+      "nouvelle": true
+    },
+    {
+      "id": "4480994598",
+      "intitule": "Stage - Investment Strategy and Financial Data Analyst",
+      "entreprise": "AXA",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4480994598",
+      "nouvelle": true
+    },
+    {
+      "id": "4478266793",
+      "intitule": "STAGE - CONTROLEUR DE GESTION F/H",
+      "entreprise": "Cdiscount",
+      "lieu": "Bordeaux",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4478266793",
+      "nouvelle": true
+    },
+    {
+      "id": "4480978797",
+      "intitule": "Stage - Conformité RGPD H/F",
+      "entreprise": "VivaTech",
+      "lieu": "Nanterre",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4480978797",
+      "nouvelle": true
+    },
+    {
+      "id": "4480992507",
+      "intitule": "STAGE - Refinancement Long Terme F/H",
+      "entreprise": "La Poste Groupe",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4480992507",
+      "nouvelle": true
+    },
+    {
+      "id": "4479983478",
+      "intitule": "FP&A Analyst - Stage Janvier 2027 - Paris - H/F/X",
+      "entreprise": "Partoo",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "fp&a",
+      "url": "https://www.linkedin.com/jobs/view/4479983478",
+      "nouvelle": true
+    },
+    {
+      "id": "4480959895",
+      "intitule": "STAGE – Contrôleur de Gestion Fonctions Support & Consolidation (H/F)",
+      "entreprise": "Lacoste",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4480959895",
+      "nouvelle": true
+    },
+    {
+      "id": "4481203032",
+      "intitule": "Stage - Gestionnaire Back-Office Trésorerie F/H",
+      "entreprise": "La Poste Groupe",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "tresorerie",
+      "url": "https://www.linkedin.com/jobs/view/4481203032",
+      "nouvelle": true
+    },
+    {
+      "id": "4480988694",
+      "intitule": "Stage - Contrôle de Gestion Market Datas F/H",
+      "entreprise": "La Poste Groupe",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4480988694",
+      "nouvelle": true
+    },
+    {
+      "id": "4480984813",
+      "intitule": "Stage Comptabilité Fiscale - Janvier 2027",
+      "entreprise": "Rothschild & Co",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4480984813",
+      "nouvelle": true
+    },
+    {
+      "id": "4480236673",
+      "intitule": "Stage Mars 2027 – Assistant contrôleur de gestion (H/F)",
+      "entreprise": "Publicis Media",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4480236673",
+      "nouvelle": true
+    },
+    {
+      "id": "4479966830",
+      "intitule": "Stage (H/F) - Financement de Projet et M&A",
+      "entreprise": "GreenYellow France",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4479966830",
+      "nouvelle": true
+    },
+    {
+      "id": "4480964681",
+      "intitule": "Stage Comptable Clients H/F",
+      "entreprise": "EA Pharma",
+      "lieu": "Mougins",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4480964681",
+      "nouvelle": true
+    },
+    {
+      "id": "4480219679",
+      "intitule": "Stage - Assistant Middle Office - BORDEAUX",
+      "entreprise": "Olifan Group",
+      "lieu": "Bordeaux",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "middle office",
+      "url": "https://www.linkedin.com/jobs/view/4480219679",
+      "nouvelle": true
+    },
+    {
+      "id": "4480238193",
+      "intitule": "Stage Comptable Clients H/F",
+      "entreprise": "Olyos Group",
+      "lieu": "Mougins",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4480238193",
+      "nouvelle": true
+    },
+    {
+      "id": "4478264455",
+      "intitule": "Stage - Inclusive Insurance Financial Analysis - Mars 2027",
+      "entreprise": "AXA en France",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4478264455",
+      "nouvelle": true
+    },
+    {
+      "id": "4480992608",
+      "intitule": "Internship - Investment Strategy and Financial Data Analyst",
+      "entreprise": "AXA",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4480992608",
+      "nouvelle": true
+    },
+    {
+      "id": "4480996595",
+      "intitule": "Stagiaire Audit Interne H/F",
+      "entreprise": "Egis en France",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "audit interne",
+      "url": "https://www.linkedin.com/jobs/view/4480996595",
+      "nouvelle": true
+    },
+    {
+      "id": "4479984298",
+      "intitule": "Stagiaire - Contrôle de Gestion - F/H - Paris - Janvier 2027",
+      "entreprise": "EY",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4479984298",
+      "nouvelle": true
+    },
+    {
+      "id": "4480954496",
+      "intitule": "STAGE ANALYSTE RISQUE DE CHANGE SUR DES PROJETS EN EXECUTION F/H - 08_PFIN_stg",
+      "entreprise": "Saipem",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "analyste risqu",
+      "url": "https://www.linkedin.com/jobs/view/4480954496",
+      "nouvelle": true
+    },
+    {
+      "id": "4480227298",
+      "intitule": "Stage - Assistant Middle Office - MOUGINS",
+      "entreprise": "Olifan Group",
+      "lieu": "Mougins",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "middle office",
+      "url": "https://www.linkedin.com/jobs/view/4480227298",
+      "nouvelle": true
+    },
+    {
+      "id": "4479977517",
+      "intitule": "Stagiaire Private Equity (F/H)",
+      "entreprise": "Banque Transatlantique",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "private equity",
+      "url": "https://www.linkedin.com/jobs/view/4479977517",
+      "nouvelle": true
+    },
+    {
+      "id": "4478273759",
+      "intitule": "Stagiaire Compliance H/F",
+      "entreprise": "Sodebo",
+      "lieu": "Montaigu-Vendée",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "compliance",
+      "url": "https://www.linkedin.com/jobs/view/4478273759",
+      "nouvelle": true
+    },
+    {
+      "id": "4480998090",
+      "intitule": "Stage Analyste M&A - H/F",
+      "entreprise": "Groupe Léon Grosse",
+      "lieu": "Versailles",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4480998090",
+      "nouvelle": true
+    },
+    {
+      "id": "4478267310",
+      "intitule": "Internship - Financial Controller - Novembre 2026",
+      "entreprise": "AXA en France",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-19",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4478267310",
+      "nouvelle": true
+    }
+  ]
 }
