@@ -1,54 +1,46 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-10-23 13:07 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-10-24 12:28 UTC_
 
-**9 offre(s)**, dont **9 nouvelle(s)** depuis le dernier passage.
-_1 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**7 offre(s)**, dont **6 nouvelle(s)** depuis le dernier passage.
+_3 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### AP26 BAC+5 Alternance Data analytics et IA audit interne H/F
-- Renault Group - Boulogne-Billancourt - publiee 2026-10-23
-- 24 mois OK - mot-cle : audit interne
-- https://www.linkedin.com/jobs/view/4481679089
+### Alternance - Ingénieur(e) Support Projet Digitalisation & Conformité F/H
+- Framatome - Courbevoie - publiee 2026-10-23
+- duree a verifier - mot-cle : conformite
+- https://www.linkedin.com/jobs/view/4481915648
 
-### Auditeur financier Alternant (F/H)
-- KPMG France - Le Mans - publiee 2026-10-22
-- 24 mois OK - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4480151014
-
-### Collaborateur Comptable Fournisseurs en Alternance (H/F)
-- Rentokil Initial France - Boulogne-Billancourt - publiee 2026-10-22
+### Comptable en alternance F/H
+- GEMY Automobiles - Laval - publiee 2026-10-23
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4482716692
+- https://www.linkedin.com/jobs/view/4482880548
 
-### Alternance - Assistant(e) Comptable et Administratif(ve) (H/F)
-- Warner Music France - Paris - publiee 2026-10-22
+### Assistant comptable en alternance H/F
+- Alumni pigier Nancy - Laxou - publiee 2026-10-23
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4481382000
+- https://www.linkedin.com/jobs/view/4481698356
 
-### Assistant Comptable en Alternance F/H
-- écomiam - Quimper - publiee 2026-10-22
-- 24 mois OK - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4482700283
-
-### Auditeur Financier Alternant (F/H)
-- KPMG France - Longuenesse - publiee 2026-10-22
-- 24 mois OK - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4481786120
-
-### Apprenti comptable H/F
-- MIRABEAU AEROSPACE - Isles-lès-Villenoy - publiee 2026-10-22
+### Assistant comptable - Alternance F/H - Cabinet AFE
+- Cabinet AFE - Arles - publiee 2026-10-23
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4480062770
+- https://www.linkedin.com/jobs/view/4482615578
 
-### Auditeur alternant financier F/H
-- KPMG France - Lyon - publiee 2026-10-22
-- 24 mois OK - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4482774200
+### Apprentissage, Compliance Consulting
+- Kroll - Paris - publiee 2026-10-23
+- duree a verifier - mot-cle : compliance
+- https://www.linkedin.com/jobs/view/4480697756
 
-### Auditeur alternant financier F/H
-- KPMG France - Saint-Étienne - publiee 2026-10-22
-- 24 mois OK - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4482760516
+### Assistant comptable - Alternance F/H
+- AFE (Audit Finance Expert) - Marseille - publiee 2026-10-23
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4483124907
+
+## Deja vues (fenetre courante)
+
+### Alternant Expertise Comptable F/H
+- RYDGE Conseil - Moulins - publiee 2026-10-24
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4466090571
 
