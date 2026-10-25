@@ -1,89 +1,11 @@
 {
-  "generatedAt": "2026-10-24T12:28:11.4925186Z",
+  "generatedAt": "2026-10-25T12:59:01.7181845Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 7,
-  "nouvelles": 6,
+  "total": 0,
+  "nouvelles": 0,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 3,
-  "offres": [
-    {
-      "id": "4466090571",
-      "intitule": "Alternant Expertise Comptable F/H",
-      "entreprise": "RYDGE Conseil",
-      "lieu": "Moulins",
-      "datePubliee": "2026-10-24",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4466090571",
-      "nouvelle": false
-    },
-    {
-      "id": "4481915648",
-      "intitule": "Alternance - Ingénieur(e) Support Projet Digitalisation & Conformité F/H",
-      "entreprise": "Framatome",
-      "lieu": "Courbevoie",
-      "datePubliee": "2026-10-23",
-      "duree24": false,
-      "matchFinance": "conformite",
-      "url": "https://www.linkedin.com/jobs/view/4481915648",
-      "nouvelle": true
-    },
-    {
-      "id": "4482880548",
-      "intitule": "Comptable en alternance F/H",
-      "entreprise": "GEMY Automobiles",
-      "lieu": "Laval",
-      "datePubliee": "2026-10-23",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4482880548",
-      "nouvelle": true
-    },
-    {
-      "id": "4481698356",
-      "intitule": "Assistant comptable en alternance H/F",
-      "entreprise": "Alumni pigier Nancy",
-      "lieu": "Laxou",
-      "datePubliee": "2026-10-23",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4481698356",
-      "nouvelle": true
-    },
-    {
-      "id": "4482615578",
-      "intitule": "Assistant comptable - Alternance F/H - Cabinet AFE",
-      "entreprise": "Cabinet AFE",
-      "lieu": "Arles",
-      "datePubliee": "2026-10-23",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4482615578",
-      "nouvelle": true
-    },
-    {
-      "id": "4480697756",
-      "intitule": "Apprentissage, Compliance Consulting",
-      "entreprise": "Kroll",
-      "lieu": "Paris",
-      "datePubliee": "2026-10-23",
-      "duree24": false,
-      "matchFinance": "compliance",
-      "url": "https://www.linkedin.com/jobs/view/4480697756",
-      "nouvelle": true
-    },
-    {
-      "id": "4483124907",
-      "intitule": "Assistant comptable - Alternance F/H",
-      "entreprise": "AFE (Audit Finance Expert)",
-      "lieu": "Marseille",
-      "datePubliee": "2026-10-23",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4483124907",
-      "nouvelle": true
-    }
-  ]
+  "reposteesEcartees": 0,
+  "offres": []
 }
