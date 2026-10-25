@@ -1,126 +1,111 @@
 # Offres de stage - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-10-24 12:36 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-10-25 13:08 UTC_
 
-**23 offre(s)**, dont **22 nouvelle(s)** depuis le dernier passage.
-_32 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**20 offre(s)**, dont **19 nouvelle(s)** depuis le dernier passage.
+_6 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### STAGE - ASSISTANT INGENIEUR FINANCIER F/H
-- AG2R LA MONDIALE - Paris - publiee 2026-10-24
+### Stage Financement de projets - 2ème semestre 2028
+- Ashurst Perkins Coie - Paris - publiee 2026-10-25
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4466307790
+- https://www.linkedin.com/jobs/view/4464224844
 
-### Chargé d'études comptables (F/H) - stage
-- AXA en France - Nanterre - publiee 2026-10-24
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4483197288
+### Stagiaire en acquisition/asset management- Real estate
+- ATMOS CAPITAL - Paris - publiee 2026-10-25
+- mot-cle : asset management
+- https://www.linkedin.com/jobs/view/4483348154
 
-### Stage Financement de projets - 1er semestre 2028
-- Ashurst Perkins Coie - Paris - publiee 2026-10-24
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4464224846
-
-### Stage - Analyste M&A / Fusions-Acquisitions - H/F Février-Mars 2027
-- Extia - Paris - publiee 2026-10-24
-- mot-cle : m&a
-- https://www.linkedin.com/jobs/view/4482332543
-
-### Stage - Analyste Modélisation financière & Business Development - H/F
-- EDF power solutions - Nanterre - publiee 2026-10-24
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4481012848
-
-### Stage - Contrôle financier BU EMEA Markets (H/F)
-- Club Med - Paris - publiee 2026-10-24
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4482359563
-
-### STAGE 6 MOIS - Analyste financier et comptable F/H
-- Asys - Lyon - publiee 2026-10-23
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4482896549
-
-### Stage - Analyste conformité - F/H
-- Inspection Générale de La Banque Postale - Paris - publiee 2026-10-23
+### Stage - Assistant Conformité & Modération de Contenu (x/f/m) - Juillet 2026
+- Doctolib - Levallois-Perret - publiee 2026-10-25
 - mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4481972315
+- https://www.linkedin.com/jobs/view/4415369389
 
-### Stage - Analyste Modélisation financière & Business Development F/H
-- EDF - Nanterre - publiee 2026-10-23
+### Stagiaire Finance (F/H)
+- Cheval Blanc - Brides-les-Bains - publiee 2026-10-25
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4483108111
+- https://www.linkedin.com/jobs/view/4456212786
 
-### Stage Portfolio Controlling et Financial Planner BAC+4/5 H/F
-- Volvo Group - Lyon - publiee 2026-10-23
+### Stage : Gestionnaire de tresorerie
+- Stellantis - Poissy - publiee 2026-10-24
+- mot-cle : tresorerie
+- https://www.linkedin.com/jobs/view/4473161716
+
+### Stage : Évaluation des risques et sensibilisation à la Compliance-Europe
+- Stellantis - Poissy - publiee 2026-10-24
+- mot-cle : compliance
+- https://www.linkedin.com/jobs/view/4473154939
+
+### Stagiaire Business Developer Financement de l’Innovation (6 Mois à compter du 01/01/2027) H/F
+- Ayming - Levallois-Perret - publiee 2026-10-24
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4483105599
+- https://www.linkedin.com/jobs/view/4454111486
 
-### Stage - Chargé(e) de M&A et Venture Capital H/F
-- Groupama Assurances Mutuelles - Paris - publiee 2026-10-23
-- mot-cle : m&a
-- https://www.linkedin.com/jobs/view/4481924787
-
-### STAGE - Contrôle de gestion et planification budgétaire H/F
-- TotalEnergies - Tour-en-Sologne - publiee 2026-10-23
-- mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4483118255
-
-### Assistant contrôle de gestion (Stage)
-- GL events - Saint-Denis - publiee 2026-10-23
-- mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4482875612
-
-### Stage - Assistant desk refinancement
-- BRED Banque Populaire - Paris - publiee 2026-10-23
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4480690321
-
-### Stage Auditeur Financier - Bordeaux - Janvier 2027 - F/H
-- PwC France - Bordeaux - publiee 2026-10-23
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4483126682
-
-### Stagiaire comptabilité H/F
-- Groupe Rossignol - Saint-Jean-de-Moirans - publiee 2026-10-23
+### Stage :Chargé de projet comptabilité-facturation
+- Stellantis - Poissy - publiee 2026-10-24
 - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4480661812
+- https://www.linkedin.com/jobs/view/4473169357
 
-### Stage - Analyste conformité - F/H
-- La Banque Postale - Paris - publiee 2026-10-23
-- mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4482887645
+### Stage : Chef de projet automatisation - Finance
+- Stellantis - Sochaux - publiee 2026-10-24
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4473160685
 
-### Stage – Contrôle de Gestion & Consolidation Groupe (H/F)
-- Parrot - Paris - publiee 2026-10-23
+### Stage : Automatisation des reportings et analyses fp&a
+- Stellantis - Poissy - publiee 2026-10-24
+- mot-cle : fp&a
+- https://www.linkedin.com/jobs/view/4473166385
+
+### Stage : Assistant Contrôleur de Gestion B2B
+- Stellantis - Poissy - publiee 2026-10-24
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4473162602
+
+### Stage : Transformation Finance, Automatisation & IA (H/F - 6M)
+- Stellantis - Poissy - publiee 2026-10-24
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4473160682
+
+### Stage : contrôle de gestion B2B /LCD (activité de location courte durée)
+- Stellantis - Poissy - publiee 2026-10-24
 - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4483135247
+- https://www.linkedin.com/jobs/view/4473162599
 
-### Collaborateur comptable - Stagiaire DEC
-- BRING - Paris - publiee 2026-10-23
+### Stage - 6 mois - IT Quant Equity Pricing F/H
+- Natixis Corporate & Investment Banking - Paris - publiee 2026-10-24
+- mot-cle : quant
+- https://www.linkedin.com/jobs/view/4473163829
+
+### Stage : Contrôle de gestion Circular Economy
+- Stellantis - Poissy - publiee 2026-10-24
+- mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4473158747
+
+### STAGE - ASSISTANT.E JURISTE COMPLIANCE (F/H/X) - JUILLET 2027
+- Celine - Paris - publiee 2026-10-24
+- mot-cle : compliance
+- https://www.linkedin.com/jobs/view/4475046439
+
+### Stage : Contrôle de gestion logistique amont enlarged europe h/f
+- Stellantis - Poissy - publiee 2026-10-24
+- mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4473156823
+
+### Stage - Comptable fournisseur
+- Stellantis - Poissy - publiee 2026-10-24
 - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4480679394
+- https://www.linkedin.com/jobs/view/4473159683
 
-### Stage - Analyste Financière / Relations Investisseurs H/F
-- Atos - Courbevoie - publiee 2026-10-23
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4480657824
-
-### Financial Planning & Analysis - Intern (m/f/d)
-- Deezer - Paris - publiee 2026-10-23
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4481946180
-
-### Stage - Contrôle de gestion (H/F)
-- Parrot - Paris - publiee 2026-10-23
+### Stage : contrôle de gestion VO - activité véhicules d'occasion
+- Stellantis - Poissy - publiee 2026-10-24
 - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4483120702
+- https://www.linkedin.com/jobs/view/4473160686
 
 ## Deja vues (fenetre courante)
 
-### Finance Intern
-- Hôtel de Crillon, A Rosewood Hotel - Paris - publiee 2026-10-24
+### Stage – Data & Automation Analyst – Finance - AS 24
+- TotalEnergies - Saint-Herblain - publiee 2026-10-24
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4463324643
+- https://www.linkedin.com/jobs/view/4465874448
 
