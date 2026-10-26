@@ -1,11 +1,45 @@
 {
-  "generatedAt": "2026-10-25T12:59:01.7181845Z",
+  "generatedAt": "2026-10-26T14:53:23.5764244Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 0,
-  "nouvelles": 0,
+  "total": 3,
+  "nouvelles": 3,
   "strict24mois": false,
   "filtreRepostes": true,
   "reposteesEcartees": 0,
-  "offres": []
+  "offres": [
+    {
+      "id": "4483549432",
+      "intitule": "Comptable - Apprentissage de 2 ans (F/H)",
+      "entreprise": "PHOTOSOL",
+      "lieu": "Bordeaux",
+      "datePubliee": "2026-10-26",
+      "duree24": true,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4483549432",
+      "nouvelle": true
+    },
+    {
+      "id": "4481469063",
+      "intitule": "ALTERNANCE - ANALYSTE COMPTABLE / FISCAL H/F - PARIS",
+      "entreprise": "SMABTP",
+      "lieu": "Paris",
+      "datePubliee": "2026-10-26",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4481469063",
+      "nouvelle": true
+    },
+    {
+      "id": "4483539159",
+      "intitule": "Comptable gérance H/F - ALTERNANCE",
+      "entreprise": "Lamy",
+      "lieu": "Saint-André-lez-Lille",
+      "datePubliee": "2026-10-26",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4483539159",
+      "nouvelle": true
+    }
+  ]
 }
