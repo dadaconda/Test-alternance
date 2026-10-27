@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-26T14:53:23.5764244Z",
+  "generatedAt": "2026-10-27T14:02:03.1884444Z",
   "source": "linkedin",
   "fenetreHeures": 24,
   "total": 3,
   "nouvelles": 3,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 0,
+  "reposteesEcartees": 3,
   "offres": [
     {
-      "id": "4483549432",
-      "intitule": "Comptable - Apprentissage de 2 ans (F/H)",
-      "entreprise": "PHOTOSOL",
-      "lieu": "Bordeaux",
+      "id": "4481878590",
+      "intitule": "Comptable (F/H) - Alternance",
+      "entreprise": "Studi",
+      "lieu": "Montpellier",
+      "datePubliee": "2026-10-27",
+      "duree24": true,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4481878590",
+      "nouvelle": true
+    },
+    {
+      "id": "4483259719",
+      "intitule": "Collaborateur Comptable F/H en alternance – Nantes",
+      "entreprise": "Cocerto",
+      "lieu": "Nantes",
       "datePubliee": "2026-10-26",
       "duree24": true,
       "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4483549432",
+      "url": "https://www.linkedin.com/jobs/view/4483259719",
       "nouvelle": true
     },
     {
-      "id": "4481469063",
-      "intitule": "ALTERNANCE - ANALYSTE COMPTABLE / FISCAL H/F - PARIS",
-      "entreprise": "SMABTP",
-      "lieu": "Paris",
+      "id": "4481803880",
+      "intitule": "Stagiaire Compliance et KYC – Leudeange (H/F)",
+      "entreprise": "Groupe Alternance",
+      "lieu": "Metz",
       "datePubliee": "2026-10-26",
       "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4481469063",
-      "nouvelle": true
-    },
-    {
-      "id": "4483539159",
-      "intitule": "Comptable gérance H/F - ALTERNANCE",
-      "entreprise": "Lamy",
-      "lieu": "Saint-André-lez-Lille",
-      "datePubliee": "2026-10-26",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4483539159",
+      "matchFinance": "compliance",
+      "url": "https://www.linkedin.com/jobs/view/4481803880",
       "nouvelle": true
     }
   ]
