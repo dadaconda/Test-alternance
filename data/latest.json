@@ -1,11 +1,89 @@
 {
-  "generatedAt": "2026-11-01T14:46:29.0539035Z",
+  "generatedAt": "2026-11-02T17:53:14.8802468Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 0,
-  "nouvelles": 0,
+  "total": 7,
+  "nouvelles": 7,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 0,
-  "offres": []
+  "reposteesEcartees": 2,
+  "offres": [
+    {
+      "id": "4485741604",
+      "intitule": "Alternant Auditeur Financier - Lille - Septembre 2027 (H/F)",
+      "entreprise": "Forvis Mazars en France",
+      "lieu": "Villeneuve-d'Ascq",
+      "datePubliee": "2026-11-02",
+      "duree24": true,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4485741604",
+      "nouvelle": true
+    },
+    {
+      "id": "4485472366",
+      "intitule": "Assistant(e) Comptable - Alternance H/F",
+      "entreprise": "implid",
+      "lieu": "Moulins",
+      "datePubliee": "2026-11-02",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4485472366",
+      "nouvelle": true
+    },
+    {
+      "id": "4484379343",
+      "intitule": "FP&A Corporate Apprentice",
+      "entreprise": "Contentsquare",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-02",
+      "duree24": false,
+      "matchFinance": "fp&a",
+      "url": "https://www.linkedin.com/jobs/view/4484379343",
+      "nouvelle": true
+    },
+    {
+      "id": "4484389110",
+      "intitule": "Contrôleur de gestion (F/H) en alternance",
+      "entreprise": "Carrefour",
+      "lieu": "Saint-Quentin-Fallavier",
+      "datePubliee": "2026-11-02",
+      "duree24": false,
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4484389110",
+      "nouvelle": true
+    },
+    {
+      "id": "4484321620",
+      "intitule": "Alternance - Juriste conformité et protection des données personnelles (H/F) - Décembre 2026.",
+      "entreprise": "SGS",
+      "lieu": "Arcueil",
+      "datePubliee": "2026-11-02",
+      "duree24": false,
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4484321620",
+      "nouvelle": true
+    },
+    {
+      "id": "4485750370",
+      "intitule": "Apprenti Comptable Auxiliaire H/F",
+      "entreprise": "Sisley Paris",
+      "lieu": "Saint-Ouen-l'Aumône",
+      "datePubliee": "2026-11-02",
+      "duree24": true,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4485750370",
+      "nouvelle": true
+    },
+    {
+      "id": "4485736759",
+      "intitule": "Alternance - Expertise comptable – Lille – Septembre 2027 H/F",
+      "entreprise": "Forvis Mazars en France",
+      "lieu": "Villeneuve-d'Ascq",
+      "datePubliee": "2026-11-02",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4485736759",
+      "nouvelle": true
+    }
+  ]
 }
