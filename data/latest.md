@@ -1,44 +1,49 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-11-02 17:53 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-11-03 15:52 UTC_
 
-**7 offre(s)**, dont **7 nouvelle(s)** depuis le dernier passage.
-_2 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**8 offre(s)**, dont **8 nouvelle(s)** depuis le dernier passage.
+_7 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### Alternant Auditeur Financier - Lille - Septembre 2027 (H/F)
-- Forvis Mazars en France - Villeneuve-d'Ascq - publiee 2026-11-02
-- 24 mois OK - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4485741604
-
-### Assistant(e) Comptable - Alternance H/F
-- implid - Moulins - publiee 2026-11-02
-- duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4485472366
-
-### FP&A Corporate Apprentice
-- Contentsquare - Paris - publiee 2026-11-02
-- duree a verifier - mot-cle : fp&a
-- https://www.linkedin.com/jobs/view/4484379343
-
-### Contrôleur de gestion (F/H) en alternance
-- Carrefour - Saint-Quentin-Fallavier - publiee 2026-11-02
-- duree a verifier - mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4484389110
-
-### Alternance - Juriste conformité et protection des données personnelles (H/F) - Décembre 2026.
-- SGS - Arcueil - publiee 2026-11-02
-- duree a verifier - mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4484321620
-
-### Apprenti Comptable Auxiliaire H/F
-- Sisley Paris - Saint-Ouen-l'Aumône - publiee 2026-11-02
+### Alternance - Comptable H/F
+- SOS OXYGENE MARTINIQUE - Nice - publiee 2026-11-03
 - 24 mois OK - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4485750370
+- https://www.linkedin.com/jobs/view/4484689334
 
-### Alternance - Expertise comptable – Lille – Septembre 2027 H/F
-- Forvis Mazars en France - Villeneuve-d'Ascq - publiee 2026-11-02
-- duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4485736759
+### Alternance - Assistant Contrôleur de gestion (F/H)
+- Webuild - Saint-Martin-de-la-Porte - publiee 2026-11-03
+- duree a verifier - mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4484685355
+
+### Alternance – Assistant(e) Comptabilité Clients & Trésorerie (H/F)
+- FRNCH PARIS - Paris - publiee 2026-11-03
+- duree a verifier - mot-cle : tresorerie
+- https://www.linkedin.com/jobs/view/4486044636
+
+### Alternance Contrôleur de gestion (F/H)
+- Webuild - Ville de Paris - publiee 2026-11-03
+- duree a verifier - mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4484684278
+
+### Alternance Analyste Financier, M&A H/F - Experimental
+- Hospitaliti - Paris - publiee 2026-11-03
+- duree a verifier - mot-cle : financ
+- https://www.linkedin.com/jobs/view/4484638853
+
+### administrative and financial apprentice
+- Nexans - Plainfaing - publiee 2026-11-02
+- duree a verifier - mot-cle : financ
+- https://www.linkedin.com/jobs/view/4486445854
+
+### Alternance Analyste Financier, M&A H/F - Experimental
+- Experimental - Paris - publiee 2026-11-02
+- duree a verifier - mot-cle : financ
+- https://www.linkedin.com/jobs/view/4485784210
+
+### [TEST - NE PAS POSTULER] Alternance Contrôleur de gestion F/H
+- La Poste Groupe - Draguignan - publiee 2026-11-02
+- 24 mois OK - mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4486447941
 
