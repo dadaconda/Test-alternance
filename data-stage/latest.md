@@ -1,109 +1,151 @@
 # Offres de stage - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-11-03 16:06 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-11-04 16:10 UTC_
 
-**20 offre(s)**, dont **20 nouvelle(s)** depuis le dernier passage.
-_51 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**28 offre(s)**, dont **26 nouvelle(s)** depuis le dernier passage.
+_32 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### STAGE - Analyste M&A
-- URGO Group - Ville de Paris - publiee 2026-11-03
-- mot-cle : m&a
-- https://www.linkedin.com/jobs/view/4484643803
-
-### Stage en Gestion des financements structurés (f/m/d)
-- HSBC - Paris - publiee 2026-11-03
+### Stage – Finance & Sustainability Reporting / ESG - H/F
+- Schneider Electric - Paris - publiee 2026-11-04
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4486873238
+- https://www.linkedin.com/jobs/view/4486369955
 
-### STAGE - Master Gestion Finances F/H
-- EDF - Civaux - publiee 2026-11-03
+### Actuarial Intern - Pricing and Experience Analysis (L&H)
+- SCOR - Paris - publiee 2026-11-04
+- mot-cle : actuar
+- https://www.linkedin.com/jobs/view/4487292108
+
+### Actuariat - Agent IA / Modèle de sécheresse (F/H) - Stage
+- Abeille Assurances - Bois-Colombes - publiee 2026-11-04
+- mot-cle : actuar
+- https://www.linkedin.com/jobs/view/4487084366
+
+### Stage - Accountant PERES H/F
+- CACEIS - Montrouge - publiee 2026-11-04
+- mot-cle : accountant
+- https://www.linkedin.com/jobs/view/4485077629
+
+### Analyste Comptable en stage F/H
+- RYDGE Conseil - Limoges - publiee 2026-11-04
+- mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4479500095
+
+### Stagiaire - Copilot sales finance
+- Coty - Paris - publiee 2026-11-04
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4486847556
+- https://www.linkedin.com/jobs/view/4478192727
 
-### Stagiaire financements structurés F/H
-- VINCI - La Neuville-d'Aumont - publiee 2026-11-03
+### STAGE - ENTREPRISES PUBLIQUES, INNOVATION FINANCIÈRE - F/H
+- AFD - Agence Française de Développement - Ville de Paris - publiee 2026-11-04
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4486846473
+- https://www.linkedin.com/jobs/view/4485068472
 
-### Stagiaire analyste investissements immobiliers - Barnes Asset Management
-- BARNES - Ville de Paris - publiee 2026-11-03
-- mot-cle : asset management
-- https://www.linkedin.com/jobs/view/4484674671
-
-### Contrôleur de Gestion ADP France (F/H) – en stage
-- Carrefour - Massy - publiee 2026-11-03
-- mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4484658817
-
-### Stage - Analyste Sécurité Financière H/F
-- Caisse d'Epargne Normandie - Rouen - publiee 2026-11-03
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4484669705
-
-### Stagiaire Contrôle de Gestion (H/F)
-- DECAYEUX STI - Chépy - publiee 2026-11-03
+### Stage - Assistant Contrôle de Gestion (F/H)
+- Laboratoires Juva Santé - Ville de Paris - publiee 2026-11-04
 - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4486054073
+- https://www.linkedin.com/jobs/view/4487290483
 
-### Actuaire Solvabilité II Vie (F/H) - Stage
+### Stage Analyste financement de fonds de Private Equity H/F
+- CACEIS - Montrouge - publiee 2026-11-04
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4485087243
+
+### Stage - Contrôleur de Gestion - Coûts Supports & Pilotage BU (H/F)
+- Club Med - Lyon - publiee 2026-11-04
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4486326934
+
+### Stage - Bras droit Finance (conseil)
+- Bloomco - Paris - publiee 2026-11-04
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4486359335
+
+### Group Reporting Solvency II Narrative Intern
+- SCOR - Paris - publiee 2026-11-04
+- mot-cle : solvency
+- https://www.linkedin.com/jobs/view/4487243232
+
+### STAGE - Assistant Contrôle de Gestion Bancaire H/F
+- Crédit Agricole d'Ille-et-Vilaine - Saint-Jacques-de-la-Lande - publiee 2026-11-04
+- mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4487264116
+
+### Stage PFE - Responsable administratif et comptable F/H
+- VINCI Energies - Saint-Laurent-Blangy - publiee 2026-11-03
+- mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4486897609
+
+### STAGE - Assistant Contrôle de Gestion Puiforcat (H/F)
+- Hermès - Paris - publiee 2026-11-03
+- mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4486081047
+
+### Stage - Analyste Investment & Asset Management - F/H
+- Altarea Investment Managers - Paris - publiee 2026-11-03
+- mot-cle : asset management
+- https://www.linkedin.com/jobs/view/4487020228
+
+### Analyste Financier (F/H) - en stage
+- Carrefour - Massy - publiee 2026-11-03
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4485007214
+
+### STAGE - Trésorerie – Cash Management / Backoffice – Janvier 2027 - (H/F)
+- Danone - Rueil-Malmaison - publiee 2026-11-03
+- mot-cle : tresorerie
+- https://www.linkedin.com/jobs/view/4487034173
+
+### Contrôle de Gestion Corporate (F/H) – en stage
+- Carrefour - Massy - publiee 2026-11-03
+- mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4484692804
+
+### INTERNSHIP - Data Analyst (Finance) March 2027
+- CEVA Logistics - Courbevoie - publiee 2026-11-03
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4485003976
+
+### Stage - Finance Business Partner - H/F
+- Schneider Electric - Guichainville - publiee 2026-11-03
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4486074749
+
+### SAINT LAURENT Stage Assistant Chef de Projet Logistique et Compliance
+- Saint Laurent - Paris - publiee 2026-11-03
+- mot-cle : compliance
+- https://www.linkedin.com/jobs/view/4485035299
+
+### Stage - Chargé(e) de projets Data ESG H/F
+- SUEZ - Puteaux - publiee 2026-11-03
+- mot-cle : esg
+- https://www.linkedin.com/jobs/view/4487016500
+
+### Stagiaire Risque Crédit et Valeurs Résiduelles (F/H)
+- BMW Group - Montigny-le-Bretonneux - publiee 2026-11-03
+- mot-cle : risque credit
+- https://www.linkedin.com/jobs/view/4487061982
+
+### Internship – Outcome-Guided Financial Reasoning to Predict the Markets
+- Capital Fund Management (CFM) - Ville de Paris - publiee 2026-11-03
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4485002025
+
+### Actuaire Solvabilité II Non-Vie (F/H) - Stage
 - Abeille Assurances - Bois-Colombes - publiee 2026-11-03
 - mot-cle : solvabilite
-- https://www.linkedin.com/jobs/view/4486867231
+- https://www.linkedin.com/jobs/view/4487032053
 
-### Stage - Chargé(e) de Conformité
-- BforBank - Paris et périphérie - publiee 2026-11-03
-- mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4486861016
+## Deja vues (fenetre courante)
 
-### Stagiaire Contrôle de Gestion
-- Sanders Nutrition animale - Bruz - publiee 2026-11-03
-- mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4484651901
-
-### Stage - Contrôleur de Gestion Corporate H/F - GROUPE ROCHER
-- Groupe Rocher - Issy-les-Moulineaux - publiee 2026-11-03
+### Stagiaire Contrôleur de Gestion DAB/Supply F/H
+- Monoprix - Boulogne-Billancourt - publiee 2026-11-04
 - mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4486851046
+- https://www.linkedin.com/jobs/view/4478450600
 
-### Contrôleur de Gestion Services Centraux (F/H) – en stage
-- Carrefour - Massy - publiee 2026-11-03
+### Stagiaire Contrôleur de gestion commerciale TML F/H
+- Monoprix - Boulogne-Billancourt - publiee 2026-11-04
 - mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4484655942
-
-### Stage - Contrôle de gestion financière (H/F)
-- Crédit Agricole d'Ile-de-France - Paris - publiee 2026-11-03
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4486027841
-
-### Racine Paris recherche un stagiaire en financement au 1er semestre 2027 H/F
-- Racine - Paris - publiee 2026-11-02
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4484384953
-
-### Chargé de Finance Client - Stage 6mois F/H
-- Club Employés - Lyon - publiee 2026-11-02
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4485770370
-
-### STAGE - Comptabilité / Contrôle de gestion (H/F)
-- Ordre de Malte France - Paris - publiee 2026-11-02
-- mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4486425640
-
-### Racine Paris recherche un stagiaire au 2nd semestre 2027 en financement bancaire h/f
-- Racine - Paris - publiee 2026-11-02
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4484603180
-
-### M&A - Stage - (F/H)
-- TALENZ - Plérin - publiee 2026-11-02
-- mot-cle : m&a
-- https://www.linkedin.com/jobs/view/4485774769
-
-### Investment Banking - Analyst Intern - Business and Tech-Enabled Services
-- Stifel Financial Corp. - Paris - publiee 2026-11-02
-- mot-cle : investment banking
-- https://www.linkedin.com/jobs/view/4457102793
+- https://www.linkedin.com/jobs/view/4478459177
 
