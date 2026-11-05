@@ -1,55 +1,22 @@
 {
-  "generatedAt": "2026-11-04T15:58:40.6878199Z",
+  "generatedAt": "2026-11-05T16:12:12.4561956Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 4,
-  "nouvelles": 4,
+  "total": 1,
+  "nouvelles": 1,
   "strict24mois": false,
   "filtreRepostes": true,
   "reposteesEcartees": 3,
   "offres": [
     {
-      "id": "4487251110",
-      "intitule": "Commercial(e) sédentaire en Gestion de patrimoine en Alternance F/H",
-      "entreprise": "NEGOCIAL",
-      "lieu": "Lyon",
-      "datePubliee": "2026-11-04",
-      "duree24": true,
-      "matchFinance": "gestion de patrimoine",
-      "url": "https://www.linkedin.com/jobs/view/4487251110",
-      "nouvelle": true
-    },
-    {
-      "id": "4487236562",
-      "intitule": "Alternant(e) Compliance & Contrôle Interne – Projet Sapin II Groupe",
-      "entreprise": "Flexitech",
-      "lieu": "Saint-Etienne et périphérie",
-      "datePubliee": "2026-11-04",
-      "duree24": true,
-      "matchFinance": "compliance",
-      "url": "https://www.linkedin.com/jobs/view/4487236562",
-      "nouvelle": true
-    },
-    {
-      "id": "4486327696",
-      "intitule": "Alternance Assistant comptable et commercial (H/F) – Venelles (13)",
-      "entreprise": "Icademie",
-      "lieu": "Aix-en-Provence",
-      "datePubliee": "2026-11-04",
+      "id": "4486714528",
+      "intitule": "Alternance Assistant.e Finance & RH",
+      "entreprise": "Dual Diploma",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-05",
       "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4486327696",
-      "nouvelle": true
-    },
-    {
-      "id": "4485506190",
-      "intitule": "Assistant comptable en alternance",
-      "entreprise": "Groupe YABE",
-      "lieu": "Vichy",
-      "datePubliee": "2026-11-04",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4485506190",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4486714528",
       "nouvelle": true
     }
   ]
