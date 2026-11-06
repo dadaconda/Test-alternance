@@ -1,22 +1,66 @@
 {
-  "generatedAt": "2026-11-05T16:12:12.4561956Z",
+  "generatedAt": "2026-11-06T15:42:15.2820544Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 1,
-  "nouvelles": 1,
+  "total": 5,
+  "nouvelles": 5,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 3,
+  "reposteesEcartees": 6,
   "offres": [
     {
-      "id": "4486714528",
-      "intitule": "Alternance Assistant.e Finance & RH",
-      "entreprise": "Dual Diploma",
-      "lieu": "Paris",
+      "id": "4486977054",
+      "intitule": "Contrôleur de gestion/Contrôleuse de gestion ALTERNANCE (H/F)",
+      "entreprise": "Cheil France",
+      "lieu": "Saint-Ouen",
+      "datePubliee": "2026-11-06",
+      "duree24": false,
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4486977054",
+      "nouvelle": true
+    },
+    {
+      "id": "4480131951",
+      "intitule": "Auditeur financier Alternant (F/H)",
+      "entreprise": "KPMG France",
+      "lieu": "Nantes",
+      "datePubliee": "2026-11-06",
+      "duree24": true,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4480131951",
+      "nouvelle": true
+    },
+    {
+      "id": "4485836995",
+      "intitule": "Apprenti Comptable DCG/Master CCA/DSCG - H/F",
+      "entreprise": "FIDUCIAL",
+      "lieu": "Le Creusot",
+      "datePubliee": "2026-11-05",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4485836995",
+      "nouvelle": true
+    },
+    {
+      "id": "4485849669",
+      "intitule": "Apprenti Finance",
+      "entreprise": "Arev Collection",
+      "lieu": "Saint-Tropez",
       "datePubliee": "2026-11-05",
       "duree24": false,
       "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4486714528",
+      "url": "https://www.linkedin.com/jobs/view/4485849669",
+      "nouvelle": true
+    },
+    {
+      "id": "4488017938",
+      "intitule": "Alternance - Portfolio & Data Analyst",
+      "entreprise": "Allianz Partners",
+      "lieu": "Saint-Ouen",
+      "datePubliee": "2026-11-05",
+      "duree24": false,
+      "matchFinance": "portfolio",
+      "url": "https://www.linkedin.com/jobs/view/4488017938",
       "nouvelle": true
     }
   ]
