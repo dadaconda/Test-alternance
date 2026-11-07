@@ -1,129 +1,79 @@
 # Offres de stage - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-11-06 15:52 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-11-07 14:50 UTC_
 
-**24 offre(s)**, dont **24 nouvelle(s)** depuis le dernier passage.
-_34 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**14 offre(s)**, dont **14 nouvelle(s)** depuis le dernier passage.
+_28 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### Stage - Comptabilité et Contrôle de Gestion Holding H/F
-- Verallia - Courbevoie - publiee 2026-11-06
-- mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4486235043
+### STAGE - Ingénieur - Conformité Fournisseurs - Filière optique - F/H
+- Thales - Saint-Étienne - publiee 2026-11-07
+- mot-cle : conformite
+- https://www.linkedin.com/jobs/view/4480520973
 
-### Stagiaire Analyste Corporate Finance & M&A H/F
-- Kicklox - Paris - publiee 2026-11-06
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4488108716
+### STAGE 6 MOIS - A PARTIR DE MARS 2027 - SUPPLY CHAIN PORTFOLIO - COSMÉTIQUE ACTIVE INTERNATIONAL VICHY - BAC + 5 -
+- STATION F - Clermont-Ferrand - publiee 2026-11-07
+- mot-cle : portfolio
+- https://www.linkedin.com/jobs/view/4487368972
 
-### Stage Analyste M&A paris
-- AURIS Finance - Ville de Paris - publiee 2026-11-06
-- mot-cle : m&a
-- https://www.linkedin.com/jobs/view/4488124569
+### Stage Wealth Management Desk UHNW
+- UBS - Paris - publiee 2026-11-07
+- mot-cle : wealth
+- https://www.linkedin.com/jobs/view/4480508391
 
-### Stage Consultant Audit & Process — Finance & Data
-- Protiviti France - Ville de Paris - publiee 2026-11-06
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4486213272
-
-### STAGE - Digitalisation Finance Afrique - H/F
-- TotalEnergies - Tour-en-Sologne - publiee 2026-11-06
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4488132890
-
-### Stage - 6 mois - Contrôleur de gestion - F/H
-- Natixis Corporate & Investment Banking - Charenton-le-Pont - publiee 2026-11-06
-- mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4486227927
-
-### Stage Master 2 - Data Analyst / Contrôle de Gestion Achats - Pilotage de la performance
-- GRDF - Nancy - publiee 2026-11-06
-- mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4488151712
-
-### Finance Intern – Costing & Inventory & Capex
-- AESC France - Douai - publiee 2026-11-06
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4488125986
-
-### Stage – Assistant(e) comptable, finance et gestion (H/F)
-- Look Up - Toulouse - publiee 2026-11-06
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4486983201
-
-### Stage Comptable OPC-Mandats H/F
-- CACEIS - Montrouge - publiee 2026-11-06
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4486242079
-
-### Stage Contrôle de gestion et data / automatisation IA H/F
-- Coopérative U - Rungis - publiee 2026-11-06
-- mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4488143618
-
-### Stage Consultant en diagnostic stratégique & analyse financière Marseille (H/F)
-- SECAFI - Marseille - publiee 2026-11-06
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4486960804
-
-### Stagiaire assistant controle de gestion
-- Maisons du Monde - Vertou - publiee 2026-11-06
-- mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4485304857
-
-### Expert-Comptable Stagiaire ou Mémorialiste (H/F)
-- ŌDAS CONSEIL - Montpellier - publiee 2026-11-06
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4488133985
-
-### STAGE - Consultant en diagnostic stratégique & analyse financière - Nantes (H/F)
-- SECAFI - Nantes - publiee 2026-11-06
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4486964767
-
-### STAGE - Analyste Reporting Trésorerie (F/H)
-- EssilorLuxottica - Charenton-le-Pont - publiee 2026-11-05
-- mot-cle : tresorerie
-- https://www.linkedin.com/jobs/view/4488079222
-
-### Stage - Data & Actuary CAT NAT
-- AXA en France - Paris - publiee 2026-11-05
-- mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4485852489
-
-### Stage Assistant Banquier Privé
-- Société Générale - Arcachon - publiee 2026-11-05
+### Stage Banquier Patrimonial
+- Société Générale - Normandie, France - publiee 2026-11-07
 - mot-cle : banquier
-- https://www.linkedin.com/jobs/view/4485846699
+- https://www.linkedin.com/jobs/view/4486294723
 
-### STAGE - Assistant Contrôleur de gestion - (F/H) - AIX EN PROVENCE
-- BPCE Solutions informatiques - Aix-en-Provence - publiee 2026-11-05
+### Portfolio Management Assistant - Stage (6 mois) Janvier 2027 (F/H/NB)
+- Ubisoft - Paris - publiee 2026-11-07
+- mot-cle : portfolio
+- https://www.linkedin.com/jobs/view/4477713334
+
+### Consolidation Intern
+- Ledger - Paris - publiee 2026-11-07
+- mot-cle : consolidation
+- https://www.linkedin.com/jobs/view/4486296477
+
+### Contrôleur de gestion (H/F) STAGE
+- Cartier - Paris - publiee 2026-11-06
 - mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4485865003
+- https://www.linkedin.com/jobs/view/4487328202
 
-### Assistant Contrôleur de Gestion - STAGE
-- DCI ENVIRONNEMENT - Quimper - publiee 2026-11-05
-- mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4488005771
+### Comptabilité - Stage - Lille - H/F
+- Club Employés - Villeneuve-d'Ascq - publiee 2026-11-06
+- mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4487349317
 
-### Stage - Data & Actuary CAT NAT
-- AXA - Paris - publiee 2026-11-05
-- mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4487796210
-
-### Internship - Data & Actuary CAT NAT
-- AXA - Paris - publiee 2026-11-05
-- mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4487785641
-
-### STAGE ACTUARIAT - 6 MOIS H/F
-- CNP Assurances - Issy-les-Moulineaux - publiee 2026-11-05
-- mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4488046802
-
-### Stage Contrôle de Gestion H/F
-- Babilou - Bois-Colombes - publiee 2026-11-05
+### Stage Analyste Contrôle de Gestion Sociale - Toulouse (H/F)
+- Crédit Agricole Toulouse 31 - Toulouse - publiee 2026-11-06
 - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4488062384
+- https://www.linkedin.com/jobs/view/4487321142
+
+### Consolidation Intern
+- INKcredible Design & Printing - Ville de Paris - publiee 2026-11-06
+- mot-cle : consolidation
+- https://www.linkedin.com/jobs/view/4488436548
+
+### Stage Assistant(e) Banquier privé - Aix en Provence - Janvier 27
+- Rothschild & Co - Aix-en-Provence - publiee 2026-11-06
+- mot-cle : banquier
+- https://www.linkedin.com/jobs/view/4488176772
+
+### STAGE – Contrôle de gestion H/F
+- LCL - Villejuif - publiee 2026-11-06
+- mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4488175523
+
+### STAGE - Analyste Crédit Entreprises H/F
+- LCL - Villejuif - publiee 2026-11-06
+- mot-cle : analyste credit
+- https://www.linkedin.com/jobs/view/4488435250
+
+### Data Scientist (F/H) - Analyse de données pour le contrôle et la LCB-FT - STAGE
+- Assurances du Crédit Mutuel - Strasbourg - publiee 2026-11-06
+- mot-cle : lcb
+- https://www.linkedin.com/jobs/view/4487326144
 
