@@ -1,34 +1,29 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-11-06 15:42 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-11-07 14:42 UTC_
 
-**5 offre(s)**, dont **5 nouvelle(s)** depuis le dernier passage.
-_6 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**4 offre(s)**, dont **4 nouvelle(s)** depuis le dernier passage.
+_3 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### Contrôleur de gestion/Contrôleuse de gestion ALTERNANCE (H/F)
-- Cheil France - Saint-Ouen - publiee 2026-11-06
-- duree a verifier - mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4486977054
+### Alternance - Assistant(e) contrôle de gestion FP&A - Janvier 2027
+- Vestacy - Massy - publiee 2026-11-06
+- 24 mois OK - mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4486263198
 
-### Auditeur financier Alternant (F/H)
-- KPMG France - Nantes - publiee 2026-11-06
-- 24 mois OK - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4480131951
-
-### Apprenti Comptable DCG/Master CCA/DSCG - H/F
-- FIDUCIAL - Le Creusot - publiee 2026-11-05
+### Assistant comptabilité et gestion en alternance (H/F)
+- Icademie - Lyon - publiee 2026-11-06
 - duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4485836995
+- https://www.linkedin.com/jobs/view/4487356202
 
-### Apprenti Finance
-- Arev Collection - Saint-Tropez - publiee 2026-11-05
-- duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4485849669
+### Apprenti(e) Consultant - Transformation des Systèmes d'Information - Finance - Supply Chain - IBM France - H/F
+- IBM - Bois-Colombes - publiee 2026-11-06
+- 24 mois OK - mot-cle : financ
+- https://www.linkedin.com/jobs/view/4486250685
 
-### Alternance - Portfolio & Data Analyst
-- Allianz Partners - Saint-Ouen - publiee 2026-11-05
-- duree a verifier - mot-cle : portfolio
-- https://www.linkedin.com/jobs/view/4488017938
+### Alternance Assistant Comptable - H/F
+- OpenClassrooms - Moulins - publiee 2026-11-06
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4488180961
 
