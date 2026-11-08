@@ -1,55 +1,22 @@
 {
-  "generatedAt": "2026-11-07T14:42:49.9653405Z",
+  "generatedAt": "2026-11-08T14:48:22.5724061Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 4,
-  "nouvelles": 4,
+  "total": 1,
+  "nouvelles": 1,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 3,
+  "reposteesEcartees": 0,
   "offres": [
     {
-      "id": "4486263198",
-      "intitule": "Alternance - Assistant(e) contrôle de gestion FP&A - Janvier 2027",
-      "entreprise": "Vestacy",
-      "lieu": "Massy",
-      "datePubliee": "2026-11-06",
-      "duree24": true,
+      "id": "4486675144",
+      "intitule": "Assistant(e) Contrôle de gestion opérationnel en alternance (H/F)",
+      "entreprise": "OGIC",
+      "lieu": "Rânes",
+      "datePubliee": "2026-11-08",
+      "duree24": false,
       "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4486263198",
-      "nouvelle": true
-    },
-    {
-      "id": "4487356202",
-      "intitule": "Assistant comptabilité et gestion en alternance (H/F)",
-      "entreprise": "Icademie",
-      "lieu": "Lyon",
-      "datePubliee": "2026-11-06",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4487356202",
-      "nouvelle": true
-    },
-    {
-      "id": "4486250685",
-      "intitule": "Apprenti(e) Consultant - Transformation des Systèmes d'Information - Finance - Supply Chain - IBM France - H/F",
-      "entreprise": "IBM",
-      "lieu": "Bois-Colombes",
-      "datePubliee": "2026-11-06",
-      "duree24": true,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4486250685",
-      "nouvelle": true
-    },
-    {
-      "id": "4488180961",
-      "intitule": "Alternance Assistant Comptable - H/F",
-      "entreprise": "OpenClassrooms",
-      "lieu": "Moulins",
-      "datePubliee": "2026-11-06",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4488180961",
+      "url": "https://www.linkedin.com/jobs/view/4486675144",
       "nouvelle": true
     }
   ]
