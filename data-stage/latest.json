@@ -1,21 +1,281 @@
 {
-  "generatedAt": "2026-11-08T15:00:14.3861014Z",
+  "generatedAt": "2026-11-09T18:40:42.1671246Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 1,
-  "nouvelles": 1,
+  "total": 27,
+  "nouvelles": 27,
   "filtreRepostes": true,
-  "reposteesEcartees": 17,
+  "reposteesEcartees": 25,
   "offres": [
     {
-      "id": "4488757842",
-      "intitule": "Stage Finance (H/F)",
-      "entreprise": "Four Seasons",
-      "lieu": "Saint-Jean",
-      "datePubliee": "2026-11-08",
+      "id": "4487142753",
+      "intitule": "Contrôleur de Gestion Business/Achats (Stage janvier 2027) - H/F/X",
+      "entreprise": "showroomprive.com",
+      "lieu": "Saint-Denis",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4487142753",
+      "nouvelle": true
+    },
+    {
+      "id": "4487932342",
+      "intitule": "STAGIAIRE ECOLE BANQUE PRIVEE (F/H)",
+      "entreprise": "CIC Sud Ouest",
+      "lieu": "Biarritz",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "banque privee",
+      "url": "https://www.linkedin.com/jobs/view/4487932342",
+      "nouvelle": true
+    },
+    {
+      "id": "4487917582",
+      "intitule": "Stagiaire Audit Financier Septembre 2027",
+      "entreprise": "Crowe HAF",
+      "lieu": "Levallois-Perret",
+      "datePubliee": "2026-11-09",
       "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4488757842",
+      "url": "https://www.linkedin.com/jobs/view/4487917582",
+      "nouvelle": true
+    },
+    {
+      "id": "4489128139",
+      "intitule": "Stage Structuration Stratégie d'Investissement Quantitatif (QIS) f/m/d)",
+      "entreprise": "HSBC",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "structuration",
+      "url": "https://www.linkedin.com/jobs/view/4489128139",
+      "nouvelle": true
+    },
+    {
+      "id": "4488842190",
+      "intitule": "Stage (6 mois) - Back Office Titres",
+      "entreprise": "Arkéa ProCapital Services",
+      "lieu": "Courbevoie",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "back office titres",
+      "url": "https://www.linkedin.com/jobs/view/4488842190",
+      "nouvelle": true
+    },
+    {
+      "id": "4487154814",
+      "intitule": "Stage – Consultant actuariat M2 : « Modélisation du risque de feux de forêts – Développement d’un modèle de risque pour la tarification MRH » (H/F)",
+      "entreprise": "SeaBird",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "actuar",
+      "url": "https://www.linkedin.com/jobs/view/4487154814",
+      "nouvelle": true
+    },
+    {
+      "id": "4487186511",
+      "intitule": "Consultant Analyste M&A et Stratégie stagiaire - H/F",
+      "entreprise": "Finance Plus",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4487186511",
+      "nouvelle": true
+    },
+    {
+      "id": "4487196173",
+      "intitule": "Stage - Trésorerie et Investissements H/F",
+      "entreprise": "Caisse d'Epargne Ile-de-France",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "tresorerie",
+      "url": "https://www.linkedin.com/jobs/view/4487196173",
+      "nouvelle": true
+    },
+    {
+      "id": "4487173906",
+      "intitule": "Stage Finance",
+      "entreprise": "Hotel du Cap-Eden-Roc",
+      "lieu": "Antibes",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4487173906",
+      "nouvelle": true
+    },
+    {
+      "id": "4487691322",
+      "intitule": "Stagiaire Chargé d'études Quantitatives (H/F)",
+      "entreprise": "Covéa Finance",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "quantitative",
+      "url": "https://www.linkedin.com/jobs/view/4487691322",
+      "nouvelle": true
+    },
+    {
+      "id": "4487683670",
+      "intitule": "M&A Analyst Intern (H/F/NB)",
+      "entreprise": "Keyrus",
+      "lieu": "Levallois-Perret",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4487683670",
+      "nouvelle": true
+    },
+    {
+      "id": "4487940193",
+      "intitule": "Internship - Sustainable Finance",
+      "entreprise": "CMA CGM",
+      "lieu": "Marseille",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4487940193",
+      "nouvelle": true
+    },
+    {
+      "id": "4487933139",
+      "intitule": "Stage de fin d'études Audit financier - Nantes - Janvier 2027 H/F",
+      "entreprise": "Forvis Mazars en France",
+      "lieu": "Nantes",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4487933139",
+      "nouvelle": true
+    },
+    {
+      "id": "4487157016",
+      "intitule": "Contrôleur de Gestion Corporate (Stage janvier 2027) - H/F/X",
+      "entreprise": "showroomprive.com",
+      "lieu": "Saint-Denis",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4487157016",
+      "nouvelle": true
+    },
+    {
+      "id": "4489120258",
+      "intitule": "Stage - Analyste M&A & Stratégie (H/F)",
+      "entreprise": "Safran.AI (ex Preligens)",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4489120258",
+      "nouvelle": true
+    },
+    {
+      "id": "4488795393",
+      "intitule": "Expert-comptable stagiaire",
+      "entreprise": "Exvalia - Expert-comptable",
+      "lieu": "France",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4488795393",
+      "nouvelle": true
+    },
+    {
+      "id": "4480669006",
+      "intitule": "Stage M&A et Strategy H/F",
+      "entreprise": "iad Group",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4480669006",
+      "nouvelle": true
+    },
+    {
+      "id": "4489107788",
+      "intitule": "Chargé(e) de mission Conformité & Sécurité financière (H/F) - Stage",
+      "entreprise": "Abeille Assurances",
+      "lieu": "Bois-Colombes",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4489107788",
+      "nouvelle": true
+    },
+    {
+      "id": "4487912997",
+      "intitule": "Regulatory Compliance Intern",
+      "entreprise": "Qonto",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "compliance",
+      "url": "https://www.linkedin.com/jobs/view/4487912997",
+      "nouvelle": true
+    },
+    {
+      "id": "4487177916",
+      "intitule": "Stage - Chargé de risque et conformité H/F",
+      "entreprise": "Caisse d'Epargne Ile-de-France",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4487177916",
+      "nouvelle": true
+    },
+    {
+      "id": "4489120429",
+      "intitule": "Stage - gestionnaire trade & position management middle office (f/m/d)",
+      "entreprise": "HSBC",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "middle office",
+      "url": "https://www.linkedin.com/jobs/view/4489120429",
+      "nouvelle": true
+    },
+    {
+      "id": "4487178794",
+      "intitule": "Stage - 6 mois - Structuration SECM - F/H",
+      "entreprise": "Natixis Corporate & Investment Banking",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "structuration",
+      "url": "https://www.linkedin.com/jobs/view/4487178794",
+      "nouvelle": true
+    },
+    {
+      "id": "4488847295",
+      "intitule": "Finance controller intern (H/F)",
+      "entreprise": "AESC France",
+      "lieu": "Douai",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4488847295",
+      "nouvelle": true
+    },
+    {
+      "id": "4488828995",
+      "intitule": "Stage - Gestionnaire Middle Office Financements Structurés H/F",
+      "entreprise": "La Banque Postale",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4488828995",
+      "nouvelle": true
+    },
+    {
+      "id": "4488762846",
+      "intitule": "Internship – Finance, Management Control & Accounting",
+      "entreprise": "AXEGAZ Trading & Technologies",
+      "lieu": "Levallois-Perret",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4488762846",
+      "nouvelle": true
+    },
+    {
+      "id": "4471329861",
+      "intitule": "Stage - Consultant en finance et comptabilité - Lille (H/F)",
+      "entreprise": "SECAFI",
+      "lieu": "Lille",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4471329861",
+      "nouvelle": true
+    },
+    {
+      "id": "4487176941",
+      "intitule": "Stage - Département Comptabilité Bancaire et Financière H/F",
+      "entreprise": "Caisse d'Epargne Ile-de-France",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4487176941",
       "nouvelle": true
     }
   ]
