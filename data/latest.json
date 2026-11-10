@@ -1,22 +1,66 @@
 {
-  "generatedAt": "2026-11-08T14:48:22.5724061Z",
+  "generatedAt": "2026-11-10T16:09:06.9379993Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 1,
-  "nouvelles": 1,
+  "total": 5,
+  "nouvelles": 5,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 0,
+  "reposteesEcartees": 3,
   "offres": [
     {
-      "id": "4486675144",
-      "intitule": "Assistant(e) Contrôle de gestion opérationnel en alternance (H/F)",
-      "entreprise": "OGIC",
-      "lieu": "Rânes",
-      "datePubliee": "2026-11-08",
+      "id": "4489471232",
+      "intitule": "Apprentie contrôle de gestion",
+      "entreprise": "Watts Water Technologies",
+      "lieu": "Rosières",
+      "datePubliee": "2026-11-10",
       "duree24": false,
       "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4486675144",
+      "url": "https://www.linkedin.com/jobs/view/4489471232",
+      "nouvelle": true
+    },
+    {
+      "id": "4487941081",
+      "intitule": "Alternance Conseiller en Gestion de Patrimoine (H/F)",
+      "entreprise": "Climb",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-11-09",
+      "duree24": false,
+      "matchFinance": "gestion de patrimoine",
+      "url": "https://www.linkedin.com/jobs/view/4487941081",
+      "nouvelle": true
+    },
+    {
+      "id": "4481779354",
+      "intitule": "Auditeur Financier Alternant (F/H)",
+      "entreprise": "KPMG France",
+      "lieu": "Dunkerque et périphérie",
+      "datePubliee": "2026-11-09",
+      "duree24": true,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4481779354",
+      "nouvelle": true
+    },
+    {
+      "id": "4487416794",
+      "intitule": "Alternant.e - Comptabilité - Contrôle financier F/H",
+      "entreprise": "Tohmo",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-09",
+      "duree24": true,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4487416794",
+      "nouvelle": true
+    },
+    {
+      "id": "4487977056",
+      "intitule": "Alternant comptable F/H",
+      "entreprise": "COGEP",
+      "lieu": "Bourg-en-Bresse",
+      "datePubliee": "2026-11-09",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4487977056",
       "nouvelle": true
     }
   ]
