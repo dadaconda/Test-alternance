@@ -1,66 +1,33 @@
 {
-  "generatedAt": "2026-11-10T16:09:06.9379993Z",
+  "generatedAt": "2026-11-11T15:53:22.7827028Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 5,
-  "nouvelles": 5,
+  "total": 2,
+  "nouvelles": 2,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 3,
+  "reposteesEcartees": 2,
   "offres": [
     {
-      "id": "4489471232",
-      "intitule": "Apprentie contrôle de gestion",
-      "entreprise": "Watts Water Technologies",
-      "lieu": "Rosières",
+      "id": "4487827733",
+      "intitule": "Comptable en alternance -H/F",
+      "entreprise": "SARIA France",
+      "lieu": "Vitré",
       "datePubliee": "2026-11-10",
-      "duree24": false,
-      "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4489471232",
-      "nouvelle": true
-    },
-    {
-      "id": "4487941081",
-      "intitule": "Alternance Conseiller en Gestion de Patrimoine (H/F)",
-      "entreprise": "Climb",
-      "lieu": "Ville de Paris",
-      "datePubliee": "2026-11-09",
-      "duree24": false,
-      "matchFinance": "gestion de patrimoine",
-      "url": "https://www.linkedin.com/jobs/view/4487941081",
-      "nouvelle": true
-    },
-    {
-      "id": "4481779354",
-      "intitule": "Auditeur Financier Alternant (F/H)",
-      "entreprise": "KPMG France",
-      "lieu": "Dunkerque et périphérie",
-      "datePubliee": "2026-11-09",
       "duree24": true,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4481779354",
-      "nouvelle": true
-    },
-    {
-      "id": "4487416794",
-      "intitule": "Alternant.e - Comptabilité - Contrôle financier F/H",
-      "entreprise": "Tohmo",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-09",
-      "duree24": true,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4487416794",
-      "nouvelle": true
-    },
-    {
-      "id": "4487977056",
-      "intitule": "Alternant comptable F/H",
-      "entreprise": "COGEP",
-      "lieu": "Bourg-en-Bresse",
-      "datePubliee": "2026-11-09",
-      "duree24": false,
       "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4487977056",
+      "url": "https://www.linkedin.com/jobs/view/4487827733",
+      "nouvelle": true
+    },
+    {
+      "id": "4242801707",
+      "intitule": "Alternant MASTER LCB-FT - H/F",
+      "entreprise": "Allianz France",
+      "lieu": "Toulouse",
+      "datePubliee": "2026-11-10",
+      "duree24": true,
+      "matchFinance": "lcb",
+      "url": "https://www.linkedin.com/jobs/view/4242801707",
       "nouvelle": true
     }
   ]
