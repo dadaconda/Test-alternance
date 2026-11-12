@@ -1,34 +1,11 @@
 {
-  "generatedAt": "2026-11-11T15:53:22.7827028Z",
+  "generatedAt": "2026-11-12T16:37:09.6307635Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 2,
-  "nouvelles": 2,
+  "total": 0,
+  "nouvelles": 0,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 2,
-  "offres": [
-    {
-      "id": "4487827733",
-      "intitule": "Comptable en alternance -H/F",
-      "entreprise": "SARIA France",
-      "lieu": "Vitré",
-      "datePubliee": "2026-11-10",
-      "duree24": true,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4487827733",
-      "nouvelle": true
-    },
-    {
-      "id": "4242801707",
-      "intitule": "Alternant MASTER LCB-FT - H/F",
-      "entreprise": "Allianz France",
-      "lieu": "Toulouse",
-      "datePubliee": "2026-11-10",
-      "duree24": true,
-      "matchFinance": "lcb",
-      "url": "https://www.linkedin.com/jobs/view/4242801707",
-      "nouvelle": true
-    }
-  ]
+  "reposteesEcartees": 1,
+  "offres": []
 }
