@@ -1,232 +1,322 @@
 {
-  "generatedAt": "2026-11-11T16:03:37.9897327Z",
+  "generatedAt": "2026-11-12T16:44:52.5732127Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 22,
-  "nouvelles": 21,
+  "total": 31,
+  "nouvelles": 31,
   "filtreRepostes": true,
-  "reposteesEcartees": 22,
+  "reposteesEcartees": 24,
   "offres": [
     {
-      "id": "4489937363",
-      "intitule": "Analyste Real Estate - Private Equity – Stage Janvier 2027 (6 mois)",
-      "entreprise": "SECOND LIFE REIM",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-11",
-      "matchFinance": "private equity",
-      "url": "https://www.linkedin.com/jobs/view/4489937363",
-      "nouvelle": true
-    },
-    {
-      "id": "4488212548",
-      "intitule": "Stage &amp;#8211; Actuariat (H/F)",
-      "entreprise": "Assurance Vallée - Cluster Assurance AuRA",
-      "lieu": "Villeurbanne",
-      "datePubliee": "2026-11-11",
-      "matchFinance": "actuar",
-      "url": "https://www.linkedin.com/jobs/view/4488212548",
-      "nouvelle": true
-    },
-    {
-      "id": "4488227298",
-      "intitule": "Stage - Analyste Fusions-Acquisitions F/H - OTOKTONE - Nantes (44)",
-      "entreprise": "Banque Populaire Grand Ouest",
-      "lieu": "Saint-Herblain",
-      "datePubliee": "2026-11-11",
-      "matchFinance": "fusions-acquisitions",
-      "url": "https://www.linkedin.com/jobs/view/4488227298",
-      "nouvelle": true
-    },
-    {
-      "id": "4489944343",
-      "intitule": "stage 6 mois en analyse et consolidation financière",
-      "entreprise": "Sanofi",
-      "lieu": "Gentilly",
-      "datePubliee": "2026-11-11",
+      "id": "4490307671",
+      "intitule": "Stagiaire Ingénieur Auditeur Financier - Septembre 2027 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Nantes",
+      "datePubliee": "2026-11-12",
       "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4489944343",
+      "url": "https://www.linkedin.com/jobs/view/4490307671",
       "nouvelle": true
     },
     {
-      "id": "4489903685",
-      "intitule": "Consultante / Consultant Data, Risque & Conformité - Stage",
+      "id": "4489258185",
+      "intitule": "Stage Chargé d'analyse des données - pilotage budgétaire (Finance/Data) F/H",
+      "entreprise": "Orange",
+      "lieu": "Cesson-Sévigné",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4489258185",
+      "nouvelle": true
+    },
+    {
+      "id": "4490305882",
+      "intitule": "Stage Contrôleur de Gestion - Janvier 2027 F/H",
+      "entreprise": "PwC France",
+      "lieu": "Neuilly-sur-Seine",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4490305882",
+      "nouvelle": true
+    },
+    {
+      "id": "4489277079",
+      "intitule": "Assistant Gérant Equity & Analyste Financier (H/F) - Desk « Small et Mid Caps » - stage de 6 mois",
+      "entreprise": "La Financière de l'Échiquier - LFDE",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4489277079",
+      "nouvelle": true
+    },
+    {
+      "id": "4490305886",
+      "intitule": "Stagiaire de fin d’études - Auditeur Financier - Septembre 2027 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Nantes",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490305886",
+      "nouvelle": true
+    },
+    {
+      "id": "4489251618",
+      "intitule": "Comptable - Stage - Lyon - H/F",
+      "entreprise": "Club Employés",
+      "lieu": "Lyon",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4489251618",
+      "nouvelle": true
+    },
+    {
+      "id": "4489091630",
+      "intitule": "Stage M&A",
+      "entreprise": "Groupe Premium",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4489091630",
+      "nouvelle": true
+    },
+    {
+      "id": "4488522428",
+      "intitule": "Stage - 6 mois - Chargé d'Études IA Générative &amp; Analyse Financière (F/H) - Charenton",
+      "entreprise": "Groupe BPCE",
+      "lieu": "Charenton-le-Pont",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4488522428",
+      "nouvelle": true
+    },
+    {
+      "id": "4489256659",
+      "intitule": "Stage Contrôle de gestion (H/F)",
+      "entreprise": "iQo",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4489256659",
+      "nouvelle": true
+    },
+    {
+      "id": "4490347710",
+      "intitule": "Stagiaire Expertise Comptable Conseil F/H",
+      "entreprise": "RYDGE Conseil",
+      "lieu": "Marseille",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4490347710",
+      "nouvelle": true
+    },
+    {
+      "id": "4490304658",
+      "intitule": "Stage - Contrôleur/Contrôleuse de gestion",
+      "entreprise": "LA MAISON DU WHISKY - LMDW",
+      "lieu": "Clichy",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "controleuse de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4490304658",
+      "nouvelle": true
+    },
+    {
+      "id": "4488507433",
+      "intitule": "Stage Contrôleur de Gestion - Janvier 2027 F/H",
+      "entreprise": "PwC",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4488507433",
+      "nouvelle": true
+    },
+    {
+      "id": "4488533511",
+      "intitule": "Internal Control & Compliance - Internship",
+      "entreprise": "Capital Fund Management (CFM)",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "compliance",
+      "url": "https://www.linkedin.com/jobs/view/4488533511",
+      "nouvelle": true
+    },
+    {
+      "id": "4490374221",
+      "intitule": "Internship - Fundraising and M&A - Climate and Deep Tech",
+      "entreprise": "Vinculum",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4490374221",
+      "nouvelle": true
+    },
+    {
+      "id": "4488534510",
+      "intitule": "Stage Auditeur Financier - Strasbourg - Janvier 2027 - F/H",
+      "entreprise": "PwC",
+      "lieu": "Strasbourg",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4488534510",
+      "nouvelle": true
+    },
+    {
+      "id": "4490311618",
+      "intitule": "Stagiaire de fin d’études - Auditeur Financier - Septembre 2027 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Marseille",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490311618",
+      "nouvelle": true
+    },
+    {
+      "id": "4490309685",
+      "intitule": "Stagiaire Ingénieur Auditeur Financier - Septembre 2027 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Montpellier",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490309685",
+      "nouvelle": true
+    },
+    {
+      "id": "4488291868",
+      "intitule": "SAINT LAURENT Stage Assistant(e) Contrôleur de Gestion",
+      "entreprise": "Saint Laurent",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4488291868",
+      "nouvelle": true
+    },
+    {
+      "id": "4490357647",
+      "intitule": "Stage Auditeur Financier - Strasbourg - Janvier 2027 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Metz",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490357647",
+      "nouvelle": true
+    },
+    {
+      "id": "4489200748",
+      "intitule": "Quantitative Strategist Intern",
+      "entreprise": "QuantCube Technology",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "quantitative",
+      "url": "https://www.linkedin.com/jobs/view/4489200748",
+      "nouvelle": true
+    },
+    {
+      "id": "4488509998",
+      "intitule": "Stage - 6 mois - Gestionnaire Recouvrement et Contentieux (F/H) - BALMA",
+      "entreprise": "Groupe BPCE",
+      "lieu": "Balma",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "recouvrement",
+      "url": "https://www.linkedin.com/jobs/view/4488509998",
+      "nouvelle": true
+    },
+    {
+      "id": "4490321014",
+      "intitule": "Stagiaire Ingénieur Auditeur Financier - Septembre 2027 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Marseille",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490321014",
+      "nouvelle": true
+    },
+    {
+      "id": "4490319291",
+      "intitule": "Stage de Recherche en Analyse Financière 2027 (H/F)",
+      "entreprise": "Coface",
+      "lieu": "Bois-Colombes",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490319291",
+      "nouvelle": true
+    },
+    {
+      "id": "4490084895",
+      "intitule": "Stage - Analyste Private Equity H/F",
+      "entreprise": "BNP Paribas Asset Management",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "private equity",
+      "url": "https://www.linkedin.com/jobs/view/4490084895",
+      "nouvelle": true
+    },
+    {
+      "id": "4490315810",
+      "intitule": "Stage Private Equity - Fund of Funds H/F",
+      "entreprise": "BNP Paribas Asset Management",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "private equity",
+      "url": "https://www.linkedin.com/jobs/view/4490315810",
+      "nouvelle": true
+    },
+    {
+      "id": "4490358665",
+      "intitule": "Stage Auditeur Financier - Strasbourg - Janvier 2027 - F/H",
+      "entreprise": "PwC France",
+      "lieu": "Strasbourg",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490358665",
+      "nouvelle": true
+    },
+    {
+      "id": "4490372079",
+      "intitule": "Stagiaire Contrôleur de Gestion F/H",
+      "entreprise": "FIDEL FILLAUD",
+      "lieu": "Les Sorinières",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4490372079",
+      "nouvelle": true
+    },
+    {
+      "id": "4490358909",
+      "intitule": "Stage de Fin d'Études (PFE) - Responsable Administratif et financier F/H F/H",
+      "entreprise": "VINCI Energies",
+      "lieu": "Lyon",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490358909",
+      "nouvelle": true
+    },
+    {
+      "id": "4489277053",
+      "intitule": "Stage Contrôleur de gestion H/F",
+      "entreprise": "Baker Tilly France",
+      "lieu": "Angers",
+      "datePubliee": "2026-11-12",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4489277053",
+      "nouvelle": true
+    },
+    {
+      "id": "4489987592",
+      "intitule": "Stagiaire FP&A (H/F)",
+      "entreprise": "GE Vernova",
+      "lieu": "Issy-les-Moulineaux",
+      "datePubliee": "2026-11-11",
+      "matchFinance": "fp&a",
+      "url": "https://www.linkedin.com/jobs/view/4489987592",
+      "nouvelle": true
+    },
+    {
+      "id": "4489981759",
+      "intitule": "Consultante / Consultant Financial Services - Stage",
       "entreprise": "Capgemini Invent",
       "lieu": "Issy-les-Moulineaux",
       "datePubliee": "2026-11-11",
-      "matchFinance": "conformite",
-      "url": "https://www.linkedin.com/jobs/view/4489903685",
-      "nouvelle": true
-    },
-    {
-      "id": "4488209910",
-      "intitule": "Stage - 6 mois - Compliance Officer (Conformité Centrale) F/H",
-      "entreprise": "Natixis Corporate & Investment Banking",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-11",
-      "matchFinance": "conformite",
-      "url": "https://www.linkedin.com/jobs/view/4488209910",
-      "nouvelle": true
-    },
-    {
-      "id": "4489612619",
-      "intitule": "Stage M&A / Fusions-Acquisitions (F/H)",
-      "entreprise": "Kerogo Finance",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "m&a",
-      "url": "https://www.linkedin.com/jobs/view/4489612619",
-      "nouvelle": true
-    },
-    {
-      "id": "4489609794",
-      "intitule": "Stage gestionnaire ALM/Trésorerie H/F",
-      "entreprise": "Crédit Agricole Alpes Provence",
-      "lieu": "Aix-en-Provence",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "tresorerie",
-      "url": "https://www.linkedin.com/jobs/view/4489609794",
-      "nouvelle": true
-    },
-    {
-      "id": "4487805941",
-      "intitule": "Stage - 6 mois - Analyste Risque de Crédit - Infra - Aviation F/H",
-      "entreprise": "Natixis Corporate & Investment Banking",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "analyste risqu",
-      "url": "https://www.linkedin.com/jobs/view/4487805941",
-      "nouvelle": true
-    },
-    {
-      "id": "4487842400",
-      "intitule": "Stage - Chef.fe de projet Conformité Cyber et Résilience - GRADIGNAN - F/H",
-      "entreprise": "Inspection Générale de La Banque Postale",
-      "lieu": "Gradignan",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "conformite",
-      "url": "https://www.linkedin.com/jobs/view/4487842400",
-      "nouvelle": true
-    },
-    {
-      "id": "4489616204",
-      "intitule": "Stagiaire Finance Groupe",
-      "entreprise": "Europa Organisation",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-10",
       "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4489616204",
+      "url": "https://www.linkedin.com/jobs/view/4489981759",
       "nouvelle": true
-    },
-    {
-      "id": "4489623103",
-      "intitule": "Stage Royal Canin - Assistant(e) contrôleur de gestion (H/F/X) - Janvier 2027 - Aimargues - 6 mois",
-      "entreprise": "Mars",
-      "lieu": "Aimargues",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "controleur de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4489623103",
-      "nouvelle": true
-    },
-    {
-      "id": "4487828742",
-      "intitule": "Stage gestionnaire ALM/Trésorerie H/F",
-      "entreprise": "CA Alpes Provence Recrutement",
-      "lieu": "Aix-en-Provence",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "tresorerie",
-      "url": "https://www.linkedin.com/jobs/view/4487828742",
-      "nouvelle": true
-    },
-    {
-      "id": "4489629652",
-      "intitule": "Stagiaire Contrôleur de Gestion SI (F/H)",
-      "entreprise": "Valeo",
-      "lieu": "Créteil",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "controleur de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4489629652",
-      "nouvelle": true
-    },
-    {
-      "id": "4489617225",
-      "intitule": "Collaborateur comptable confirmé H/F - Expert comptable stagiaire",
-      "entreprise": "Talents AEC",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4489617225",
-      "nouvelle": true
-    },
-    {
-      "id": "4487801664",
-      "intitule": "INTERNSHIP - ESG - Value Creation - PARIS - S1 2027",
-      "entreprise": "Eurazeo",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "esg",
-      "url": "https://www.linkedin.com/jobs/view/4487801664",
-      "nouvelle": true
-    },
-    {
-      "id": "4489629269",
-      "intitule": "Stage – Actuariat (H/F)",
-      "entreprise": "OPTEVEN ASSURANCES",
-      "lieu": "Villeurbanne",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "actuar",
-      "url": "https://www.linkedin.com/jobs/view/4489629269",
-      "nouvelle": true
-    },
-    {
-      "id": "4489649090",
-      "intitule": "Internship - M&A and Strategic Development (H/F) - January 2027",
-      "entreprise": "Tikehau Capital",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "m&a",
-      "url": "https://www.linkedin.com/jobs/view/4489649090",
-      "nouvelle": true
-    },
-    {
-      "id": "4488396221",
-      "intitule": "Stage Contrôleur de Gestion",
-      "entreprise": "Oney",
-      "lieu": "Croix",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "controleur de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4488396221",
-      "nouvelle": true
-    },
-    {
-      "id": "4489609640",
-      "intitule": "Collaborateur comptable confirmé H/F - Expert comptable stagiaire",
-      "entreprise": "Comptalents",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4489609640",
-      "nouvelle": true
-    },
-    {
-      "id": "4487816963",
-      "intitule": "STAGE – Contrôleur de gestion junior (F/H)",
-      "entreprise": "Fonds Bayard Agir pour une société du lien",
-      "lieu": "Malakoff",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "controleur de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4487816963",
-      "nouvelle": true
-    },
-    {
-      "id": "4464332449",
-      "intitule": "STAGE – Analyste en gestion des risques - GRC (F/H)",
-      "entreprise": "Dassault Systèmes",
-      "lieu": "Vélizy-Villacoublay",
-      "datePubliee": "2026-11-10",
-      "matchFinance": "gestion des risques",
-      "url": "https://www.linkedin.com/jobs/view/4464332449",
-      "nouvelle": false
     }
   ]
 }

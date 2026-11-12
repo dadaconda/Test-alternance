@@ -1,121 +1,164 @@
 # Offres de stage - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-11-11 16:03 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-11-12 16:44 UTC_
 
-**22 offre(s)**, dont **21 nouvelle(s)** depuis le dernier passage.
-_22 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**31 offre(s)**, dont **31 nouvelle(s)** depuis le dernier passage.
+_24 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### Analyste Real Estate - Private Equity – Stage Janvier 2027 (6 mois)
-- SECOND LIFE REIM - Paris - publiee 2026-11-11
+### Stagiaire Ingénieur Auditeur Financier - Septembre 2027 - F/H
+- PwC France - Nantes - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4490307671
+
+### Stage Chargé d'analyse des données - pilotage budgétaire (Finance/Data) F/H
+- Orange - Cesson-Sévigné - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4489258185
+
+### Stage Contrôleur de Gestion - Janvier 2027 F/H
+- PwC France - Neuilly-sur-Seine - publiee 2026-11-12
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4490305882
+
+### Assistant Gérant Equity & Analyste Financier (H/F) - Desk « Small et Mid Caps » - stage de 6 mois
+- La Financière de l'Échiquier - LFDE - Ville de Paris - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4489277079
+
+### Stagiaire de fin d’études - Auditeur Financier - Septembre 2027 - F/H
+- PwC France - Nantes - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4490305886
+
+### Comptable - Stage - Lyon - H/F
+- Club Employés - Lyon - publiee 2026-11-12
+- mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4489251618
+
+### Stage M&A
+- Groupe Premium - Paris - publiee 2026-11-12
+- mot-cle : m&a
+- https://www.linkedin.com/jobs/view/4489091630
+
+### Stage - 6 mois - Chargé d'Études IA Générative &amp; Analyse Financière (F/H) - Charenton
+- Groupe BPCE - Charenton-le-Pont - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4488522428
+
+### Stage Contrôle de gestion (H/F)
+- iQo - Paris - publiee 2026-11-12
+- mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4489256659
+
+### Stagiaire Expertise Comptable Conseil F/H
+- RYDGE Conseil - Marseille - publiee 2026-11-12
+- mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4490347710
+
+### Stage - Contrôleur/Contrôleuse de gestion
+- LA MAISON DU WHISKY - LMDW - Clichy - publiee 2026-11-12
+- mot-cle : controleuse de gestion
+- https://www.linkedin.com/jobs/view/4490304658
+
+### Stage Contrôleur de Gestion - Janvier 2027 F/H
+- PwC - Paris - publiee 2026-11-12
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4488507433
+
+### Internal Control & Compliance - Internship
+- Capital Fund Management (CFM) - Ville de Paris - publiee 2026-11-12
+- mot-cle : compliance
+- https://www.linkedin.com/jobs/view/4488533511
+
+### Internship - Fundraising and M&A - Climate and Deep Tech
+- Vinculum - Paris - publiee 2026-11-12
+- mot-cle : m&a
+- https://www.linkedin.com/jobs/view/4490374221
+
+### Stage Auditeur Financier - Strasbourg - Janvier 2027 - F/H
+- PwC - Strasbourg - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4488534510
+
+### Stagiaire de fin d’études - Auditeur Financier - Septembre 2027 - F/H
+- PwC France - Marseille - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4490311618
+
+### Stagiaire Ingénieur Auditeur Financier - Septembre 2027 - F/H
+- PwC France - Montpellier - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4490309685
+
+### SAINT LAURENT Stage Assistant(e) Contrôleur de Gestion
+- Saint Laurent - Paris - publiee 2026-11-12
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4488291868
+
+### Stage Auditeur Financier - Strasbourg - Janvier 2027 - F/H
+- PwC France - Metz - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4490357647
+
+### Quantitative Strategist Intern
+- QuantCube Technology - Paris - publiee 2026-11-12
+- mot-cle : quantitative
+- https://www.linkedin.com/jobs/view/4489200748
+
+### Stage - 6 mois - Gestionnaire Recouvrement et Contentieux (F/H) - BALMA
+- Groupe BPCE - Balma - publiee 2026-11-12
+- mot-cle : recouvrement
+- https://www.linkedin.com/jobs/view/4488509998
+
+### Stagiaire Ingénieur Auditeur Financier - Septembre 2027 - F/H
+- PwC France - Marseille - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4490321014
+
+### Stage de Recherche en Analyse Financière 2027 (H/F)
+- Coface - Bois-Colombes - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4490319291
+
+### Stage - Analyste Private Equity H/F
+- BNP Paribas Asset Management - Puteaux - publiee 2026-11-12
 - mot-cle : private equity
-- https://www.linkedin.com/jobs/view/4489937363
+- https://www.linkedin.com/jobs/view/4490084895
 
-### Stage &amp;#8211; Actuariat (H/F)
-- Assurance Vallée - Cluster Assurance AuRA - Villeurbanne - publiee 2026-11-11
-- mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4488212548
+### Stage Private Equity - Fund of Funds H/F
+- BNP Paribas Asset Management - Puteaux - publiee 2026-11-12
+- mot-cle : private equity
+- https://www.linkedin.com/jobs/view/4490315810
 
-### Stage - Analyste Fusions-Acquisitions F/H - OTOKTONE - Nantes (44)
-- Banque Populaire Grand Ouest - Saint-Herblain - publiee 2026-11-11
-- mot-cle : fusions-acquisitions
-- https://www.linkedin.com/jobs/view/4488227298
-
-### stage 6 mois en analyse et consolidation financière
-- Sanofi - Gentilly - publiee 2026-11-11
+### Stage Auditeur Financier - Strasbourg - Janvier 2027 - F/H
+- PwC France - Strasbourg - publiee 2026-11-12
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4489944343
+- https://www.linkedin.com/jobs/view/4490358665
 
-### Consultante / Consultant Data, Risque & Conformité - Stage
+### Stagiaire Contrôleur de Gestion F/H
+- FIDEL FILLAUD - Les Sorinières - publiee 2026-11-12
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4490372079
+
+### Stage de Fin d'Études (PFE) - Responsable Administratif et financier F/H F/H
+- VINCI Energies - Lyon - publiee 2026-11-12
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4490358909
+
+### Stage Contrôleur de gestion H/F
+- Baker Tilly France - Angers - publiee 2026-11-12
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4489277053
+
+### Stagiaire FP&A (H/F)
+- GE Vernova - Issy-les-Moulineaux - publiee 2026-11-11
+- mot-cle : fp&a
+- https://www.linkedin.com/jobs/view/4489987592
+
+### Consultante / Consultant Financial Services - Stage
 - Capgemini Invent - Issy-les-Moulineaux - publiee 2026-11-11
-- mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4489903685
-
-### Stage - 6 mois - Compliance Officer (Conformité Centrale) F/H
-- Natixis Corporate & Investment Banking - Paris - publiee 2026-11-11
-- mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4488209910
-
-### Stage M&A / Fusions-Acquisitions (F/H)
-- Kerogo Finance - Paris - publiee 2026-11-10
-- mot-cle : m&a
-- https://www.linkedin.com/jobs/view/4489612619
-
-### Stage gestionnaire ALM/Trésorerie H/F
-- Crédit Agricole Alpes Provence - Aix-en-Provence - publiee 2026-11-10
-- mot-cle : tresorerie
-- https://www.linkedin.com/jobs/view/4489609794
-
-### Stage - 6 mois - Analyste Risque de Crédit - Infra - Aviation F/H
-- Natixis Corporate & Investment Banking - Paris - publiee 2026-11-10
-- mot-cle : analyste risqu
-- https://www.linkedin.com/jobs/view/4487805941
-
-### Stage - Chef.fe de projet Conformité Cyber et Résilience - GRADIGNAN - F/H
-- Inspection Générale de La Banque Postale - Gradignan - publiee 2026-11-10
-- mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4487842400
-
-### Stagiaire Finance Groupe
-- Europa Organisation - Paris - publiee 2026-11-10
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4489616204
-
-### Stage Royal Canin - Assistant(e) contrôleur de gestion (H/F/X) - Janvier 2027 - Aimargues - 6 mois
-- Mars - Aimargues - publiee 2026-11-10
-- mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4489623103
-
-### Stage gestionnaire ALM/Trésorerie H/F
-- CA Alpes Provence Recrutement - Aix-en-Provence - publiee 2026-11-10
-- mot-cle : tresorerie
-- https://www.linkedin.com/jobs/view/4487828742
-
-### Stagiaire Contrôleur de Gestion SI (F/H)
-- Valeo - Créteil - publiee 2026-11-10
-- mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4489629652
-
-### Collaborateur comptable confirmé H/F - Expert comptable stagiaire
-- Talents AEC - Paris - publiee 2026-11-10
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4489617225
-
-### INTERNSHIP - ESG - Value Creation - PARIS - S1 2027
-- Eurazeo - Paris - publiee 2026-11-10
-- mot-cle : esg
-- https://www.linkedin.com/jobs/view/4487801664
-
-### Stage – Actuariat (H/F)
-- OPTEVEN ASSURANCES - Villeurbanne - publiee 2026-11-10
-- mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4489629269
-
-### Internship - M&A and Strategic Development (H/F) - January 2027
-- Tikehau Capital - Paris - publiee 2026-11-10
-- mot-cle : m&a
-- https://www.linkedin.com/jobs/view/4489649090
-
-### Stage Contrôleur de Gestion
-- Oney - Croix - publiee 2026-11-10
-- mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4488396221
-
-### Collaborateur comptable confirmé H/F - Expert comptable stagiaire
-- Comptalents - Paris - publiee 2026-11-10
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4489609640
-
-### STAGE – Contrôleur de gestion junior (F/H)
-- Fonds Bayard Agir pour une société du lien - Malakoff - publiee 2026-11-10
-- mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4487816963
-
-## Deja vues (fenetre courante)
-
-### STAGE – Analyste en gestion des risques - GRC (F/H)
-- Dassault Systèmes - Vélizy-Villacoublay - publiee 2026-11-10
-- mot-cle : gestion des risques
-- https://www.linkedin.com/jobs/view/4464332449
+- https://www.linkedin.com/jobs/view/4489981759
 
