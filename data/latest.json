@@ -1,11 +1,45 @@
 {
-  "generatedAt": "2026-11-12T16:37:09.6307635Z",
+  "generatedAt": "2026-11-13T15:56:19.4017865Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 0,
-  "nouvelles": 0,
+  "total": 3,
+  "nouvelles": 3,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 1,
-  "offres": []
+  "reposteesEcartees": 2,
+  "offres": [
+    {
+      "id": "4490582892",
+      "intitule": "Alternance Gestionnaire ADV, Facturation & Recouvrement (H/F)",
+      "entreprise": "AVEKAPETI - Service traiteur",
+      "lieu": "Saint-Ouen",
+      "datePubliee": "2026-11-13",
+      "duree24": false,
+      "matchFinance": "recouvrement",
+      "url": "https://www.linkedin.com/jobs/view/4490582892",
+      "nouvelle": true
+    },
+    {
+      "id": "4488939445",
+      "intitule": "ALTERNANCE - Administrateur SI/Finance (F/H)",
+      "entreprise": "Alliance Automotive Group",
+      "lieu": "Levallois-Perret",
+      "datePubliee": "2026-11-13",
+      "duree24": false,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4488939445",
+      "nouvelle": true
+    },
+    {
+      "id": "4488932765",
+      "intitule": "ALTERNANCE Gouvernance, Risques et Conformité Cybersécurité H/F",
+      "entreprise": "Africa Global Logistics",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-11-13",
+      "duree24": false,
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4488932765",
+      "nouvelle": true
+    }
+  ]
 }
