@@ -1,44 +1,22 @@
 {
-  "generatedAt": "2026-11-13T15:56:19.4017865Z",
+  "generatedAt": "2026-11-14T14:48:56.4585439Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 3,
-  "nouvelles": 3,
+  "total": 1,
+  "nouvelles": 1,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 2,
+  "reposteesEcartees": 3,
   "offres": [
     {
-      "id": "4490582892",
-      "intitule": "Alternance Gestionnaire ADV, Facturation & Recouvrement (H/F)",
-      "entreprise": "AVEKAPETI - Service traiteur",
-      "lieu": "Saint-Ouen",
+      "id": "4483048395",
+      "intitule": "Alternance janvier 2027 - Contrôle de gestion & FP&A H/F",
+      "entreprise": "Estela Group",
+      "lieu": "Montreuil",
       "datePubliee": "2026-11-13",
       "duree24": false,
-      "matchFinance": "recouvrement",
-      "url": "https://www.linkedin.com/jobs/view/4490582892",
-      "nouvelle": true
-    },
-    {
-      "id": "4488939445",
-      "intitule": "ALTERNANCE - Administrateur SI/Finance (F/H)",
-      "entreprise": "Alliance Automotive Group",
-      "lieu": "Levallois-Perret",
-      "datePubliee": "2026-11-13",
-      "duree24": false,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4488939445",
-      "nouvelle": true
-    },
-    {
-      "id": "4488932765",
-      "intitule": "ALTERNANCE Gouvernance, Risques et Conformité Cybersécurité H/F",
-      "entreprise": "Africa Global Logistics",
-      "lieu": "Puteaux",
-      "datePubliee": "2026-11-13",
-      "duree24": false,
-      "matchFinance": "conformite",
-      "url": "https://www.linkedin.com/jobs/view/4488932765",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4483048395",
       "nouvelle": true
     }
   ]
