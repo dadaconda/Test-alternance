@@ -1,192 +1,42 @@
 {
-  "generatedAt": "2026-11-14T14:57:31.5251077Z",
+  "generatedAt": "2026-11-15T15:35:15.3318442Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 18,
-  "nouvelles": 18,
+  "total": 3,
+  "nouvelles": 2,
   "filtreRepostes": true,
-  "reposteesEcartees": 34,
+  "reposteesEcartees": 21,
   "offres": [
     {
-      "id": "4491072237",
-      "intitule": "Stagiaire Finance / Contrôle de gestion F/H",
+      "id": "4491060555",
+      "intitule": "Stage Adjoint Comptable, Activité Electricité Tertiaire F/H",
       "entreprise": "VINCI Energies",
-      "lieu": "Rueil-Malmaison",
-      "datePubliee": "2026-11-14",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4491072237",
-      "nouvelle": true
-    },
-    {
-      "id": "4490764643",
-      "intitule": "INTERNSHIP – Compliance Data Analyst - March 2027 (M/F)",
-      "entreprise": "Danone",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-14",
-      "matchFinance": "compliance",
-      "url": "https://www.linkedin.com/jobs/view/4490764643",
-      "nouvelle": true
-    },
-    {
-      "id": "4474181466",
-      "intitule": "Stage - Analyse et modélisation macroéconomique et financière H/F",
-      "entreprise": "Crédit Agricole",
-      "lieu": "Montrouge",
-      "datePubliee": "2026-11-14",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4474181466",
-      "nouvelle": true
-    },
-    {
-      "id": "4491066406",
-      "intitule": "Stagiaire Finance / Contrôle de gestion F/H",
-      "entreprise": "VINCI",
-      "lieu": "Rueil-Malmaison",
-      "datePubliee": "2026-11-14",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4491066406",
-      "nouvelle": true
-    },
-    {
-      "id": "4491068830",
-      "intitule": "Stagiaire Finance / Contrôle de gestion F/H",
-      "entreprise": "VINCI Construction",
-      "lieu": "Rueil-Malmaison",
-      "datePubliee": "2026-11-14",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4491068830",
-      "nouvelle": true
-    },
-    {
-      "id": "4489586688",
-      "intitule": "Analyste financier junior - Bac+4/5 - Stage (H/F)",
-      "entreprise": "Mobilize Financial Services",
-      "lieu": "Fontenay-sous-Bois",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4489586688",
-      "nouvelle": true
-    },
-    {
-      "id": "4489591680",
-      "intitule": "Analyste quantitatif (F/H) - Risque de crédit - Stagiaire école",
-      "entreprise": "Crédit Mutuel Alliance Fédérale",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "risque de credit",
-      "url": "https://www.linkedin.com/jobs/view/4489591680",
-      "nouvelle": true
-    },
-    {
-      "id": "4490751676",
-      "intitule": "Stagiaire en Expertise Comptable H/F",
-      "entreprise": "Anderlaine",
-      "lieu": "Aix-les-Bains",
-      "datePubliee": "2026-11-13",
+      "lieu": "Wasquehal",
+      "datePubliee": "2026-11-15",
       "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4490751676",
+      "url": "https://www.linkedin.com/jobs/view/4491060555",
       "nouvelle": true
     },
     {
-      "id": "4489598326",
-      "intitule": "Contrôleur risques financiers - Bac+5 - Stage (H/F)",
-      "entreprise": "Mobilize Financial Services",
-      "lieu": "Boulogne-Billancourt",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4489598326",
+      "id": "4474774949",
+      "intitule": "Stage - Juriste Droit des Affaires, Conformité et Legal Tech H/F - AS 24",
+      "entreprise": "TotalEnergies",
+      "lieu": "Saint-Herblain",
+      "datePubliee": "2026-11-14",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4474774949",
       "nouvelle": true
     },
     {
-      "id": "4488956719",
-      "intitule": "Stage marché patrimonial",
-      "entreprise": "Société Générale",
-      "lieu": "Menton",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "patrimonial",
-      "url": "https://www.linkedin.com/jobs/view/4488956719",
-      "nouvelle": true
-    },
-    {
-      "id": "4488947573",
-      "intitule": "Stage - Conseil en cybersécurité et gestion des risques IT – F/H",
-      "entreprise": "PwC",
-      "lieu": "Toulouse",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "gestion des risques",
-      "url": "https://www.linkedin.com/jobs/view/4488947573",
-      "nouvelle": true
-    },
-    {
-      "id": "4490767508",
-      "intitule": "Assistant comptable stagiaire H/F",
-      "entreprise": "BDL - Expertise comptable, audit & conseil",
-      "lieu": "Valenciennes",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4490767508",
-      "nouvelle": true
-    },
-    {
-      "id": "4489820883",
-      "intitule": "Business Analyst/Contrôleur de gestion opérationnel TML en stage F/H",
-      "entreprise": "Monoprix",
-      "lieu": "Courbevoie",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "controleur de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4489820883",
-      "nouvelle": true
-    },
-    {
-      "id": "4488963394",
-      "intitule": "Stage - 6 mois - Développeur d'outils - Risques de Marché F/H",
-      "entreprise": "Natixis Corporate & Investment Banking",
+      "id": "4472824495",
+      "intitule": "Investment Banking – Analyst Intern March 2027 (Growth Fundraising & Secondaries)",
+      "entreprise": "Stifel Europe",
       "lieu": "Paris",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "risques de marche",
-      "url": "https://www.linkedin.com/jobs/view/4488963394",
-      "nouvelle": true
-    },
-    {
-      "id": "4488953629",
-      "intitule": "Stage : Ethics & Compliance Data & AI Analyst",
-      "entreprise": "Stellantis",
-      "lieu": "Poissy",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "compliance",
-      "url": "https://www.linkedin.com/jobs/view/4488953629",
-      "nouvelle": true
-    },
-    {
-      "id": "4488993335",
-      "intitule": "Hachette Livre - Assistant contrôle de gestion opérationnel - Stage - H/F",
-      "entreprise": "Hachette Livre",
-      "lieu": "Vanves",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4488993335",
-      "nouvelle": true
-    },
-    {
-      "id": "4490770149",
-      "intitule": "Stage - Assistant Business Analyst & Contrôleur de gestion TR Europe New Ventures (H/F)",
-      "entreprise": "LVMH Perfumes & Cosmetics",
-      "lieu": "Neuilly-sur-Seine",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "controleur de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4490770149",
-      "nouvelle": true
-    },
-    {
-      "id": "4489583718",
-      "intitule": "Gestion des risques - Bac+5 - Stage (H/F)",
-      "entreprise": "Mobilize Financial Services",
-      "lieu": "Fontenay-sous-Bois",
-      "datePubliee": "2026-11-13",
-      "matchFinance": "gestion des risques",
-      "url": "https://www.linkedin.com/jobs/view/4489583718",
-      "nouvelle": true
+      "datePubliee": "2026-11-14",
+      "matchFinance": "investment banking",
+      "url": "https://www.linkedin.com/jobs/view/4472824495",
+      "nouvelle": false
     }
   ]
 }
