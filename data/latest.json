@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-14T14:48:56.4585439Z",
+  "generatedAt": "2026-11-15T15:24:37.7334800Z",
   "source": "linkedin",
   "fenetreHeures": 24,
   "total": 1,
   "nouvelles": 1,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 3,
+  "reposteesEcartees": 1,
   "offres": [
     {
-      "id": "4483048395",
-      "intitule": "Alternance janvier 2027 - Contrôle de gestion & FP&A H/F",
-      "entreprise": "Estela Group",
-      "lieu": "Montreuil",
-      "datePubliee": "2026-11-13",
+      "id": "4491236232",
+      "intitule": "Alternant Contrôle de Gestion Site & Division H/F",
+      "entreprise": "Hutchinson",
+      "lieu": "Bondoufle",
+      "datePubliee": "2026-11-15",
       "duree24": false,
       "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4483048395",
+      "url": "https://www.linkedin.com/jobs/view/4491236232",
       "nouvelle": true
     }
   ]
