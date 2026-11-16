@@ -1,42 +1,192 @@
 {
-  "generatedAt": "2026-11-15T15:35:15.3318442Z",
+  "generatedAt": "2026-11-16T18:20:24.6296002Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 3,
-  "nouvelles": 2,
+  "total": 18,
+  "nouvelles": 18,
   "filtreRepostes": true,
-  "reposteesEcartees": 21,
+  "reposteesEcartees": 17,
   "offres": [
     {
-      "id": "4491060555",
-      "intitule": "Stage Adjoint Comptable, Activité Electricité Tertiaire F/H",
-      "entreprise": "VINCI Energies",
-      "lieu": "Wasquehal",
-      "datePubliee": "2026-11-15",
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4491060555",
+      "id": "4490100081",
+      "intitule": "Stage - Analyste Risque Caution (H/F)",
+      "entreprise": "Atradius France",
+      "lieu": "Levallois-Perret",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "analyste risqu",
+      "url": "https://www.linkedin.com/jobs/view/4490100081",
       "nouvelle": true
     },
     {
-      "id": "4474774949",
-      "intitule": "Stage - Juriste Droit des Affaires, Conformité et Legal Tech H/F - AS 24",
-      "entreprise": "TotalEnergies",
-      "lieu": "Saint-Herblain",
-      "datePubliee": "2026-11-14",
-      "matchFinance": "conformite",
-      "url": "https://www.linkedin.com/jobs/view/4474774949",
+      "id": "4490614084",
+      "intitule": "Stage - Contrôleur de gestion industriel - H/F",
+      "entreprise": "NAVAL GROUP",
+      "lieu": "Cherbourg",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4490614084",
       "nouvelle": true
     },
     {
-      "id": "4472824495",
-      "intitule": "Investment Banking – Analyst Intern March 2027 (Growth Fundraising & Secondaries)",
-      "entreprise": "Stifel Europe",
+      "id": "4489755716",
+      "intitule": "Stage - 6 mois - Chargé de conformité aux sanctions internationales F/H",
+      "entreprise": "Natixis Corporate & Investment Banking",
       "lieu": "Paris",
-      "datePubliee": "2026-11-14",
-      "matchFinance": "investment banking",
-      "url": "https://www.linkedin.com/jobs/view/4472824495",
-      "nouvelle": false
+      "datePubliee": "2026-11-16",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4489755716",
+      "nouvelle": true
+    },
+    {
+      "id": "4490103805",
+      "intitule": "Stage Contrôle de Gestion (H/F)",
+      "entreprise": "Groupe LPG®",
+      "lieu": "Valence",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4490103805",
+      "nouvelle": true
+    },
+    {
+      "id": "4490697230",
+      "intitule": "Chef de projet transformation finance - Stage - H/F",
+      "entreprise": "Lagardère Travel Retail",
+      "lieu": "Levallois-Perret",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490697230",
+      "nouvelle": true
+    },
+    {
+      "id": "4490622732",
+      "intitule": "Stage - Finance Data Analyst H/F",
+      "entreprise": "VivaTech",
+      "lieu": "Étampes",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490622732",
+      "nouvelle": true
+    },
+    {
+      "id": "4489783600",
+      "intitule": "Stage/Alternance Consultant en gestion des risques et Audit IT | Marseille | F/H",
+      "entreprise": "PwC",
+      "lieu": "Marseille",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "gestion des risques",
+      "url": "https://www.linkedin.com/jobs/view/4489783600",
+      "nouvelle": true
+    },
+    {
+      "id": "4490691138",
+      "intitule": "Stage/Alternance Consultant en gestion des risques et Audit IT | Marseille | F/H",
+      "entreprise": "PwC France",
+      "lieu": "Marseille",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "gestion des risques",
+      "url": "https://www.linkedin.com/jobs/view/4490691138",
+      "nouvelle": true
+    },
+    {
+      "id": "4491299667",
+      "intitule": "Stage - Analyste Fonds de Capital Investissement F/H",
+      "entreprise": "La France Mutualiste",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "capital investissement",
+      "url": "https://www.linkedin.com/jobs/view/4491299667",
+      "nouvelle": true
+    },
+    {
+      "id": "4490921329",
+      "intitule": "Consultant.e en analyse des finances locales - Stage",
+      "entreprise": "Espelia",
+      "lieu": "Toulouse",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490921329",
+      "nouvelle": true
+    },
+    {
+      "id": "4490672597",
+      "intitule": "Analyste financier junior - Bac+4/5 - Stage (H/F)",
+      "entreprise": "Renault Canteleu",
+      "lieu": "Fontenay-sous-Bois",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490672597",
+      "nouvelle": true
+    },
+    {
+      "id": "4490290954",
+      "intitule": "Stage - Analyste M&A (H/F)",
+      "entreprise": "TotalEnergies",
+      "lieu": "Tour-en-Sologne",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4490290954",
+      "nouvelle": true
+    },
+    {
+      "id": "4490698145",
+      "intitule": "Stage (6 mois) - Chargé Back Office Trésorerie (H/F)",
+      "entreprise": "Arkéa ProCapital Services",
+      "lieu": "Courbevoie",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "tresorerie",
+      "url": "https://www.linkedin.com/jobs/view/4490698145",
+      "nouvelle": true
+    },
+    {
+      "id": "4489775061",
+      "intitule": "Stage - Analyste Communication Financière H/F",
+      "entreprise": "Edenred",
+      "lieu": "Issy-les-Moulineaux",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4489775061",
+      "nouvelle": true
+    },
+    {
+      "id": "4427508655",
+      "intitule": "Stage Analyste Financement de Projets et M&A H/F",
+      "entreprise": "Arkolia",
+      "lieu": "Mauguio",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4427508655",
+      "nouvelle": true
+    },
+    {
+      "id": "4489793577",
+      "intitule": "Stage Assistant(e) Banquier Privé – Bordeaux – Janvier 2027",
+      "entreprise": "Rothschild & Co",
+      "lieu": "Bordeaux",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "banquier",
+      "url": "https://www.linkedin.com/jobs/view/4489793577",
+      "nouvelle": true
+    },
+    {
+      "id": "4491272493",
+      "intitule": "[EV CHARGE] STAGIAIRE - Modélisation de flux financiers dans le domaine de la recharge électrique - 86247",
+      "entreprise": "TotalEnergies",
+      "lieu": "Nanterre",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4491272493",
+      "nouvelle": true
+    },
+    {
+      "id": "4490691802",
+      "intitule": "Corporate Financial Analyst Intern",
+      "entreprise": "Lynxeo",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-11-16",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4490691802",
+      "nouvelle": true
     }
   ]
 }
