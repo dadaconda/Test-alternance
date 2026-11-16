@@ -1,22 +1,55 @@
 {
-  "generatedAt": "2026-11-15T15:24:37.7334800Z",
+  "generatedAt": "2026-11-16T17:59:51.5371621Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 1,
-  "nouvelles": 1,
+  "total": 4,
+  "nouvelles": 4,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 1,
+  "reposteesEcartees": 2,
   "offres": [
     {
-      "id": "4491236232",
+      "id": "4489783600",
+      "intitule": "Stage/Alternance Consultant en gestion des risques et Audit IT | Marseille | F/H",
+      "entreprise": "PwC",
+      "lieu": "Marseille",
+      "datePubliee": "2026-11-16",
+      "duree24": false,
+      "matchFinance": "gestion des risques",
+      "url": "https://www.linkedin.com/jobs/view/4489783600",
+      "nouvelle": true
+    },
+    {
+      "id": "4490294836",
       "intitule": "Alternant Contrôle de Gestion Site & Division H/F",
-      "entreprise": "Hutchinson",
+      "entreprise": "TotalEnergies",
       "lieu": "Bondoufle",
-      "datePubliee": "2026-11-15",
+      "datePubliee": "2026-11-16",
       "duree24": false,
       "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4491236232",
+      "url": "https://www.linkedin.com/jobs/view/4490294836",
+      "nouvelle": true
+    },
+    {
+      "id": "4490697293",
+      "intitule": "Consultant Alternant ESG F/H",
+      "entreprise": "KPMG France",
+      "lieu": "Courbevoie",
+      "datePubliee": "2026-11-16",
+      "duree24": false,
+      "matchFinance": "esg",
+      "url": "https://www.linkedin.com/jobs/view/4490697293",
+      "nouvelle": true
+    },
+    {
+      "id": "4490691138",
+      "intitule": "Stage/Alternance Consultant en gestion des risques et Audit IT | Marseille | F/H",
+      "entreprise": "PwC France",
+      "lieu": "Marseille",
+      "datePubliee": "2026-11-16",
+      "duree24": false,
+      "matchFinance": "gestion des risques",
+      "url": "https://www.linkedin.com/jobs/view/4490691138",
       "nouvelle": true
     }
   ]
