@@ -1,124 +1,151 @@
 # Offres de stage - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-11-19 17:16 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-11-20 16:54 UTC_
 
-**23 offre(s)**, dont **23 nouvelle(s)** depuis le dernier passage.
-_19 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**28 offre(s)**, dont **27 nouvelle(s)** depuis le dernier passage.
+_27 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### [STAGE] Contrôleur de Gestion h/f - Evenementiel
-- Bertrand Hospitality - Levallois-Perret - publiee 2026-11-19
-- mot-cle : controleur de gestion
-- https://www.linkedin.com/jobs/view/4492443914
+### Un.e stagiaire chargé.e d’études quantitative et qualitative observatoire Emmaüs des budgets contraints
+- Emmaüs Insert Albi - Montreuil - publiee 2026-11-20
+- mot-cle : quantitative
+- https://www.linkedin.com/jobs/view/4492948094
 
-### Stagiaire Expertise Comptable Conseil F/H
-- RYDGE Conseil - Mâcon - publiee 2026-11-19
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4492460206
-
-### stage 4 mois reporting finance
-- Sanofi - Gentilly - publiee 2026-11-19
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4492410997
-
-### Stagiaire Analyste FInancier Groupe - H/F
-- CVE (Changeons Notre Vision de l'Energie) - Marseille et périphérie - publiee 2026-11-19
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4492276965
-
-### Stage : Montage de financement &amp; Relance d&#039;un projet agroécologique et social (H/F)
-- Jobagri - L'emploi agricole - Hérault - publiee 2026-11-19
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4492433001
+### Stage - 6 mois - Private Equity F/H
+- Groupe BPCE - Paris - publiee 2026-11-20
+- mot-cle : private equity
+- https://www.linkedin.com/jobs/view/4491920532
 
 ### STAGIAIRE PUIS ALTERNANT ACTUARIAT NON VIE F/H
-- Relyens en France - Lyon - publiee 2026-11-19
+- Assurance Vallée - Cluster Assurance AuRA - Lyon - publiee 2026-11-20
 - mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4492473350
+- https://www.linkedin.com/jobs/view/4491904834
 
-### Stage - Chargé(e) de Reporting réglementaire et prévisions financières H/F
-- Groupama Assurances Mutuelles - Paris - publiee 2026-11-19
+### Stage de Fin d'Etudes / PFE - Contrôleur de Gestion &amp; Performance Financière (H/F)H/F
+- SATELEC - FAYAT ENERGIE SERVICES - Viry-Châtillon - publiee 2026-11-20
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4492105569
+- https://www.linkedin.com/jobs/view/4492594723
 
-### STAGE – Ingénieur d'études statistiques et actuarielles H/F
-- LCL - Ville de Paris - publiee 2026-11-19
-- mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4492451793
-
-### Stage - Conformité et sécurité aéroportuaire - 6 mois
-- Edeis - Ivry-sur-Seine - publiee 2026-11-19
+### Stage - Chargé.e de conformité Réglementaire en Cybersécurité - F/H
+- La Banque Postale - Paris - publiee 2026-11-20
 - mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4492139342
+- https://www.linkedin.com/jobs/view/4492966138
 
-### Stagiaire Analyste Financement de Projets EnR - H/F
-- CVE (Changeons Notre Vision de l'Energie) - Marseille et périphérie - publiee 2026-11-19
-- mot-cle : financ
-- https://www.linkedin.com/jobs/view/4482575976
+### Stage - ADV - Comptabilité - Contrôle de Gestion (H/F)
+- Bolloré - Paris - publiee 2026-11-20
+- mot-cle : controle de gestion
+- https://www.linkedin.com/jobs/view/4492953112
 
-### STAGIAIRE PUIS ALTERNANT ACTUARIAT VIE F/H
-- Relyens en France - Lyon - publiee 2026-11-19
+### Stage - Bac+5 - Analyste Risques (H/F)
+- Mobilize Financial Services - Boulogne-Billancourt - publiee 2026-11-20
+- mot-cle : analyste risqu
+- https://www.linkedin.com/jobs/view/4492574695
+
+### Contrôleur de gestion junior (stage) H/F
+- Sabena technics - Toussus-le-Noble - publiee 2026-11-20
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4485314388
+
+### STAGE L3 – Actuarial Modeling – Tassin – F/H
+- addactis - Tassin - publiee 2026-11-20
 - mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4492478096
+- https://www.linkedin.com/jobs/view/4483456107
 
-### Stage Chargé de Process Comptable (H/F)
-- Kaufman & Broad - Courbevoie - publiee 2026-11-19
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4492453533
-
-### Stage Chargé de Process Comptable (H/F)
-- Kaufman & Broad Patrimoine - Courbevoie - publiee 2026-11-19
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4492170770
-
-### Consultant Stagiaire| Expertise Comptable Internationale F/H
-- KPMG France - Courbevoie - publiee 2026-11-18
-- mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4492223251
-
-### Stagiaire - Analyste Finance Groupe F/H
-- ENGIE - La Garenne-Colombes - publiee 2026-11-18
+### STAGE Contrôleur Financier Investissements Junior H/F
+- Africa Global Logistics - Puteaux - publiee 2026-11-20
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4492094191
+- https://www.linkedin.com/jobs/view/4491917186
 
-### STAGIAIRE- BACK OFFICE-PAIEMENT & KYC- PARIS
-- Aether - Paris et périphérie - publiee 2026-11-18
-- mot-cle : kyc
-- https://www.linkedin.com/jobs/view/4492098097
+### Stage Assistant Trésorerie H/F
+- Crédit Agricole Sud Rhône Alpes - Valence - publiee 2026-11-20
+- mot-cle : tresorerie
+- https://www.linkedin.com/jobs/view/4492515982
 
-### STAGE - Assistant contrôle et reporting Conformité H/F
-- Crédit Agricole Assurances - Paris - publiee 2026-11-18
+### Stage Corporate Finance - Janvier 2027 - F/H
+- PwC - Paris - publiee 2026-11-20
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4491947088
+
+### Stage - Bac+5 - Analyste Risque IT (H/F)
+- Mobilize Financial Services - Boulogne-Billancourt - publiee 2026-11-20
+- mot-cle : analyste risqu
+- https://www.linkedin.com/jobs/view/4492580222
+
+### Stage Comptable F/H
+- Oney - Croix - publiee 2026-11-20
+- mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4492576383
+
+### Stage - Analyste FP&A & Amélioration des Processus (H/F)
+- Arnest - Île-de-France, France - publiee 2026-11-20
+- mot-cle : fp&a
+- https://www.linkedin.com/jobs/view/4492940389
+
+### Stage - Bac+4/5 - Analyste Conformité Anticorruption et Ethique (H/F)
+- Mobilize Financial Services - Boulogne-Billancourt - publiee 2026-11-20
 - mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4492062997
+- https://www.linkedin.com/jobs/view/4492572669
 
-### STAGE - Consolidation et Reporting - Mars 2027 - (H/F)
-- Danone - Paris - publiee 2026-11-18
-- mot-cle : consolidation
-- https://www.linkedin.com/jobs/view/4492076488
+### 6 month Internship – Credit Analyst – March 2027
+- MUFG - Paris - publiee 2026-11-20
+- mot-cle : credit analyst
+- https://www.linkedin.com/jobs/view/4492944796
 
-### Stage - Support structuration fonction produit industriel
-- LFB - Les Ulis - publiee 2026-11-18
-- mot-cle : structuration
-- https://www.linkedin.com/jobs/view/4491869465
+### Stage Audit Interne F/H
+- Caisse d'Epargne Loire Drôme Ardèche - Saint-Étienne - publiee 2026-11-20
+- mot-cle : audit interne
+- https://www.linkedin.com/jobs/view/4491934385
 
-### Stagiaire Conformité / Juridique / Middle Office office
-- A Plus Finance - Ville de Paris - publiee 2026-11-18
-- mot-cle : conformite
-- https://www.linkedin.com/jobs/view/4492062854
-
-### STAGE 6 MOIS - ACTUARIAT/RISQUES H/F
-- CNP Assurances - Issy-les-Moulineaux - publiee 2026-11-18
-- mot-cle : actuar
-- https://www.linkedin.com/jobs/view/4492093977
-
-### Stage Assistant/e ingénieur financier
-- Ensimag Alumni - Paris - publiee 2026-11-18
+### Stage PMO : gestion projets et animation finance
+- SOMFY Group - Cluses - publiee 2026-11-20
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4491884945
+- https://www.linkedin.com/jobs/view/4491917118
 
-### Stage Département Sécurité Financière et anti-blanchiment (H/F)- Cesson (35)
-- Caisse d'Epargne Bretagne Pays de Loire - Cesson-Sévigné - publiee 2026-11-18
+### Stage - Audit Interne - Février 2027
+- AXA - Paris - publiee 2026-11-20
+- mot-cle : audit interne
+- https://www.linkedin.com/jobs/view/4492968130
+
+### STAGE - Chargé d'études actuarielles et financières H/F
+- Crédit Agricole Assurances - Paris - publiee 2026-11-19
 - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4491327408
+- https://www.linkedin.com/jobs/view/4492491156
+
+### Stage – Contrôleur de Gestion (H/F/NB)
+- Ennismore - Ville de Paris - publiee 2026-11-19
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4491629950
+
+### Contrôleur de gestion siège en stage F/H
+- Monoprix - Courbevoie - publiee 2026-11-19
+- mot-cle : controleur de gestion
+- https://www.linkedin.com/jobs/view/4492511582
+
+### Stage Banquier Privé
+- Société Générale - Chatou - publiee 2026-11-19
+- mot-cle : banquier
+- https://www.linkedin.com/jobs/view/4491648246
+
+### STAGE - Quantitative Researcher H/F
+- Crédit Agricole Assurances - Paris - publiee 2026-11-19
+- mot-cle : quantitative
+- https://www.linkedin.com/jobs/view/4492477874
+
+### Stage Master ALM Trésorerie H/F
+- Crédit Agricole d'Aquitaine - Bordeaux - publiee 2026-11-19
+- mot-cle : tresorerie
+- https://www.linkedin.com/jobs/view/4492184642
+
+### Stage en Front Office - Ingénierie Financière au sein de HSBC Asset Global Management (f/m/d)
+- HSBC - Courbevoie - publiee 2026-11-19
+- mot-cle : financ
+- https://www.linkedin.com/jobs/view/4492499911
+
+## Deja vues (fenetre courante)
+
+### Internship - 6 months - Intern Treasury x AI & Automation Projects H/F
+- Alstom - Île-de-France, France - publiee 2026-11-20
+- mot-cle : treasury
+- https://www.linkedin.com/jobs/view/4484373399
 
