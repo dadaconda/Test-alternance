@@ -1,66 +1,22 @@
 {
-  "generatedAt": "2026-11-19T17:05:49.4705558Z",
+  "generatedAt": "2026-11-21T15:55:33.7806482Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 5,
-  "nouvelles": 5,
+  "total": 1,
+  "nouvelles": 1,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 4,
+  "reposteesEcartees": 7,
   "offres": [
     {
-      "id": "4492152334",
-      "intitule": "Alternant Contrôle de Gestion",
-      "entreprise": "Busch Vacuum Solutions",
-      "lieu": "Annecy",
-      "datePubliee": "2026-11-19",
-      "duree24": false,
-      "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4492152334",
-      "nouvelle": true
-    },
-    {
-      "id": "4492182063",
-      "intitule": "Alternance - Transformation IA & Automatisation - Direction Finance (F/H)",
-      "entreprise": "DIGITRIPS Group",
-      "lieu": "Valbonne",
-      "datePubliee": "2026-11-19",
-      "duree24": false,
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4492182063",
-      "nouvelle": true
-    },
-    {
-      "id": "4492478096",
-      "intitule": "STAGIAIRE PUIS ALTERNANT ACTUARIAT VIE F/H",
-      "entreprise": "Relyens en France",
-      "lieu": "Lyon",
-      "datePubliee": "2026-11-19",
-      "duree24": false,
-      "matchFinance": "actuar",
-      "url": "https://www.linkedin.com/jobs/view/4492478096",
-      "nouvelle": true
-    },
-    {
-      "id": "4492473350",
-      "intitule": "STAGIAIRE PUIS ALTERNANT ACTUARIAT NON VIE F/H",
-      "entreprise": "Relyens en France",
-      "lieu": "Lyon",
-      "datePubliee": "2026-11-19",
-      "duree24": false,
-      "matchFinance": "actuar",
-      "url": "https://www.linkedin.com/jobs/view/4492473350",
-      "nouvelle": true
-    },
-    {
-      "id": "4491863724",
-      "intitule": "Gestionnaire comptable et fiscal en alternance",
-      "entreprise": "IHECF - Institut des Hautes Etudes Comptables et Financières",
-      "lieu": "Pontivy",
-      "datePubliee": "2026-11-18",
+      "id": "4492836808",
+      "intitule": "Collaborateur comptable en alternance F/H",
+      "entreprise": "Cocerto",
+      "lieu": "Cesson-Sévigné",
+      "datePubliee": "2026-11-20",
       "duree24": true,
       "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4491863724",
+      "url": "https://www.linkedin.com/jobs/view/4492836808",
       "nouvelle": true
     }
   ]
