@@ -1,111 +1,21 @@
 {
-  "generatedAt": "2026-11-21T16:05:17.1057370Z",
+  "generatedAt": "2026-11-22T16:11:08.7410163Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 10,
-  "nouvelles": 10,
+  "total": 1,
+  "nouvelles": 1,
   "filtreRepostes": true,
-  "reposteesEcartees": 30,
+  "reposteesEcartees": 11,
   "offres": [
     {
-      "id": "4473036672",
-      "intitule": "INTERNSHIP - ESG ANALYST - ENVIRONMENTAL, SOCIAL AND GOVERNANCE (W/M)",
-      "entreprise": "Allianz Trade en France",
-      "lieu": "Paris et périphérie",
-      "datePubliee": "2026-11-21",
-      "matchFinance": "esg",
-      "url": "https://www.linkedin.com/jobs/view/4473036672",
-      "nouvelle": true
-    },
-    {
-      "id": "4492987386",
-      "intitule": "Stage en Gestion de financements syndiqués - BFI (f/m/d)",
-      "entreprise": "HSBC",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4492987386",
-      "nouvelle": true
-    },
-    {
-      "id": "4491964283",
-      "intitule": "Stage – Assistant Contrôle de Gestion F/H",
-      "entreprise": "Cogelec SAS",
-      "lieu": "Mortagne-sur-Sèvre",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4491964283",
-      "nouvelle": true
-    },
-    {
-      "id": "4457112773",
-      "intitule": "Investment Banking – Analyst Intern – Healthcare",
-      "entreprise": "Stifel Europe",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "investment banking",
-      "url": "https://www.linkedin.com/jobs/view/4457112773",
-      "nouvelle": true
-    },
-    {
-      "id": "4492982180",
-      "intitule": "STAGE - Chargé de communication financière et notation H/F",
-      "entreprise": "Crédit Agricole Assurances",
-      "lieu": "Paris",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4492982180",
-      "nouvelle": true
-    },
-    {
-      "id": "4492974067",
-      "intitule": "Stage - Direction régulation et affaires internationales / Innovation et finance digitale H/F",
-      "entreprise": "Autorité des marchés financiers (AMF) – France",
-      "lieu": "Ville de Paris",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4492974067",
-      "nouvelle": true
-    },
-    {
-      "id": "4492981571",
-      "intitule": "Stagiaire Ingénieur Études de Prix : Optimisation financière F/H",
-      "entreprise": "RAZEL-BEC | FAYAT Group",
-      "lieu": "Perpignan",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4492981571",
-      "nouvelle": true
-    },
-    {
-      "id": "4491961110",
-      "intitule": "Stage - Team Member junior Finance – Comptabilité et Trésorerie",
-      "entreprise": "Eiffage Construction",
-      "lieu": "Vélizy-Villacoublay",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4491961110",
-      "nouvelle": true
-    },
-    {
-      "id": "4491952481",
-      "intitule": "Stage - Team Member junior Contrôle de gestion F/H",
-      "entreprise": "Eiffage Construction",
-      "lieu": "Vélizy-Villacoublay",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4491952481",
-      "nouvelle": true
-    },
-    {
-      "id": "4491952413",
-      "intitule": "Stage qualité et gestion des risques en établissement de santé - H/F",
-      "entreprise": "CENTRE HOSPITALIER DU PAYS DE GEX",
-      "lieu": "Gex",
-      "datePubliee": "2026-11-20",
-      "matchFinance": "gestion des risques",
-      "url": "https://www.linkedin.com/jobs/view/4491952413",
+      "id": "4440232303",
+      "intitule": "Stage en droit des affaires / corporate m&a F/H",
+      "entreprise": "Deloitte",
+      "lieu": "Montpellier",
+      "datePubliee": "2026-11-22",
+      "matchFinance": "m&a",
+      "url": "https://www.linkedin.com/jobs/view/4440232303",
       "nouvelle": true
     }
   ]
