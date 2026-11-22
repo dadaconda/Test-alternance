@@ -1,23 +1,11 @@
 {
-  "generatedAt": "2026-11-21T15:55:33.7806482Z",
+  "generatedAt": "2026-11-22T15:58:09.2451607Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 1,
-  "nouvelles": 1,
+  "total": 0,
+  "nouvelles": 0,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 7,
-  "offres": [
-    {
-      "id": "4492836808",
-      "intitule": "Collaborateur comptable en alternance F/H",
-      "entreprise": "Cocerto",
-      "lieu": "Cesson-Sévigné",
-      "datePubliee": "2026-11-20",
-      "duree24": true,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4492836808",
-      "nouvelle": true
-    }
-  ]
+  "reposteesEcartees": 0,
+  "offres": []
 }
