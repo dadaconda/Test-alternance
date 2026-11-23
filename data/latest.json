@@ -1,11 +1,67 @@
 {
-  "generatedAt": "2026-11-22T15:58:09.2451607Z",
+  "generatedAt": "2026-11-23T19:53:51.2541830Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 0,
-  "nouvelles": 0,
+  "total": 5,
+  "nouvelles": 5,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 0,
-  "offres": []
+  "reposteesEcartees": 2,
+  "offres": [
+    {
+      "id": "4493629172",
+      "intitule": "Alternant Consolidation - Septembre 2027 F/H",
+      "entreprise": "RYDGE Conseil",
+      "lieu": "Marcq-en-Baroeul",
+      "datePubliee": "2026-11-23",
+      "duree24": false,
+      "matchFinance": "consolidation",
+      "url": "https://www.linkedin.com/jobs/view/4493629172",
+      "nouvelle": true
+    },
+    {
+      "id": "4493733734",
+      "intitule": "Alternance - Assistant(e) Comptable (H/F)",
+      "entreprise": "Bolloré",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4493733734",
+      "nouvelle": true
+    },
+    {
+      "id": "4493780256",
+      "intitule": "Alternance - Contrôle de gestion F/H",
+      "entreprise": "IGENSIA School of Business",
+      "lieu": "Paris et périphérie",
+      "datePubliee": "2026-11-23",
+      "duree24": true,
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4493780256",
+      "nouvelle": true
+    },
+    {
+      "id": "4493777624",
+      "intitule": "Appui au Responsable de Pole Consolidation F/H en alternance",
+      "entreprise": "IGENSIA School of Business",
+      "lieu": "Île-de-France, France",
+      "datePubliee": "2026-11-23",
+      "duree24": true,
+      "matchFinance": "consolidation",
+      "url": "https://www.linkedin.com/jobs/view/4493777624",
+      "nouvelle": true
+    },
+    {
+      "id": "4493659242",
+      "intitule": "Apprenti Finance",
+      "entreprise": "Vendôm Talents",
+      "lieu": "Saint-Tropez",
+      "datePubliee": "2026-11-23",
+      "duree24": false,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4493659242",
+      "nouvelle": true
+    }
+  ]
 }
