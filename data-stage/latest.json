@@ -1,21 +1,241 @@
 {
-  "generatedAt": "2026-11-22T16:11:08.7410163Z",
+  "generatedAt": "2026-11-23T20:04:01.4872920Z",
   "source": "linkedin",
   "type": "stage",
   "fenetreHeures": 24,
-  "total": 1,
-  "nouvelles": 1,
+  "total": 23,
+  "nouvelles": 23,
   "filtreRepostes": true,
-  "reposteesEcartees": 11,
+  "reposteesEcartees": 12,
   "offres": [
     {
-      "id": "4440232303",
-      "intitule": "Stage en droit des affaires / corporate m&a F/H",
-      "entreprise": "Deloitte",
-      "lieu": "Montpellier",
-      "datePubliee": "2026-11-22",
+      "id": "4494005962",
+      "intitule": "Stage Analyste M&A - Banque d'affaires (H/F)",
+      "entreprise": "Crédit Agricole Toulouse 31",
+      "lieu": "Toulouse",
+      "datePubliee": "2026-11-23",
       "matchFinance": "m&a",
-      "url": "https://www.linkedin.com/jobs/view/4440232303",
+      "url": "https://www.linkedin.com/jobs/view/4494005962",
+      "nouvelle": true
+    },
+    {
+      "id": "4493785654",
+      "intitule": "Intern Trainee - Primary Ratings Structured Finance",
+      "entreprise": "Scope Ratings",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4493785654",
+      "nouvelle": true
+    },
+    {
+      "id": "4493905334",
+      "intitule": "Stagiaire - PMO Junior / IT Portfolio Management (H/F)",
+      "entreprise": "LIMAGRAIN",
+      "lieu": "Portes-lès-Valence",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "portfolio",
+      "url": "https://www.linkedin.com/jobs/view/4493905334",
+      "nouvelle": true
+    },
+    {
+      "id": "4493665236",
+      "intitule": "FP&A Cash Analyst Intern - Stagiaire Analyste Financier – FP&A / Trésorerie",
+      "entreprise": "GE HealthCare",
+      "lieu": "Buc",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4493665236",
+      "nouvelle": true
+    },
+    {
+      "id": "4494017869",
+      "intitule": "Stage Contrôle de Gestion H/F",
+      "entreprise": "Onatera",
+      "lieu": "Aix-en-Provence",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4494017869",
+      "nouvelle": true
+    },
+    {
+      "id": "4492624820",
+      "intitule": "Stage - Audit Interne H/F",
+      "entreprise": "ELIS",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "audit interne",
+      "url": "https://www.linkedin.com/jobs/view/4492624820",
+      "nouvelle": true
+    },
+    {
+      "id": "4494040181",
+      "intitule": "Stage Contrôleur de Gestion Bac +3 (H/F) - 3 à 6 mois - Châteaubourg (35)",
+      "entreprise": "Groupe Lactalis",
+      "lieu": "Châteaubourg",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4494040181",
+      "nouvelle": true
+    },
+    {
+      "id": "4493639499",
+      "intitule": "Internship - Fund Operations Private Equity (H/F) - January 2027",
+      "entreprise": "Tikehau Capital",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "private equity",
+      "url": "https://www.linkedin.com/jobs/view/4493639499",
+      "nouvelle": true
+    },
+    {
+      "id": "4493674021",
+      "intitule": "Stage Consultant Actuariat F/H",
+      "entreprise": "PwC France",
+      "lieu": "Neuilly-sur-Seine",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "actuar",
+      "url": "https://www.linkedin.com/jobs/view/4493674021",
+      "nouvelle": true
+    },
+    {
+      "id": "4494035432",
+      "intitule": "STAGE - Junior Finance Partner - F/H",
+      "entreprise": "Havas Media France",
+      "lieu": "Puteaux",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4494035432",
+      "nouvelle": true
+    },
+    {
+      "id": "4493907217",
+      "intitule": "Internship - Middle Office Fund Operations Tactical Strategies (H/F) - March 2027",
+      "entreprise": "Tikehau Capital",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "middle office",
+      "url": "https://www.linkedin.com/jobs/view/4493907217",
+      "nouvelle": true
+    },
+    {
+      "id": "4493798541",
+      "intitule": "Finance & ops officer - stage",
+      "entreprise": "leakmited",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4493798541",
+      "nouvelle": true
+    },
+    {
+      "id": "4493682130",
+      "intitule": "Stage - 6 mois - Financement de projets (F/H)",
+      "entreprise": "PHOTOSOL",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4493682130",
+      "nouvelle": true
+    },
+    {
+      "id": "4494026927",
+      "intitule": "Stagiaire Finance / Comptabilité",
+      "entreprise": "BYD Harmony Auto France",
+      "lieu": "Mareuil-lès-Meaux",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4494026927",
+      "nouvelle": true
+    },
+    {
+      "id": "4493674771",
+      "intitule": "Stage Reporting Financier & Consolidation Achats Bac+4/5 (H/F)",
+      "entreprise": "Volvo Group",
+      "lieu": "Lyon",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4493674771",
+      "nouvelle": true
+    },
+    {
+      "id": "4492640582",
+      "intitule": "Stage - 6 mois - Analyste Crédit Corporate Mid &amp; Large Cap F/H",
+      "entreprise": "Natixis Corporate & Investment Banking",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "analyste credit",
+      "url": "https://www.linkedin.com/jobs/view/4492640582",
+      "nouvelle": true
+    },
+    {
+      "id": "4493641706",
+      "intitule": "Contrôleur de Gestion industriel H/F (Stage 6 mois - Lorient 56)",
+      "entreprise": "StellaGroup",
+      "lieu": "Annecy",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "controleur de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4493641706",
+      "nouvelle": true
+    },
+    {
+      "id": "4492634885",
+      "intitule": "Stage ALM (F/H)",
+      "entreprise": "Caisse d'Epargne Rhone Alpes",
+      "lieu": "Lyon",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "alm",
+      "url": "https://www.linkedin.com/jobs/view/4492634885",
+      "nouvelle": true
+    },
+    {
+      "id": "4492613246",
+      "intitule": "Stage - 6 mois - Equity Portfolio Manager Assistant F/H",
+      "entreprise": "Groupe BPCE",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "portfolio",
+      "url": "https://www.linkedin.com/jobs/view/4492613246",
+      "nouvelle": true
+    },
+    {
+      "id": "4485408610",
+      "intitule": "Stage contrôle de gestion F/H/X",
+      "entreprise": "Socomec Group",
+      "lieu": "Benfeld",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "controle de gestion",
+      "url": "https://www.linkedin.com/jobs/view/4485408610",
+      "nouvelle": true
+    },
+    {
+      "id": "4493764263",
+      "intitule": "Stage Private Equity Direct (Janvier 2027)",
+      "entreprise": "ODDO BHF",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "private equity",
+      "url": "https://www.linkedin.com/jobs/view/4493764263",
+      "nouvelle": true
+    },
+    {
+      "id": "4494033049",
+      "intitule": "CS27 – Stage - BAC+5 - Analyste Financier (H/F)",
+      "entreprise": "Renault Group",
+      "lieu": "Guyancourt",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4494033049",
+      "nouvelle": true
+    },
+    {
+      "id": "4493671144",
+      "intitule": "Stagiaire - Conformité Bancaire",
+      "entreprise": "Sfil",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-23",
+      "matchFinance": "conformite",
+      "url": "https://www.linkedin.com/jobs/view/4493671144",
       "nouvelle": true
     }
   ]
