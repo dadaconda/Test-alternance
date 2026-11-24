@@ -1,66 +1,55 @@
 {
-  "generatedAt": "2026-11-23T19:53:51.2541830Z",
+  "generatedAt": "2026-11-24T19:22:29.9167053Z",
   "source": "linkedin",
   "fenetreHeures": 24,
-  "total": 5,
-  "nouvelles": 5,
+  "total": 4,
+  "nouvelles": 4,
   "strict24mois": false,
   "filtreRepostes": true,
-  "reposteesEcartees": 2,
+  "reposteesEcartees": 5,
   "offres": [
     {
-      "id": "4493629172",
-      "intitule": "Alternant Consolidation - Septembre 2027 F/H",
-      "entreprise": "RYDGE Conseil",
-      "lieu": "Marcq-en-Baroeul",
-      "datePubliee": "2026-11-23",
-      "duree24": false,
-      "matchFinance": "consolidation",
-      "url": "https://www.linkedin.com/jobs/view/4493629172",
-      "nouvelle": true
-    },
-    {
-      "id": "4493733734",
-      "intitule": "Alternance - Assistant(e) Comptable (H/F)",
-      "entreprise": "Bolloré",
+      "id": "4494331153",
+      "intitule": "Stage/Alternance Analyste de Financement et M&A F/H",
+      "entreprise": "Mexens ex.Technique Solaire",
       "lieu": "Paris",
-      "datePubliee": "2026-11-23",
-      "duree24": false,
-      "matchFinance": "comptab",
-      "url": "https://www.linkedin.com/jobs/view/4493733734",
-      "nouvelle": true
-    },
-    {
-      "id": "4493780256",
-      "intitule": "Alternance - Contrôle de gestion F/H",
-      "entreprise": "IGENSIA School of Business",
-      "lieu": "Paris et périphérie",
-      "datePubliee": "2026-11-23",
-      "duree24": true,
-      "matchFinance": "controle de gestion",
-      "url": "https://www.linkedin.com/jobs/view/4493780256",
-      "nouvelle": true
-    },
-    {
-      "id": "4493777624",
-      "intitule": "Appui au Responsable de Pole Consolidation F/H en alternance",
-      "entreprise": "IGENSIA School of Business",
-      "lieu": "Île-de-France, France",
-      "datePubliee": "2026-11-23",
-      "duree24": true,
-      "matchFinance": "consolidation",
-      "url": "https://www.linkedin.com/jobs/view/4493777624",
-      "nouvelle": true
-    },
-    {
-      "id": "4493659242",
-      "intitule": "Apprenti Finance",
-      "entreprise": "Vendôm Talents",
-      "lieu": "Saint-Tropez",
-      "datePubliee": "2026-11-23",
+      "datePubliee": "2026-11-24",
       "duree24": false,
       "matchFinance": "financ",
-      "url": "https://www.linkedin.com/jobs/view/4493659242",
+      "url": "https://www.linkedin.com/jobs/view/4494331153",
+      "nouvelle": true
+    },
+    {
+      "id": "4483017577",
+      "intitule": "Stage/Alternance Projet et Transformation Finance H/F",
+      "entreprise": "Butler Collection",
+      "lieu": "Ville de Paris",
+      "datePubliee": "2026-11-24",
+      "duree24": false,
+      "matchFinance": "financ",
+      "url": "https://www.linkedin.com/jobs/view/4483017577",
+      "nouvelle": true
+    },
+    {
+      "id": "4494309121",
+      "intitule": "Collaborateur comptable en alternance F/H",
+      "entreprise": "Cocerto",
+      "lieu": "Paris",
+      "datePubliee": "2026-11-24",
+      "duree24": true,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4494309121",
+      "nouvelle": true
+    },
+    {
+      "id": "4494155682",
+      "intitule": "Alternant Assistant Comptable (F/H)",
+      "entreprise": "Groupe ENVIE Rhône-Alpes",
+      "lieu": "Villeurbanne",
+      "datePubliee": "2026-11-24",
+      "duree24": false,
+      "matchFinance": "comptab",
+      "url": "https://www.linkedin.com/jobs/view/4494155682",
       "nouvelle": true
     }
   ]

@@ -1,34 +1,29 @@
 # Offres d'alternance - Finance / Risques / Analyse (LinkedIn)
 
-_Fenetre : 24 h glissantes - genere le 2026-11-23 19:53 UTC_
+_Fenetre : 24 h glissantes - genere le 2026-11-24 19:22 UTC_
 
-**5 offre(s)**, dont **5 nouvelle(s)** depuis le dernier passage.
-_2 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
+**4 offre(s)**, dont **4 nouvelle(s)** depuis le dernier passage.
+_5 annonce(s) republiee(s) (deja vue(s) sous un autre ID) ecartee(s)._
 
 ## Nouvelles offres
 
-### Alternant Consolidation - Septembre 2027 F/H
-- RYDGE Conseil - Marcq-en-Baroeul - publiee 2026-11-23
-- duree a verifier - mot-cle : consolidation
-- https://www.linkedin.com/jobs/view/4493629172
-
-### Alternance - Assistant(e) Comptable (H/F)
-- Bolloré - Paris - publiee 2026-11-23
-- duree a verifier - mot-cle : comptab
-- https://www.linkedin.com/jobs/view/4493733734
-
-### Alternance - Contrôle de gestion F/H
-- IGENSIA School of Business - Paris et périphérie - publiee 2026-11-23
-- 24 mois OK - mot-cle : controle de gestion
-- https://www.linkedin.com/jobs/view/4493780256
-
-### Appui au Responsable de Pole Consolidation F/H en alternance
-- IGENSIA School of Business - Île-de-France, France - publiee 2026-11-23
-- 24 mois OK - mot-cle : consolidation
-- https://www.linkedin.com/jobs/view/4493777624
-
-### Apprenti Finance
-- Vendôm Talents - Saint-Tropez - publiee 2026-11-23
+### Stage/Alternance Analyste de Financement et M&A F/H
+- Mexens ex.Technique Solaire - Paris - publiee 2026-11-24
 - duree a verifier - mot-cle : financ
-- https://www.linkedin.com/jobs/view/4493659242
+- https://www.linkedin.com/jobs/view/4494331153
+
+### Stage/Alternance Projet et Transformation Finance H/F
+- Butler Collection - Ville de Paris - publiee 2026-11-24
+- duree a verifier - mot-cle : financ
+- https://www.linkedin.com/jobs/view/4483017577
+
+### Collaborateur comptable en alternance F/H
+- Cocerto - Paris - publiee 2026-11-24
+- 24 mois OK - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4494309121
+
+### Alternant Assistant Comptable (F/H)
+- Groupe ENVIE Rhône-Alpes - Villeurbanne - publiee 2026-11-24
+- duree a verifier - mot-cle : comptab
+- https://www.linkedin.com/jobs/view/4494155682
 
